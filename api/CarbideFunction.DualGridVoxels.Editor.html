@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Namespace CarbideFunction.DualGridVoxels.Editor
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Namespace CarbideFunction.DualGridVoxels.Editor
+   ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="CarbideFunction.DualGridVoxels.Editor">
+  
+  <h1 id="CarbideFunction_DualGridVoxels_Editor" data-uid="CarbideFunction.DualGridVoxels.Editor" class="text-break">Namespace CarbideFunction.DualGridVoxels.Editor
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="markdown level0 remarks"></div>
+    <h3 id="classes">Classes
+  </h3>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.GridPlacerEditor.html">GridPlacerEditor</a></h4>
+      <section><p>This class shows information about <a class="xref" href="CarbideFunction.DualGridVoxels.GridPlacer.html">GridPlacer</a> components in the inspector window.
+It shows the default inspector fields and adds buttons for interacting with the constructed model grid - one button triggers a force-refresh of the temporary grid
+and the other button bakes out a permanent instance of the grid's modules that the user can then manipulate afterwards.</p>
+<p>The invocation of the WFC algorithm starts in <a class="xref" href="CarbideFunction.DualGridVoxels.GridPlacer.html">GridPlacer</a>.</p>
+<p>This does not affect the onscreen grid editor - that is implemented in <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.TileMapEditorTool.html">TileMapEditorTool</a>.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ListViewBinder.html">ListViewBinder</a></h4>
+      <section><p>This class contains common functions for binding a ListView to a list in Unity's UI Toolkit.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.html">MarchingCubesAnalyzer</a></h4>
+      <section><p>This class provides the implementation of the analysis of user's marching cubes, reporting any errors or warnings it finds.
+These reports indicate to the user what is wrong and the user can make necessary steps to remedy them, or ignore them in the case of benign warnings.</p>
+<p>The errors and warnings are split into three categories:</p>
+<table><thead><tr><th>Error/Warning Name</th><th>Description</th></tr></thead><tbody><tr><td>Structural errors</td><td>
+These errors are unrecoverable, and will likely prevent both the rest of the analysis and the WFC algorithm from running. They include cases such as internal indices being out of range, or two modules having the same ID.
+<p>The CarbideFunction importer will not generate assets with these errors - if the asset was edited by hand then a reimport will fix them. If a custom importer generated the asset then the importer should be fixed.</p>
+</td></tr><tr><td>Content errors</td><td>
+These errors will prevent modules from being available in the generated map. This means that the work put in to create and maintain them will never be seen by the player.
+This includes cases such as a module&apos;s face not matching any other module faces in the asset, so it will never be picked.
+</td></tr><tr><td>Marching cube warnings</td><td>
+These warnings indicate that some voxel maps will not work if they include specific layouts of voxels. They are a normal and commonplace occurance when developing a tileset, and are even seen in production ready tilesets - for example, a city tileset will typically be built from the ground up, and might not include the modules for voxels overhanging one another.
+</td></tr></tbody></table>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.Report.html">MarchingCubesAnalyzer.Report</a></h4>
+      <section><p>Describes all found issues with the marching cube asset.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.UnconnectableModule.html">MarchingCubesAnalyzer.UnconnectableModule</a></h4>
+      <section><p>Describes a module that cannot be connected and indicates which face cannot be satisfied. Used by <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.Report.html">MarchingCubesAnalyzer.Report</a>.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzerWindow.html">MarchingCubesAnalyzerWindow</a></h4>
+      <section><p>Provides the UI front end of the analysis of user's marching cubes, handling user input and display and delegating all implementation to <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.html">MarchingCubesAnalyzer</a>.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ModelModuleImporterEditor.html">ModelModuleImporterEditor</a></h4>
+      <section><p>This class manages the UI frontend for the <a class="xref" href="CarbideFunction.DualGridVoxels.ModelModuleImporter.html">ModelModuleImporter</a>. It adds buttons and functionality to import basic models into a <a class="xref" href="CarbideFunction.DualGridVoxels.MarchingCubes.html">MarchingCubes</a> asset.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ModelModuleInspector.html">ModelModuleInspector</a></h4>
+      <section><p>This class manages the UI for the module inspector and interacts with the <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ModelModuleInspectorStage.html">ModelModuleInspectorStage</a> to show the modules and their connections to the user.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ModelModuleInspectorStage.html">ModelModuleInspectorStage</a></h4>
+      <section><p>This class acts as a <a href="https://docs.unity3d.com/ScriptReference/SceneManagement.Stage.html">Unity Stage</a> that manages instances of DualGridVoxel module prefabs. It is created and decorated by <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ModelModuleInspector.html">ModelModuleInspector</a>.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.TileMapEditorTool.html">TileMapEditorTool</a></h4>
+      <section><p>This class is a <a href="https://docs.unity3d.com/ScriptReference/EditorTools.EditorTool.html">Unity Tool</a> that allows the user to visually edit <a class="xref" href="CarbideFunction.DualGridVoxels.GridPlacer.html">GridPlacer</a> maps. It affects the data in <a class="xref" href="CarbideFunction.DualGridVoxels.VoxelGrid.html">VoxelGrid</a>.</p>
+<p>Opening this tool will replace the selected GridPlacer's models with a simple voxel grid that can be edited by the user. <a href="../articles/editing_grids.html">See the manual pages for information on how to use the tool.</a></p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.VoxelGridEditor.html">VoxelGridEditor</a></h4>
+      <section><p>This editor window will open while the user selects a VoxelGrid. It handles the cases where the user changes the
+dimensions of the grid, maintaining the contents while changing their dimensions to match.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.VoxelMesher.html">VoxelMesher</a></h4>
+      <section><p>This class manages a naive mesh for a voxel grid.</p>
+<p>It can generate the naive mesh and can map any face index on the generated mesh to a voxel face. This is used by <a class="xref" href="CarbideFunction.DualGridVoxels.Editor.TileMapEditorTool.html">TileMapEditorTool</a> to select which voxel to fill/clear when clicking on the voxel grid.</p>
+</section>
+    <h3 id="structs">Structs
+  </h3>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.VoxelMesher.FaceData.html">VoxelMesher.FaceData</a></h4>
+      <section><p>This struct describes the voxel coordinates for a voxel face.</p>
+</section>
+    <h3 id="delegates">Delegates
+  </h3>
+      <h4><a class="xref" href="CarbideFunction.DualGridVoxels.Editor.ListViewBinder.ApplyContentsToUi-1.html">ListViewBinder.ApplyContentsToUi&lt;TContents&gt;</a></h4>
+      <section></section>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
