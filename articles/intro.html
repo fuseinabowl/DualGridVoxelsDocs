@@ -73,11 +73,18 @@
 <p>It imports 3D cube-tiles from an artist, automatically extracting mark-up and preparing the tiles for use with the voxel grid. The importer has a simple interface and can import a simple set of tiles without you having to configure it. After initial set up, artists can reimport their models with a single click in Unity.</p>
 <p>As your tilesets get larger and you get more experience with the tool, you can configure the importer or edit the source code to have full control on how the models are imported. This will not affect the artist's workflow - they still press a single button to reimport their models.</p>
 <h2 id="when-to-use-dual-grid-voxels">When to use Dual Grid Voxels</h2>
-<p>It is strongest when iteratively developing and changing large worlds with a consistent style.
+<p>It is strongest when iteratively developing and changing many worlds with a consistent style.
 It can also be used as a 'frontend' for voxel procedural generation.
-The algorithm can be run asynchronously, supporting its use in level loading.</p>
+The algorithm can be run asynchronously, supporting level loading.</p>
+<p>The algorithm is deterministic, meaning generating decorations for the same voxels, seed, and tileset will always generate the same mesh. If the tileset includes randomly chosen elements changing the seed can generate different decorations.</p>
 <p>It provides less benefit if you are working on distinct scenes without many shared elements.
-Running the placer algorithm on larger voxel grids and complicated tilesets can take 100s of milliseconds, and some voxel changes could lead to decoration changes far away from where the change was made. Using it in a Minecraft-like would require care and dilligence.</p>
+Running the placer algorithm on larger voxel grids and complicated tilesets can take 100s of milliseconds, and changing some voxels can lead to different tiles being picked far away from where the change was made. Using it in a dynamic world like Minecraft would require care and dilligence.</p>
+<h2 id="getting-started">Getting started</h2>
+<p>Buy the asset from the <a href="https://prf.hn/click/camref:1101loXVT/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F215355">Unity Asset Store</a>.</p>
+<p>Once bought, it will show up in the <a href="https://docs.unity3d.com/Manual/upm-ui.html">Unity Editor Package Manager</a>. Download and install the package.</p>
+<h2 id="feedback">Feedback</h2>
+<p>Please send any feedback to <a href="mailto:anthonydiggle@carbidefunction.co.uk?subject=Dual%20Grid%20Voxels%20feedback">Carbide Function</a>.</p>
+<p>The tool is in active development and I will consider any feedback received when choosing which features or bugfixes to work on.</p>
 </article>
           </div>
           
