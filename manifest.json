@@ -5,11 +5,11 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Edge.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLog.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Edge.html",
-          "hash": "OvyUQ7OUKyygIDv9JQYKM9qIUV8CrGlC5p3n00wYnII="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLog.html",
+          "hash": "YmJAxcnBz7DdD2SY1I1f0TmKo2NWTgshxLXl8u2gZ7g="
         }
       },
       "is_incremental": false,
@@ -17,11 +17,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.GridPlacerEditor.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLogSettingsGetter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.GridPlacerEditor.html",
-          "hash": "nAym7N/+Gj5/ucp9qsVGachPmvTvifTsVVqLMul4qQQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLogSettingsGetter.html",
+          "hash": "80COce1vDn5rCq/jAQj5MT4wC+nLTEmU8vBm3z0JLag="
         }
       },
       "is_incremental": false,
@@ -29,11 +29,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ListViewBinder.ApplyContentsToUi-1.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.DetailedVectorString.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ListViewBinder.ApplyContentsToUi-1.html",
-          "hash": "Tjiy/Dbn2pw6RZgIS+RHTIOPgPi+SUq/VhLp5SOjA2s="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.DetailedVectorString.html",
+          "hash": "7HA/LHzPgplkRw+13uuOarl01yLXqznSkJzZR/xu9AI="
         }
       },
       "is_incremental": false,
@@ -41,11 +41,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ListViewBinder.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.DualGridVoxelMeshBackupTiles.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ListViewBinder.html",
-          "hash": "h4SN4W1cDFs3tzrukX1zexw/iv4zDm2FOvnP8irzKaQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.DualGridVoxelMeshBackupTiles.html",
+          "hash": "tkeZTXT6OhXresXtHjoytAwoRnRO7SegB/42Evk9eGY="
         }
       },
       "is_incremental": false,
@@ -53,11 +53,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.Report.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Edge.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.Report.html",
-          "hash": "D/sFncMX1PF676/qnAN/5r5HOV+Q71JonbiVpxLS6pU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Edge.html",
+          "hash": "sQbHN8wc4C5PA8js4WV1Rl8b7Dlx2StmYzPn80fccUU="
         }
       },
       "is_incremental": false,
@@ -65,11 +65,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.UnconnectableModule.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.CustomDrawing.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.UnconnectableModule.html",
-          "hash": "xswJiaBMjMglBWWqcL30pMgRoxnzNYR0yixvz2Nk8yE="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.CustomDrawing.html",
+          "hash": "YQpOzAw3i/tCdTWe6lAr7FLY2YzqtiIxQIQ6IdkbpCo="
         }
       },
       "is_incremental": false,
@@ -77,11 +77,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.DualGridVoxelMeshBackupTilesEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzer.html",
-          "hash": "iGwcw+2ZKeuG8RKtj85TY99Rut37FsBeLkIVvGKsncE="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.DualGridVoxelMeshBackupTilesEditor.html",
+          "hash": "FRY1K6Ff0ES6GYaZ1YjqBWzfB7QjfL/hKe1+GI6CWKk="
         }
       },
       "is_incremental": false,
@@ -89,11 +89,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzerWindow.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.EditorHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.MarchingCubesAnalyzerWindow.html",
-          "hash": "FGURSSfHWdT+BCYu3hztXSVansXNIq23Kb6/v5x8kCw="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.EditorHash.html",
+          "hash": "PU6VSx/bJ1hT/301mq0NdEJfKeymyvMfbLMMFUvDPVc="
         }
       },
       "is_incremental": false,
@@ -101,11 +101,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleImporterEditor.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.Folder.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleImporterEditor.html",
-          "hash": "fLxOLuaJg3Kbboelpi/NeIQ0Vu90jiNK4kQrA0nix1s="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.Folder.html",
+          "hash": "z+vQ7/1jZ6Yu4E6e0o8ip7JKJmyVNqBHx97CAYVyiz0="
         }
       },
       "is_incremental": false,
@@ -113,11 +113,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleInspector.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.GridPlacerEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleInspector.html",
-          "hash": "m0AmATFrZute46IOzh689lMRn4oHXROxJq3MHNmlbys="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.GridPlacerEditor.html",
+          "hash": "yeyoAs+6B1ART64Pg2tTKr4pruDR0i8cumWfMh2OgS4="
         }
       },
       "is_incremental": false,
@@ -125,11 +125,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleInspectorStage.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.HashFaces.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.ModelModuleInspectorStage.html",
-          "hash": "iAALfFm6ckLmacdU9jpJRIEVDAIImLR/Xz7UAMq58ng="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.HashFaces.html",
+          "hash": "jR9Ug9yjocYbczx0PkuvxDIVYL76c6aQ1GK3Sxxgdm4="
         }
       },
       "is_incremental": false,
@@ -137,11 +137,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.TileMapEditorTool.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ITilesetInspectorDiagnosticsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.TileMapEditorTool.html",
-          "hash": "3/i9phrJqT3QIifs3GZjItprlC/B/AXIlgEEA1N7BVQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ITilesetInspectorDiagnosticsDrawer.html",
+          "hash": "rwOfLPmgn/coSgRJXwztA7+azil1ckv/jFX28/QX/l4="
         }
       },
       "is_incremental": false,
@@ -149,11 +149,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelGridEditor.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.ApplyContentsToUi-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelGridEditor.html",
-          "hash": "e3NTHcRCTct0kcJERzXsDqQLy9xPOgnh7TarOAB8Ssc="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.ApplyContentsToUi-1.html",
+          "hash": "P5CqLG61xBeWQXv/GIH0HVTFNeWKqPBdn2Sk14BomrU="
         }
       },
       "is_incremental": false,
@@ -161,11 +161,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelMesher.FaceData.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelMesher.FaceData.html",
-          "hash": "TK7XUqbq8RqGXtRiLGNeMVhYQcuZeTax7XbMDO5IHXI="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.html",
+          "hash": "LnxG7WrmVXCHsYix9LySDcJYBKyoe1sxX/tdQkJ9OIE="
         }
       },
       "is_incremental": false,
@@ -173,11 +173,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelMesher.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.VoxelMesher.html",
-          "hash": "NLQ6BCx+LmGlxL5Y15wEC8nP70jo29ZiwyiuHxVg3Ew="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.html",
+          "hash": "ogb4dTKbUY0CKB34WRqzVn5QWzwAQNUzgYtCxPkAVCI="
         }
       },
       "is_incremental": false,
@@ -185,11 +185,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Editor.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Editor.html",
-          "hash": "aiWMu8CGHaYISV/X9KMq5m3fKW7SncU4cwFx5LpqqwU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.html",
+          "hash": "ps+ptLwk8ytVn6lkas2g3NQUd51ymniRIdSCp3ggtxY="
         }
       },
       "is_incremental": false,
@@ -197,11 +197,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Face.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Face.html",
-          "hash": "zMlHBboGKMgusPGwPGwiosTydGdiHr6xNO4fxbyEXKk="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html",
+          "hash": "vQJra0ggKE8yREKsbMUjgUmxzJ7mYoTSadLUZPnsv1o="
         }
       },
       "is_incremental": false,
@@ -209,11 +209,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.FaceData-1.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.FaceData-1.html",
-          "hash": "sBRSNiaCOPJ0thCjXbtt3SQDt/CPJp8Jw/gxzjJFqHw="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html",
+          "hash": "T59arVB4vDGOqr1KnOYt3YdSLXEA1XnHx7EshgIm90g="
         }
       },
       "is_incremental": false,
@@ -221,11 +221,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.FaceDataSerialization.SerializationFace.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.FaceDataSerialization.SerializationFace.html",
-          "hash": "+mhcia5aB54rbbqD6RfKLBTYqt/BP5K1dfDAsxSqQIQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.html",
+          "hash": "lOMuMxM8fpkJfHFhDdORuJ5DksWrsSBuGb4ezQ3OwZo="
         }
       },
       "is_incremental": false,
@@ -233,11 +233,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.FaceDataSerialization.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.FaceDataSerialization.html",
-          "hash": "b+qnHLX7a8aHGWQUO+CQs8/01xnjDhiXPc4YAYTsHqk="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.html",
+          "hash": "KJretPz7aoixAhov8b4aHH0zni4Ya+oZB3PazFcRaSg="
         }
       },
       "is_incremental": false,
@@ -245,11 +245,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.FaceHash.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TileMapEditorTool.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.FaceHash.html",
-          "hash": "BZjzMiaCBzESUkQ67dWLFoNE3GSt74AMdIDdLwXx69E="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TileMapEditorTool.html",
+          "hash": "dv84w22HQG3eU27cnrEmehhE2swFX855gddBL3N+zmo="
         }
       },
       "is_incremental": false,
@@ -257,11 +257,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.FlatArrayIndex.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.Report.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.FlatArrayIndex.html",
-          "hash": "P7nz3xdnM4YGxegSTm1bkNhyCZX1NWabfu+HFFIz8ek="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.Report.html",
+          "hash": "Ni/Yj3WXnxabWRPvvf3MS8bpfVNJ4m6oibL4y/4/3oI="
         }
       },
       "is_incremental": false,
@@ -269,11 +269,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.GridPlacer.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.UnconnectableModule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.GridPlacer.html",
-          "hash": "8Y30HoNblnS+Ukfd4iSsOPUwpbkK92HJDS5ozRzQak0="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.UnconnectableModule.html",
+          "hash": "VD1rQasD07P1iBpeCiCOcyYQ367Y7sYDbTW0U/mo2bs="
         }
       },
       "is_incremental": false,
@@ -281,11 +281,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Hash.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Hash.html",
-          "hash": "xTUZHdTl+SIF1d9SgHAvmhgsXFlrMbathByKuuW5SKs="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.html",
+          "hash": "fykhZjunwaFFtM2do7i0akLhMRJ7V8YUGz3xiQWGSPA="
         }
       },
       "is_incremental": false,
@@ -293,11 +293,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.InsidenessCalculator.LineIntersectionResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzerWindow.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.InsidenessCalculator.LineIntersectionResult.html",
-          "hash": "4QeqpJPa3uZZ4nj32gLqxfJknE8tsl+8nVk6jUNqekw="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzerWindow.html",
+          "hash": "7UT029k4WNLjLu5Q0HRNbXjah8rbQRfCBI7uBFEtWSc="
         }
       },
       "is_incremental": false,
@@ -305,11 +305,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.InsidenessCalculator.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.DeepHashCollisionReporter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.InsidenessCalculator.html",
-          "hash": "1oPAeM/2YUbNM4rr/qMFleXnjmYosxK+pSCOO4Jqzw4="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.DeepHashCollisionReporter.html",
+          "hash": "oZk8ij+7M8Lxa9yluHNpavbh2T15kVxrzcb6MEmKB0M="
         }
       },
       "is_incremental": false,
@@ -317,11 +317,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.CubeConfiguration.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.CubeConfiguration.html",
-          "hash": "thVVraIMUw2I9FsZysEYGZ54Zv+Q5dh3w2yhTumunDM="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.html",
+          "hash": "SIoW3LdTQx04nKs+rE6lwOvuxoU7hzQdx4uZNKzPSpo="
         }
       },
       "is_incremental": false,
@@ -329,11 +329,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.FaceHashToOppositeFaceHash.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.HashCollisionReporter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.FaceHashToOppositeFaceHash.html",
-          "hash": "Sv3Sg8RhBbPOTRjdBIWjpYvmESZu8aqHf7qX67bIih8="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.HashCollisionReporter.html",
+          "hash": "IT+pPWW4byOj8nnY71cVO4JovR22UC9xCf3mW8F+dss="
         }
       },
       "is_incremental": false,
@@ -341,11 +341,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubes.html",
-          "hash": "X3BtaXvs2TdxB8AlAZP3Ly6GEDO+VW3xM8LaDcNfay0="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html",
+          "hash": "nTW3GPvytlcvQOI7tZ06Q2yO3GkZA9YMYqItUAfkawE="
         }
       },
       "is_incremental": false,
@@ -353,11 +353,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubesToWaveFunctionCollapser.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.MarchingCubesToWaveFunctionCollapser.html",
-          "hash": "MSXroUSoNxGGiodRfp+CV42hECJ78RJsVkGRgQiloNQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.html",
+          "hash": "FYb2/siyBH7NkdWwm6M5DBqgG2qPdFyHIx16OpK9URo="
         }
       },
       "is_incremental": false,
@@ -365,11 +365,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelModuleImporter.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelModuleImporter.html",
-          "hash": "oNroNAXunOLH9bDgTeke+7itrRL45pHUcxorjYiJqiY="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspector.html",
+          "hash": "uLylUR5Q4rYg5mreVaj4hGdqcZELQN7jqkYs4321Ql4="
         }
       },
       "is_incremental": false,
@@ -377,11 +377,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveEdges.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.ComparisonResult-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveEdges.html",
-          "hash": "XkZ9Jjilj9ZXzGlhUx138i1di7/t4Qu83epp1jgCE7w="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.ComparisonResult-1.html",
+          "hash": "m4wxwtJRF3hR1WlCjk80t6j7GbBlTsV+ecE6ypixt6o="
         }
       },
       "is_incremental": false,
@@ -389,11 +389,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.Hash-2.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.html",
-          "hash": "y7VaNnVl1uUP87XHKd/eAvJqSgnuE/CZETjeVgU/1DA="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.Hash-2.html",
+          "hash": "sx3ZqBqzbDdYJlRefOKfewyrCfBs+NOM/8K0qVqICVg="
         }
       },
       "is_incremental": false,
@@ -401,11 +401,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html",
-          "hash": "nEBr7oTmDuIiG7FVRg8eyQspGQJgsISpg8JFTDwVbmo="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.html",
+          "hash": "jye/WAHm4iP2lAjHAQEzE2hU2ozUaMMJ4mGfnYC/8YY="
         }
       },
       "is_incremental": false,
@@ -413,11 +413,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ModuleConnectivityData.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.ModuleConnectivityData.html",
-          "hash": "QvB5ACLizL/i5y6vOzc20mG6tQkQ99IKWTs0gp/Z+z0="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.html",
+          "hash": "7FweV7FuzmTVnKtuz6RzF30qM5EhhCg4Wz7B+8sUTgU="
         }
       },
       "is_incremental": false,
@@ -425,11 +425,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.html",
-          "hash": "w/g7dTMAwcuyCexKYrVLh6rCdHCUcu8IoBWcrLWFlcU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html",
+          "hash": "WFr1Pp69AW0epBSHbR+dYXIVfuJMDPcow3cvD1MqYc8="
         }
       },
       "is_incremental": false,
@@ -437,11 +437,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.ModelTileConnectivityCalculator.html",
-          "hash": "dZmJfv1kBQGqFKy490OWXeZqtZ42GLoKCT2MWXP0nZU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.html",
+          "hash": "y7fZNnt8qRbLWfVzFAXwfkqRWhFub12CY6QY9mVUHuc="
         }
       },
       "is_incremental": false,
@@ -449,11 +449,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Module.FaceHashes.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Module.FaceHashes.html",
-          "hash": "Wu7a66BDerS4zHuLeOpaJvQDUgESykLtxycMcMudo6k="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.html",
+          "hash": "dsEdAJh/IHj1PGW2cXkd0f8aZKByirvf5SR6c1hiQaU="
         }
       },
       "is_incremental": false,
@@ -461,11 +461,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Module.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Module.html",
-          "hash": "GJKI7nmyYDYku7ffCL4EKhev51Y5rKbk1ItrNpAOl8s="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html",
+          "hash": "kDMe8+u2GYgnbQ1R6gCVv/UwG3VJYKjqqjD186VQ2hM="
         }
       },
       "is_incremental": false,
@@ -473,11 +473,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.NeighborConstraint.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.NeighborConstraint.html",
-          "hash": "1Gbx4Agt+ImxWNp8r25XqwwxSVTyUbu7/4chB4w82PE="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.html",
+          "hash": "490KPpwsNnQ647esvSfPdREZJRk47BOomY6R14zLS3I="
         }
       },
       "is_incremental": false,
@@ -485,11 +485,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.PositiveModuloLibrary.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.PositiveModuloLibrary.html",
-          "hash": "AmXB6CIvZKRbZYoqdY16kFpWCKa0ZEWvm1LVOo9sVSc="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.html",
+          "hash": "M15aX8wsa8X/NTfSR4WtNz3WISIDm0Kikh0G0eD4VLg="
         }
       },
       "is_incremental": false,
@@ -497,11 +497,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.DoWithSlot.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.DoWithSlot.html",
-          "hash": "aBt6YUsOnvik3KoTLy8e3lmZibiuwzy0Coks+/Zp4hQ="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html",
+          "hash": "4ihI07lmMvyjM5fVBCdbjDfAkSUtihER+E74uqJl2n8="
         }
       },
       "is_incremental": false,
@@ -509,11 +509,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.FullPropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.FullPropagationResult.html",
-          "hash": "y6aI+Pd0XcfWDyPMQmcOOVF1l4n2383l4HByPu0i1VI="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.html",
+          "hash": "R28JKZLcuxjuD6VycyMA2WsuxEIslSer7C/AIF2GT0w="
         }
       },
       "is_incremental": false,
@@ -521,11 +521,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.PropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.PropagationResult.html",
-          "hash": "VTlYyjktSQK7mbqlZaqoU1N7aYkquhLmw9WgkAR+d1g="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.html",
+          "hash": "k1O0YTPMrelhQrJVjQ0Zch0AX0HCPjtpwJH2evlC+oU="
         }
       },
       "is_incremental": false,
@@ -533,11 +533,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.ReportPropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.ReportPropagationResult.html",
-          "hash": "EgljWehqx7Fnfks9/svtVfX9nxlFFbMqNS1h3lSWmpM="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorSettings.html",
+          "hash": "905Y/bsAqrRVjsEtlIjV0NAj4zdnEkV+KskNk3WW78I="
         }
       },
       "is_incremental": false,
@@ -545,11 +545,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorStage.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Propagation.html",
-          "hash": "uMWBWnfxTmNTQV9xTqvyL0CHunx9SCT6+4fJBr+djVw="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorStage.html",
+          "hash": "8RTaf55hh1npAapeSTCplfOXf/nniA6sRF1Aa/2t0zc="
         }
       },
       "is_incremental": false,
@@ -557,11 +557,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Slot.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.LoggingEnabledChanged.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Slot.html",
-          "hash": "Ax6znXQjtr+UXmFiAM8aebULRkAYCRNiGYA4lJuTR7g="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.LoggingEnabledChanged.html",
+          "hash": "GA4dJ0JKBRSQDBLnqzXIH2XOFChq/wZL8gnI0KJfO4I="
         }
       },
       "is_incremental": false,
@@ -569,11 +569,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.SlotEdge.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.SlotEdge.html",
-          "hash": "aI8sqkJ7LNasLImYyaKdzTOYUcAViV/gKDAWQC6Ej1Q="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html",
+          "hash": "0qNj4bFyzOwOG325r+fXKiil356zgbNoYrfUGfiM6z0="
         }
       },
       "is_incremental": false,
@@ -581,11 +581,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.SlotGrid.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.SlotGrid.html",
-          "hash": "px8oCnfWG1KJq2PRiYrV9yMTKYMndhB4+zFFpU8VfEM="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider.html",
+          "hash": "w+9cQ/c8+3e4UcR4bsjH962CsaUTXHWiz5Z6qWornN0="
         }
       },
       "is_incremental": false,
@@ -593,11 +593,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.TransformedModule.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelGridEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.TransformedModule.html",
-          "hash": "43x5ASRgS0IXyCbNupX2eTMg4zWTQA8Dj0ur3zKZ8tc="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelGridEditor.html",
+          "hash": "qGboc2qP4aOatI2w9me8w/2JPT/mkAaHiJGNmfQgp4s="
         }
       },
       "is_incremental": false,
@@ -605,11 +605,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.Triangle.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.FaceData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.Triangle.html",
-          "hash": "ggpsX6o0DtImEcDcbyzG+xlFbhepDsDLg8PSCLO2+4A="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.FaceData.html",
+          "hash": "3Bf52an02b7fmGp91qaTOUTkul7S0HmcLOd+s/w0nts="
         }
       },
       "is_incremental": false,
@@ -617,11 +617,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.VoxelGrid.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.VoxelGrid.html",
-          "hash": "MwFoSmCQsulq3XSJZhFd3oIV+ys/Bn75kKCD0MQOkFU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.html",
+          "hash": "q0UapJGtk5z9Pns2ECIM7qsSBzwdzLb10tbQ3sAFKp4="
         }
       },
       "is_incremental": false,
@@ -629,11 +629,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.CollapseResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.CollapseResult.html",
-          "hash": "wDmcciS9h/GTuQqDmo3EaJj1k8PuydrBB4Rcbdr7a3k="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.html",
+          "hash": "pECSxFN66/AvEB+FPQNOb+uFHZWthXBqrYwCcBbX3Yg="
         }
       },
       "is_incremental": false,
@@ -641,11 +641,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.ReportCollapseResult.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Face.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.ReportCollapseResult.html",
-          "hash": "YMez4wlinCzIKOS755tU0kG3gJ2QcdkK6BGcACIdkqg="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Face.html",
+          "hash": "JyMZXSeXCUQ5ivrRG6qUwqzKZM5k6qlG8+aN/DfdUIY="
         }
       },
       "is_incremental": false,
@@ -653,11 +653,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceData-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.WaveFunctionCollapser.html",
-          "hash": "VmLpQ/D27umFOtWCVMWRmcB+tS0T3an9D9ZBNBVsodU="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceData-1.html",
+          "hash": "jUviEK92TuqGhGBNClBpYyvTGRfnukJEwHBM6+qDlxY="
         }
       },
       "is_incremental": false,
@@ -665,11 +665,719 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.DualGridVoxels.yml",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.SerializationFace.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.DualGridVoxels.html",
-          "hash": "wGV1JejcEMYbgRiasKsCO8c0DBaUUdZwS9euXkQ7Rb4="
+          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.SerializationFace.html",
+          "hash": "LQTv1R0okAOC4bFLiMuHKcWq27iFEptfQA7dTrERMlQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.html",
+          "hash": "XTZiM/xPHwyPFGc4XU7hTWC0Jtsqs0BzNYkMkz1tzyc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceHash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceHash.html",
+          "hash": "YrZ29K6MCKVasnpKC/f0ckWU8yizFlwX5U2npW53YSM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FlatArrayIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.FlatArrayIndex.html",
+          "hash": "ggjmukRPVLm+X1NK63KSzrvtfw4cSCF0AMkJLw7mhJk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.GenerateMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.GenerateMessage.html",
+          "hash": "8ihwrg/Mp/ecdqeCBQXOxTlIaOS/B/Kosw5n1MKUKVM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.html",
+          "hash": "bUld49S8aV2IWDKJhyy1qqzg3JclYgH75gEiROG9USo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete.html",
+          "hash": "h2DWLGogKKeCHTF4qWTdcg38G+ZkgEzuAWeFamh57W0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.html",
+          "hash": "rcMkVGaIb3HHA773xza/eN78CVOOU6NWcovTVE6WEWA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Hash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Hash.html",
+          "hash": "pJmysekrwGFowVYc/dK5j8K5nFNeSTCHvhiSkayeDoU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.IIsLogEnabledGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.IIsLogEnabledGetter.html",
+          "hash": "czTCWYHjGKqFFbi2sT8QDv2JbE24L+yUjbkYEgaX/Ag="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLog.html",
+          "hash": "KtIFn2OOfhQ+qJA5fsdg0Y3AY59e5KPuh4a636VKMfE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLogSettingsGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLogSettingsGetter.html",
+          "hash": "XGzaC1NgSoh7MhsIgTz2+PdKeI7XwtadbPYaH5nE/yo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.MaterialImportSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.MaterialImportSettings.html",
+          "hash": "PFBlVWQWmhOMUJLxRbQ3K07y9Dc0H0t1B4lP6LtrxRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.Settings.html",
+          "hash": "AUYtj/N6x8ybHpacG5CEFRvfrt6Kdgu8Ne9XlcdftwM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.html",
+          "hash": "LPui4ggO09sGO1rLhiLhK8EeKa3/3KS+epH6GUTkuT0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.LineIntersectionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.LineIntersectionResult.html",
+          "hash": "3da1kgAOL2eYv+TWzVjwmkO6N3o8Yfc2jTMZfqTLGM4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.html",
+          "hash": "VrTHxyAM6B72bNwii+DhycczJqCE93z94mcKwvpPsJ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.MenuConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.MenuConstants.html",
+          "hash": "QU5HrdEQvQuTTT1fkDUK5tHrpp1u21n8WdXPvNeaavI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Module.FaceHashes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Module.FaceHashes.html",
+          "hash": "cLpgxa+pdbVifByh5++oSCC2LkuCyjOwqkmz5OBDvjQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Module.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Module.html",
+          "hash": "HH2i7EoDj5uFPcRUoAAQDbBvZJim+ryCR+5IfCgJppw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.NeighborConstraint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.NeighborConstraint.html",
+          "hash": "SEE7eGCaQkfXpLFbz/PXpbke+WN9L7jeope8qOdhHqs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessor.html",
+          "hash": "U6IxKWZlJGYkpGmNByaYw8FFS+GnPl6+UaUSp/+Bfz8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessorCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessorCreator.html",
+          "hash": "mw6h+m6TJAUSUB6bey8GD05RsKFELOObGJWvww4shPA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.html",
+          "hash": "nlohO1sMerAVg4bUOWL1HhsFlplT11jdIn/qo1qCA8g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PositiveModuloLibrary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.PositiveModuloLibrary.html",
+          "hash": "8nhB/A6mYasLZEWLqEb6gdynVjLypq7wF2hF3pgv8b4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.Slot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.Slot.html",
+          "hash": "TCzGNS+E+acpIH4Gm1Jk5LCnjpzOslz4oD9VJTcNecA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.html",
+          "hash": "CQV2TKpgNmivy6GxHK5LsxjL1zQiu5jk3ih3yd6Cw8A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.Postprocessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.Postprocessor.html",
+          "hash": "IikxXqOmdMr9zmKHqSL7iri5TVUBPocxD/O4AfhY9/w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessorCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessorCreator.html",
+          "hash": "iDzXnrBezVNOzb7sC92bJchX0AUHjenKIYIIZiAGIwQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.html",
+          "hash": "4o3QI+Z6MhidRz8T+ospeYnAoma7YDaRfCmZKlPQ5yE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.DoWithSlot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.DoWithSlot.html",
+          "hash": "LnyTEFGIuU+fzC45ihI7Jnfgm207tAbhIRGX9JdU2xE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.FullPropagationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.FullPropagationResult.html",
+          "hash": "6rltL2u4l/yRkJwhxklGhOgwN8X7C7z7oomLnOPMcik="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.PropagationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.PropagationResult.html",
+          "hash": "7H5gkoJ3R01NM5HIjjzXQXtt6+V0td2HpZCkw0REp2E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot.html",
+          "hash": "QmOrw5UOI5+qLdG2r7vldohILAY44bSotl47rlXdU7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult.html",
+          "hash": "TmuccBn4Ja2BOJl2oWHctA3sbT6R+fWgZAMJ45d00dA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.html",
+          "hash": "q8xblnnyw8BLHHv2Iq9BN2SohUnoLOjkXuDnv9AG7qg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.QuantizedVector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.QuantizedVector.html",
+          "hash": "n9lrADYszL08vmiNTufCa/MumCAnl9tMdHoEXE+9fZs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Slot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Slot.html",
+          "hash": "3HVklt6jHttc0u+UdIg512OpQt7fxKkRcUVie5RzCXI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.SlotEdge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.SlotEdge.html",
+          "hash": "3ZW0ZsY0ArEIMIG0p9A+5g3A7og3Hh35pjEpULP6sls="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.SlotGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.SlotGrid.html",
+          "hash": "kYfJdItNCJvY74k4pUdWbzCGIkhDMms2S8zM3JuAidQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.CubeConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.CubeConfiguration.html",
+          "hash": "humRb7q3c3vF51jnSVrOsMYdkNP6Y5MtHoclLTQm1Ho="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.FaceHashToOppositeFaceHash.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.FaceHashToOppositeFaceHash.html",
+          "hash": "81SkerLsl4GcvBSE/Edi7q+J1f283d91MHGsJvEFVUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.html",
+          "hash": "89lZcqw4OPj9f2GdvXYwz4wDcEkIW/3imoD6ttFl4/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.OnTilesetChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.OnTilesetChanged.html",
+          "hash": "cn4uPAuh1zYY9n/lV/W/J8wba/7+dhjS+Ip7MOBB3Zs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.html",
+          "hash": "62KMPgggBwTOb4RKdXXwTXrBfk973cTvJvBsd67peeA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetToWaveFunctionCollapser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetToWaveFunctionCollapser.html",
+          "hash": "txU6+pkk0Qdy/4u6JM1LshVGcpIuwQperMDVgT8EBT4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TransformedModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.TransformedModule.html",
+          "hash": "fF/fGQnc6DGhusi7LohXP5frbvytjqGvgWpVyAOWoxc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Triangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Triangle.html",
+          "hash": "iYp3gRyAIfVcp4PjP/H5k4EsfGe3ZYfSDcZzdVNkI5c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.VoxelGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.VoxelGrid.html",
+          "hash": "YpqC+1fpqAKRmoWqV15KrB99JrGBwu9/eNBm2gNL+Z8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.CollapseResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.CollapseResult.html",
+          "hash": "sgPDvAVOaf26BiIq4C6Fsb9usQT8Vj3oxacL/nR7+a4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.ReportCollapseResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.ReportCollapseResult.html",
+          "hash": "ni/cIMkPTs3SZBi0mlggfLuzNOuE1WiUquPMxyvu7wY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html",
+          "hash": "tYjZAtnq+LpB0hWrjluMYObSXfsYPvl0ffqPBjQUIi8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessor.html",
+          "hash": "hK4etl13dxs/IQf2idVulcPHUUhYFnY23u06Pp/N/74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessorCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessorCreator.html",
+          "hash": "aS552m/hJ+mhj1BKo5fxwgTgFIwlFs5Vr6FjL3pN/74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.html",
+          "hash": "uBuyEPxZLUidrNvrmzLoTxgRHknwW/EOvG6wOz5ip+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.CreateCollapsibleCalculator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.CreateCollapsibleCalculator.html",
+          "hash": "nCt0P3fEnu/ua2ck+tvSUv27hyVIRXxmzJ2Ni/5r9Rw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportCollapsible.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportCollapsible.html",
+          "hash": "/8UQ6sjhJvtpCenHhHVZifUqEX4UUox9z31rWRv2ZWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.html",
+          "hash": "D98Kd0dYEtr6eiBkMlks64TiPiu70KN3zPlONFD+f6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.html",
+          "hash": "Vo/O5z9LTb6ZSzdNBZ+AQWzcJdHb/XNxIW5t6zaT/gs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.html",
+          "hash": "m6X+qv9Jy1KQV1o+eZaRSEUSDApZITmTxpMAMnPNU3M="
         }
       },
       "is_incremental": false,
@@ -681,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "FPsDB36vGjdq5PDIDYrCVi1MFHqvibqNMOaRT4/En/U="
+          "hash": "+UGwbYoZmtSFOQyGIAiUfRb3v+M3YKCJtHw1fdd6eT0="
         }
       },
       "is_incremental": false,
@@ -693,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "MGu6QwTpUgBHosZh2yXP2833aikrBwTuQwi3POlX5XE="
+          "hash": "UCHYhbOVLAzZTzlFV7zqK7gAB7ZaCwWj3tO5vVxTUUY="
         }
       },
       "is_incremental": false,
@@ -705,7 +1413,19 @@
       "output": {
         ".html": {
           "relative_path": "articles/editing_grids.html",
-          "hash": "iW5SFYo96chhO+dmb0hdz/wE5sGdQVLTptbZUqjlYPc="
+          "hash": "ba2+f8nGz3f8Lt2p9TNBOkUrrCg2UiNTZtN+fGGatFU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting_started.html",
+          "hash": "jIeuvmUYTO15s8r48YWKsVFGA48iiSPbuhGcNoY45Yk="
         }
       },
       "is_incremental": false,
@@ -717,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "7NMeHwE98troNA4kEtjTmw/wU62L+qYJVPy7NPVh7T4="
+          "hash": "fTYh1Ko2xFfzIkE34d5i2qefjcXb+3NgbjgDNYTaBYg="
         }
       },
       "is_incremental": false,
@@ -729,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "ZfPN+h2ijFU52RXxjmFYSlle8OIiRkHSkWUnPkR4wBw="
+          "hash": "tRDokD0PrHAK8cBkQkYuDS/bCmDmhpMFjUrXAYe1NTw="
         }
       },
       "is_incremental": false,
@@ -741,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "AWev5qMHrl2qhJcM/MAvkyPen4iZcGHrQ0C5yeSAU2Y="
+          "hash": "Q9dMwUODj04+ke42q2uov5jvjs7kf/y2fFBycA4Bw3M="
         }
       },
       "is_incremental": false,
@@ -753,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+          "hash": "Vj5Zq0Ucq1e0QqRWjIn9oV8SXdYj7TfNsPJySDZRxDI="
         }
       },
       "is_incremental": false,
@@ -774,13 +1494,13 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 5,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 56,
+          "total_file_count": 115,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

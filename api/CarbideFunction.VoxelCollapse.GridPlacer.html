@@ -1,0 +1,443 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class GridPlacer
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class GridPlacer
+   ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="CarbideFunction.VoxelCollapse.GridPlacer">
+  
+  
+  <h1 id="CarbideFunction_VoxelCollapse_GridPlacer" data-uid="CarbideFunction.VoxelCollapse.GridPlacer" class="text-break">Class GridPlacer
+  </h1>
+  <div class="markdown level0 summary"><p>This Unity component manages the grid placing during edit time and runtime.</p>
+<p>It will automatically generate a mesh when the world starts, both in editor and in the game. It can also generate the mesh later by calling <a class="xref" href="CarbideFunction.VoxelCollapse.GridPlacer.html#CarbideFunction_VoxelCollapse_GridPlacer_GenerateNow_System_Boolean_">GenerateNow(Boolean)</a>.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">GridPlacer</span></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CarbideFunction.VoxelCollapse.html">CarbideFunction.VoxelCollapse</a></h6>
+  <!-- <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6> -->
+  <h5 id="CarbideFunction_VoxelCollapse_GridPlacer_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class GridPlacer : MonoBehaviour</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_backupTiles" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.backupTiles">backupTiles</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DualGridVoxelMeshBackupTiles backupTiles</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.VoxelCollapse.DualGridVoxelMeshBackupTiles.html">DualGridVoxelMeshBackupTiles</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_createBottomTiles" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.createBottomTiles">createBottomTiles</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool createBottomTiles</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_createSideTiles" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.createSideTiles">createSideTiles</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool createSideTiles</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_createTopTiles" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.createTopTiles">createTopTiles</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool createTopTiles</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_map" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.map">map</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public VoxelGrid map</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.VoxelCollapse.VoxelGrid.html">VoxelGrid</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_maxCollapseSteps" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.maxCollapseSteps">maxCollapseSteps</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int maxCollapseSteps</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_maxInGameSecondsPerFrame" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.maxInGameSecondsPerFrame">maxInGameSecondsPerFrame</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float maxInGameSecondsPerFrame</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_maxPostprocessSteps" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.maxPostprocessSteps">maxPostprocessSteps</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int maxPostprocessSteps</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_seed" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.seed">seed</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int seed</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="CarbideFunction_VoxelCollapse_GridPlacer_Tileset_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.Tileset*"></a>
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_Tileset" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.Tileset">Tileset</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Tileset Tileset { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.VoxelCollapse.Tileset.html">Tileset</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="CarbideFunction_VoxelCollapse_GridPlacer_GenerateNow_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.GenerateNow*"></a>
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_GenerateNow_System_Boolean_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.GenerateNow(System.Boolean)">GenerateNow(Boolean)</h4>
+  <div class="markdown level1 summary"><p>Generates a new mesh of modules using the associated map and tileset assets, and returns once the mesh is fully generated.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GenerateNow(bool clearExisting = true)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">clearExisting</span></td>
+        <td><p>If true, clear all of this transform's children before generating the new mesh from the assets.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="CarbideFunction_VoxelCollapse_GridPlacer_GenerateOverTime_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.GenerateOverTime*"></a>
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_GenerateOverTime_CarbideFunction_VoxelCollapse_GridPlacer_OnGenerationComplete_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.GenerateOverTime(CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete)">GenerateOverTime(GridPlacer.OnGenerationComplete)</h4>
+  <div class="markdown level1 summary"><p>Starts generateing a new mesh of modules using the associated map and tileset assets over time.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GenerateOverTime(GridPlacer.OnGenerationComplete onGenerationComplete = null)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete.html">GridPlacer.OnGenerationComplete</a></td>
+        <td><span class="parametername">onGenerationComplete</span></td>
+        <td><p>Called when the coroutine finishes creating the transformation of the voxel grid into models</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="CarbideFunction_VoxelCollapse_GridPlacer_InterruptMeshGeneration_" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.InterruptMeshGeneration*"></a>
+  <h4 id="CarbideFunction_VoxelCollapse_GridPlacer_InterruptMeshGeneration" data-uid="CarbideFunction.VoxelCollapse.GridPlacer.InterruptMeshGeneration">InterruptMeshGeneration()</h4>
+  <div class="markdown level1 summary"><p>Stop the generation that's currently in progress if there was one. This is silently ignored if there was no generation started, or if the generation has already completed.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void InterruptMeshGeneration()</code></pre>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
