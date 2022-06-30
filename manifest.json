@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html",
-          "hash": "kDMe8+u2GYgnbQ1R6gCVv/UwG3VJYKjqqjD186VQ2hM="
+          "hash": "ESSmhLYhn6j/+MQiIhB/qZDbZ2ZUX2YWQ6W7Jdk7hsQ="
         }
       },
       "is_incremental": false,
@@ -557,6 +557,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.html",
+          "hash": "6xywyiiSGc+Wi9z0WXOGPPRpb98xPCNYH716ph7QbeY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.LoggingEnabledChanged.yml",
       "output": {
         ".html": {
@@ -573,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html",
-          "hash": "0qNj4bFyzOwOG325r+fXKiil356zgbNoYrfUGfiM6z0="
+          "hash": "eHTSV6y18x2QMIHLbQ+IOqKMTZX9LPPoNX+CgftEgIs="
         }
       },
       "is_incremental": false,
@@ -633,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.html",
-          "hash": "pECSxFN66/AvEB+FPQNOb+uFHZWthXBqrYwCcBbX3Yg="
+          "hash": "vyw1caS+b3CxI2CMq2wH8iHdMngn923hdLIg7WPllmY="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html",
-          "hash": "tYjZAtnq+LpB0hWrjluMYObSXfsYPvl0ffqPBjQUIi8="
+          "hash": "U4J+ijj5jaT5vxY1/w3N1t5ly/MJ4le+PqP+Td2KGvQ="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1413,55 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "UCHYhbOVLAzZTzlFV7zqK7gAB7ZaCwWj3tO5vVxTUUY="
+          "hash": "Dp1IiPUFmoJxkKUzaNxCkTsE8yLCYmySrFvOvzYlc0A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/advanced_features.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/advanced_features.html",
+          "hash": "ccV3ZLe79UfWZlb/DTmR77w+KxrsGJ4ZFhnDGvmYM84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/change_log.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/change_log.html",
+          "hash": "muswQbjuSpWXqILEKlFg3uIJnr2s73PXQYIhU1ZkqX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/create_tileset_workflow.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/create_tileset_workflow.html",
+          "hash": "jgF1mkc0pFtl9EmQD+ut7WlXmH8n4e4SinfhX7Mdy2o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/debugging_tileset.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/debugging_tileset.html",
+          "hash": "2eDJ2DfRw0+riJah4+6IBdKx9dwPBbl8xzItzJY4teA="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/editing_grids.html",
-          "hash": "ba2+f8nGz3f8Lt2p9TNBOkUrrCg2UiNTZtN+fGGatFU="
+          "hash": "h0BucrB0+DQb8CUyG693O4dlVX0wSHTyKyfYZ2riLJ0="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1485,19 @@
       "output": {
         ".html": {
           "relative_path": "articles/getting_started.html",
-          "hash": "jIeuvmUYTO15s8r48YWKsVFGA48iiSPbuhGcNoY45Yk="
+          "hash": "YWmTiw//Oq1D2SQCL2lZrUP/BYY/tT7AM8RtIJhThF8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/import_settings.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/import_settings.html",
+          "hash": "o0r/aLnZ8h33pI2wP+zsjSLg4H1odgvIXzb2rbUIkSA="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1509,19 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "fTYh1Ko2xFfzIkE34d5i2qefjcXb+3NgbjgDNYTaBYg="
+          "hash": "nFeBh/ZGZASj26MnB11v1s6n7j5IGVDBGbcB3mR7d8s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/model_slicing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/model_slicing.html",
+          "hash": "x9cSrQiVeAD3vBCqWaujfBOs5iBnzQNHXLQlhmisYws="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1533,260 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "tRDokD0PrHAK8cBkQkYuDS/bCmDmhpMFjUrXAYe1NTw="
+          "hash": "fqxZzasKD72/jiQNqYgotQBESQyN4r1TBvfALnCSTrU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "assets/blender_tile_sample.7z",
+      "output": {
+        "resource": {
+          "relative_path": "assets/blender_tile_sample.7z"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create_grid_placer_component.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create_grid_placer_component.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create_grid_placer_object.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create_grid_placer_object.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create_voxel_grid.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create_voxel_grid.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/creating_assets.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/creating_assets.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_place_and_delete.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_place_and_delete.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/axis_aligned.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/axis_aligned.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/border_faces.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/border_faces.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/connections_debugger.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/connections_debugger.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/extra_vertex.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/extra_vertex.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/first_placed_models.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/first_placed_models.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/import_skyscraper_first_time.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/import_skyscraper_first_time.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/inside_outside_debugging.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/inside_outside_debugging.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/manifold.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/manifold.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/outside.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/outside.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/pivots.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/pivots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/skyscraper_model_imported_into_unity.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/skyscraper_model_imported_into_unity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/skyscraper_tile_examples.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/skyscraper_tile_examples.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/skyscraper_tile_examples_with_pivots.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/skyscraper_tile_examples_with_pivots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/first_tileset/skyscraper_with_wildcards.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/first_tileset/skyscraper_with_wildcards.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/installing_package.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/installing_package.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/link_objects_in_importer.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/link_objects_in_importer.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/voxel_editing.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/voxel_editing.gif"
         }
       },
       "is_incremental": false,
@@ -1494,13 +1831,20 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 5,
+          "total_file_count": 11,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 115,
+          "total_file_count": 116,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

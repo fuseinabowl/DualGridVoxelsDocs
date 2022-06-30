@@ -1440,15 +1440,15 @@ references:
   commentId: T:CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer
   fullName: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer
   nameWithType: NormalsMismatchDrawer
-- uid: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},FaceDefinition)
-  name: NormalsMismatchDrawer(Vector3, Vector3, List<KeyValuePair<Edge, Edge>>, List<KeyValuePair<Edge, Edge>>, List<Edge>, List<Edge>, FaceDefinition)
-  href: api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html#CarbideFunction_VoxelCollapse_Editor_TilesetInspectorDiagnosticsDrawer_NormalsMismatchDrawer__ctor_Vector3_Vector3_System_Collections_Generic_List_System_Collections_Generic_KeyValuePair_CarbideFunction_VoxelCollapse_Edge_CarbideFunction_VoxelCollapse_Edge___System_Collections_Generic_List_System_Collections_Generic_KeyValuePair_CarbideFunction_VoxelCollapse_Edge_CarbideFunction_VoxelCollapse_Edge___System_Collections_Generic_List_CarbideFunction_VoxelCollapse_Edge__System_Collections_Generic_List_CarbideFunction_VoxelCollapse_Edge__FaceDefinition_
-  commentId: M:CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},FaceDefinition)
-  name.vb: NormalsMismatchDrawer(Vector3, Vector3, List(Of KeyValuePair(Of Edge, Edge)), List(Of KeyValuePair(Of Edge, Edge)), List(Of Edge), List(Of Edge), FaceDefinition)
-  fullName: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, System.Collections.Generic.List<System.Collections.Generic.KeyValuePair<CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge>>, System.Collections.Generic.List<System.Collections.Generic.KeyValuePair<CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge>>, System.Collections.Generic.List<CarbideFunction.VoxelCollapse.Edge>, System.Collections.Generic.List<CarbideFunction.VoxelCollapse.Edge>, FaceDefinition)
-  fullName.vb: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, System.Collections.Generic.List(Of System.Collections.Generic.KeyValuePair(Of CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge)), System.Collections.Generic.List(Of System.Collections.Generic.KeyValuePair(Of CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge)), System.Collections.Generic.List(Of CarbideFunction.VoxelCollapse.Edge), System.Collections.Generic.List(Of CarbideFunction.VoxelCollapse.Edge), FaceDefinition)
-  nameWithType: NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, List<KeyValuePair<Edge, Edge>>, List<KeyValuePair<Edge, Edge>>, List<Edge>, List<Edge>, FaceDefinition)
-  nameWithType.vb: NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, List(Of KeyValuePair(Of Edge, Edge)), List(Of KeyValuePair(Of Edge, Edge)), List(Of Edge), List(Of Edge), FaceDefinition)
+- uid: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},FaceDefinition,System.Int32)
+  name: NormalsMismatchDrawer(Vector3, Vector3, List<KeyValuePair<Edge, Edge>>, List<KeyValuePair<Edge, Edge>>, List<Edge>, List<Edge>, FaceDefinition, Int32)
+  href: api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html#CarbideFunction_VoxelCollapse_Editor_TilesetInspectorDiagnosticsDrawer_NormalsMismatchDrawer__ctor_Vector3_Vector3_System_Collections_Generic_List_System_Collections_Generic_KeyValuePair_CarbideFunction_VoxelCollapse_Edge_CarbideFunction_VoxelCollapse_Edge___System_Collections_Generic_List_System_Collections_Generic_KeyValuePair_CarbideFunction_VoxelCollapse_Edge_CarbideFunction_VoxelCollapse_Edge___System_Collections_Generic_List_CarbideFunction_VoxelCollapse_Edge__System_Collections_Generic_List_CarbideFunction_VoxelCollapse_Edge__FaceDefinition_System_Int32_
+  commentId: M:CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Edge,CarbideFunction.VoxelCollapse.Edge}},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},System.Collections.Generic.List{CarbideFunction.VoxelCollapse.Edge},FaceDefinition,System.Int32)
+  name.vb: NormalsMismatchDrawer(Vector3, Vector3, List(Of KeyValuePair(Of Edge, Edge)), List(Of KeyValuePair(Of Edge, Edge)), List(Of Edge), List(Of Edge), FaceDefinition, Int32)
+  fullName: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, System.Collections.Generic.List<System.Collections.Generic.KeyValuePair<CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge>>, System.Collections.Generic.List<System.Collections.Generic.KeyValuePair<CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge>>, System.Collections.Generic.List<CarbideFunction.VoxelCollapse.Edge>, System.Collections.Generic.List<CarbideFunction.VoxelCollapse.Edge>, FaceDefinition, System.Int32)
+  fullName.vb: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, System.Collections.Generic.List(Of System.Collections.Generic.KeyValuePair(Of CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge)), System.Collections.Generic.List(Of System.Collections.Generic.KeyValuePair(Of CarbideFunction.VoxelCollapse.Edge, CarbideFunction.VoxelCollapse.Edge)), System.Collections.Generic.List(Of CarbideFunction.VoxelCollapse.Edge), System.Collections.Generic.List(Of CarbideFunction.VoxelCollapse.Edge), FaceDefinition, System.Int32)
+  nameWithType: NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, List<KeyValuePair<Edge, Edge>>, List<KeyValuePair<Edge, Edge>>, List<Edge>, List<Edge>, FaceDefinition, Int32)
+  nameWithType.vb: NormalsMismatchDrawer.NormalsMismatchDrawer(Vector3, Vector3, List(Of KeyValuePair(Of Edge, Edge)), List(Of KeyValuePair(Of Edge, Edge)), List(Of Edge), List(Of Edge), FaceDefinition, Int32)
 - uid: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.#ctor*
   name: NormalsMismatchDrawer
   href: api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html#CarbideFunction_VoxelCollapse_Editor_TilesetInspectorDiagnosticsDrawer_NormalsMismatchDrawer__ctor_
@@ -1704,18 +1704,30 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.VoxelCollapse.Editor.TilesetInspectorStage.OnOpenStage
   nameWithType: TilesetInspectorStage.OnOpenStage
+- uid: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings
+  name: TransientUserSettings
+  href: api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.html
+  commentId: T:CarbideFunction.VoxelCollapse.Editor.TransientUserSettings
+  fullName: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings
+  nameWithType: TransientUserSettings
+- uid: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.importLoggingEnabled
+  name: importLoggingEnabled
+  href: api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.html#CarbideFunction_VoxelCollapse_Editor_TransientUserSettings_importLoggingEnabled
+  commentId: F:CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.importLoggingEnabled
+  fullName: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.importLoggingEnabled
+  nameWithType: TransientUserSettings.importLoggingEnabled
+- uid: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.waveFunctionCollapseLoggingEnabled
+  name: waveFunctionCollapseLoggingEnabled
+  href: api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.html#CarbideFunction_VoxelCollapse_Editor_TransientUserSettings_waveFunctionCollapseLoggingEnabled
+  commentId: F:CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.waveFunctionCollapseLoggingEnabled
+  fullName: CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.waveFunctionCollapseLoggingEnabled
+  nameWithType: TransientUserSettings.waveFunctionCollapseLoggingEnabled
 - uid: CarbideFunction.VoxelCollapse.Editor.UserSettings
   name: UserSettings
   href: api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html
   commentId: T:CarbideFunction.VoxelCollapse.Editor.UserSettings
   fullName: CarbideFunction.VoxelCollapse.Editor.UserSettings
   nameWithType: UserSettings
-- uid: CarbideFunction.VoxelCollapse.Editor.UserSettings.importLoggingEnabled
-  name: importLoggingEnabled
-  href: api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html#CarbideFunction_VoxelCollapse_Editor_UserSettings_importLoggingEnabled
-  commentId: F:CarbideFunction.VoxelCollapse.Editor.UserSettings.importLoggingEnabled
-  fullName: CarbideFunction.VoxelCollapse.Editor.UserSettings.importLoggingEnabled
-  nameWithType: UserSettings.importLoggingEnabled
 - uid: CarbideFunction.VoxelCollapse.Editor.UserSettings.loggingEnabledChanged
   name: loggingEnabledChanged
   href: api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html#CarbideFunction_VoxelCollapse_Editor_UserSettings_loggingEnabledChanged
@@ -1753,12 +1765,6 @@ references:
   commentId: F:CarbideFunction.VoxelCollapse.Editor.UserSettings.tilesetInspectorSettings
   fullName: CarbideFunction.VoxelCollapse.Editor.UserSettings.tilesetInspectorSettings
   nameWithType: UserSettings.tilesetInspectorSettings
-- uid: CarbideFunction.VoxelCollapse.Editor.UserSettings.waveFunctionCollapseLoggingEnabled
-  name: waveFunctionCollapseLoggingEnabled
-  href: api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html#CarbideFunction_VoxelCollapse_Editor_UserSettings_waveFunctionCollapseLoggingEnabled
-  commentId: F:CarbideFunction.VoxelCollapse.Editor.UserSettings.waveFunctionCollapseLoggingEnabled
-  fullName: CarbideFunction.VoxelCollapse.Editor.UserSettings.waveFunctionCollapseLoggingEnabled
-  nameWithType: UserSettings.waveFunctionCollapseLoggingEnabled
 - uid: CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider
   name: UserSettingsSettingsProvider
   href: api/CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider.html
@@ -3878,12 +3884,15 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.InitialPropagateAndCollapseWithWildcardRetreatAndAdvance
   nameWithType: WaveFunctionCollapser.InitialPropagateAndCollapseWithWildcardRetreatAndAdvance
-- uid: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid,CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult,CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot)
-  name: PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot)
-  href: api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html#CarbideFunction_VoxelCollapse_WaveFunctionCollapser_PropagateAll_CarbideFunction_VoxelCollapse_SlotGrid_CarbideFunction_VoxelCollapse_Propagation_ReportPropagationResult_CarbideFunction_VoxelCollapse_Propagation_ReportContradictionSlot_
-  commentId: M:CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid,CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult,CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot)
-  fullName: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid, CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult, CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot)
-  nameWithType: WaveFunctionCollapser.PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot)
+- uid: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid,CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult,CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Slot,System.Collections.Generic.List{CarbideFunction.VoxelCollapse.TransformedModule}}})
+  name: PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot, List<KeyValuePair<Slot, List<TransformedModule>>>)
+  href: api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html#CarbideFunction_VoxelCollapse_WaveFunctionCollapser_PropagateAll_CarbideFunction_VoxelCollapse_SlotGrid_CarbideFunction_VoxelCollapse_Propagation_ReportPropagationResult_CarbideFunction_VoxelCollapse_Propagation_ReportContradictionSlot_System_Collections_Generic_List_System_Collections_Generic_KeyValuePair_CarbideFunction_VoxelCollapse_Slot_System_Collections_Generic_List_CarbideFunction_VoxelCollapse_TransformedModule____
+  commentId: M:CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid,CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult,CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot,System.Collections.Generic.List{System.Collections.Generic.KeyValuePair{CarbideFunction.VoxelCollapse.Slot,System.Collections.Generic.List{CarbideFunction.VoxelCollapse.TransformedModule}}})
+  name.vb: PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot, List(Of KeyValuePair(Of Slot, List(Of TransformedModule))))
+  fullName: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid, CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult, CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot, System.Collections.Generic.List<System.Collections.Generic.KeyValuePair<CarbideFunction.VoxelCollapse.Slot, System.Collections.Generic.List<CarbideFunction.VoxelCollapse.TransformedModule>>>)
+  fullName.vb: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll(CarbideFunction.VoxelCollapse.SlotGrid, CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult, CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot, System.Collections.Generic.List(Of System.Collections.Generic.KeyValuePair(Of CarbideFunction.VoxelCollapse.Slot, System.Collections.Generic.List(Of CarbideFunction.VoxelCollapse.TransformedModule))))
+  nameWithType: WaveFunctionCollapser.PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot, List<KeyValuePair<Slot, List<TransformedModule>>>)
+  nameWithType.vb: WaveFunctionCollapser.PropagateAll(SlotGrid, Propagation.ReportPropagationResult, Propagation.ReportContradictionSlot, List(Of KeyValuePair(Of Slot, List(Of TransformedModule))))
 - uid: CarbideFunction.VoxelCollapse.WaveFunctionCollapser.PropagateAll*
   name: PropagateAll
   href: api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html#CarbideFunction_VoxelCollapse_WaveFunctionCollapser_PropagateAll_

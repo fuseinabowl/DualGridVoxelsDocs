@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Introduction </title>
+    <title>Extending Voxel Collapse </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Introduction ">
+    <meta name="title" content="Extending Voxel Collapse ">
     <meta name="generator" content="docfx 2.59.1.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -67,15 +67,22 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="introduction">Introduction</h1>
+<h1 id="extending-voxel-collapse">Extending Voxel Collapse</h1>
 
-<p>Welcome to the Voxel Collapse manual.</p>
-<p><img src="../images/voxel_editing.gif" alt="voxel editing example"></p>
-<p>If you have not used Voxel Collapse yet, please try out the <a href="getting_started.html">tutorials</a>.</p>
-<p>If you are looking for a more detailed description of using certain parts of the tool, choose from the Reference menu on the left.</p>
-<h2 id="feedback">Feedback</h2>
-<p>Please report any feedback <a href="mailto:anthonydiggle@carbidefunction.co.uk?subject=Voxel%20Collapse%20feedback">by email</a> or <a href="https://discord.gg/CQSGay9GWS">on the Discord server</a>.</p>
-<p>The tool is in active development - feedback received will affect which features or bugfixes will be worked on first.</p>
+<p>Voxel Collapse provides support for injecting functionality using the <code>Tileset</code> post processing fields, which does not require any modification of Voxel Collapse scripts. This requires some simple scripting, and supports a limited set of features.</p>
+<p>Voxel Collapse also provides the full code in the asset store package - you are free to modify it as you like. This requires scripting experience and you will have to spend some time understanding the code, but grants you the ability to modify Voxel Collapse to fully match your game/app's requirements.</p>
+<p>Join the <a href="https://discord.gg/UyWAhnycjD">Voxel Collapse Discord</a> to get dev advice and support for extending Voxel Collapse.</p>
+<h2 id="postprocessors">Postprocessors</h2>
+<p>Voxel Collapse creates a grid of tile <strong>references</strong> in memory when creating the world. Postprocessors then turn the tile references into game objects.</p>
+<p>Voxel Collapse includes two postprocessors - the <a class="xref" href="../api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessor.html">placer postprocessor</a> and the <a class="xref" href="../api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessor.html">welder postprocessor</a> (default).</p>
+<p>Each postprocessor also</p>
+<h2 id="modifying-voxel-collapse">Modifying Voxel Collapse</h2>
+<p>This site also contains <a href="../api/index.html">API documentation for Voxel Collapse</a> which describes the public facing API for Voxel Collapse classes.</p>
+<p>Post your intended application to the <a href="https://discord.gg/CQSGay9GWS">Voxel Collapse developer Discord channel</a> and a developer will suggest a direction you could take and which files to start researching and changing.</p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>While Carbide Function welcomes modification to Voxel Collapse, comprehensive support will <strong>not</strong> be provided.</p>
+</div>
 </article>
           </div>
           
