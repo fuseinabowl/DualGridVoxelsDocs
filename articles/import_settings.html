@@ -68,14 +68,14 @@
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 
-<p>The default import settings should work for a rough draft of a tileset. However, adjusting the settings grants more control over how Voxel Collapse interprets models.</p>
+<p>The default import settings should work for a rough draft of a tileset. However, adjusting the settings grants more control over how Wildtile interprets models.</p>
 <h1 id="dimensions">Dimensions</h1>
 <p>These are the dimensions of the tiles in Unity units.</p>
 <p>When importing, each object is scanned for face edges along the XY and YZ planes at <code>Tile Width</code> distance from the tile origin, and on the XZ planes at <code>Tile Height</code> distance from the tile origin.</p>
 <p>When editing and placing a grid using the GridPlacer component, tiles will be separated by this amount.</p>
 <h1 id="hash-resolution">Hash Resolution</h1>
-<p>Voxel Collapse hashes and stores all models' faces. When placing tiles, it will compares the hashes instead of comparing the faces directly.</p>
-<p>To prevent floating point errors from disrupting the matching of faces, Voxel Collapse first rounds the vertex positions and normals to the nearest fraction before hashing. The rounded-to-fraction is one over the corresponding value in the importer settings.</p>
+<p>Wildtile hashes and stores all models' faces. When placing tiles, it will compares the hashes instead of comparing the faces directly.</p>
+<p>To prevent floating point errors from disrupting the matching of faces, Wildtile first rounds the vertex positions and normals to the nearest fraction before hashing. The rounded-to-fraction is one over the corresponding value in the importer settings.</p>
 <p>A higher value will allow for more precise models, but might lead to more floating point errors and tiles not connecting when they look like they should. Conversely, a lower value prevents distinction between tiles due to the lower precision, but is more tolerant to floating point errors.</p>
 <p>Normally, you will want to leave these at the default values.</p>
 <h1 id="material-import-settings">Material Import Settings</h1>

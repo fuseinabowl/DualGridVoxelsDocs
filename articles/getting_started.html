@@ -72,21 +72,21 @@
 <p>This tutorial should take 20 minutes. It will cover the basics of using the tool using the example tiles that come with the asset, so you won't need anything more than Unity and a license for the tool.</p>
 <p>We will import a tileset and start editing a level using it.</p>
 <p><img src="../images/voxel_editing.gif" alt="voxel editing example"></p>
-<h1 id="installing-voxel-collapse">Installing Voxel Collapse</h1>
-<p>If you haven't already, you will need to buy the Voxel Collapse asset from the <a href="https://prf.hn/click/camref:1101loXVT/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F215355">Unity Asset Store</a>.</p>
-<p>Voxel Collapse uses the standard flow for installing packages from the Asset Store.</p>
+<h1 id="installing-wildtile">Installing Wildtile</h1>
+<p>If you haven't already, you will need to buy the Wildtile asset from the <a href="https://prf.hn/click/camref:1101loXVT/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F215355">Unity Asset Store</a>.</p>
+<p>Wildtile uses the standard flow for installing packages from the Asset Store.</p>
 <p>Once bought, it will show up in the <a href="https://docs.unity3d.com/Manual/upm-ui.html">Unity Editor Package Manager</a>.
 In Unity, select <code>Window</code>→<code>Package Manager</code>.</p>
 <p>In the package manager, click on the <code>Packages</code> drop down button and select <code>My Assets</code> to view the assets you have purchased.
-If you cannot see Voxel Collapse in the list on the left, you can search for it in the top right.</p>
-<p>Once you have found and clicked on Voxel Collapse, click on <code>Download</code> in the bottom right. After downloading, this button will change to <code>Import</code>. Click it again to import the package into your project. Import the whole project including the examples folders, we will be using models from the examples later in this tutorial.</p>
+If you cannot see Wildtile in the list on the left, you can search for it in the top right.</p>
+<p>Once you have found and clicked on Wildtile, click on <code>Download</code> in the bottom right. After downloading, this button will change to <code>Import</code>. Click it again to import the package into your project. Import the whole project including the examples folders, we will be using models from the examples later in this tutorial.</p>
 <p><img src="../images/installing_package.gif" alt="installing package example"></p>
 <h1 id="setting-up-the-tileset">Setting up the Tileset</h1>
 <h2 id="creating-the-importer-and-the-tileset-assets">Creating the Importer and the Tileset assets</h2>
-<p>The importer stores information about how Voxel Collapse should import your models so that you can edit the model externally and reimport it reliably. The importer asset typically does not need to be delivered with your built game (Unity will automatically ignore it as long as nothing is referencing it).</p>
+<p>The importer stores information about how Wildtile should import your models so that you can edit the model externally and reimport it reliably. The importer asset typically does not need to be delivered with your built game (Unity will automatically ignore it as long as nothing is referencing it).</p>
 <p>The tileset asset stores the processed information about how the models fit together. Unity will include the tileset asset when building your game if you use the <code>GridPlacer</code> component.</p>
 <p>In the Project window, navigate to <code>Assets</code> and right click anywhere in the right window and select <code>Create</code>→<code>Folder</code>. Name this folder <code>Voxels</code>, then double click on the new folder to open it.</p>
-<p>Right click on the right window again and select <code>Create</code>→<code>Voxel Collapse</code>→<code>Tileset Importer</code> to create the importer. Right click again and select <code>Create</code>→<code>Voxel Collapse</code>→<code>Tileset</code> to create the tileset.</p>
+<p>Right click on the right window again and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset Importer</code> to create the importer. Right click again and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset</code> to create the tileset.</p>
 <p><img src="../images/creating_assets.gif" alt="creating assets example"></p>
 <div class="NOTE">
 <h5>Note</h5>
@@ -102,7 +102,7 @@ If you cannot see Voxel Collapse in the list on the left, you can search for it 
 <p>The import process will take a second or two (depending on your computer). As your tilesets grow you may need to wait longer when reimporting.</p>
 </div>
 <h2 id="creating-a-map-asset">Creating a map asset</h2>
-<p>Finally, we will need a voxel grid to use as a map. Create a voxel grid asset by right clicking in the project window and selecting <code>Create</code>→<code>Voxel Collapse</code>→<code>Voxel Grid</code>.</p>
+<p>Finally, we will need a voxel grid to use as a map. Create a voxel grid asset by right clicking in the project window and selecting <code>Create</code>→<code>Wildtile</code>→<code>Voxel Grid</code>.</p>
 <div class="NOTE">
 <h5>Note</h5>
 <p>The map is a distinct asset, separate from the scene. This allows you to share maps between different scenes and grants you granular access in source control, allowing more developers to work together on the same project.</p>

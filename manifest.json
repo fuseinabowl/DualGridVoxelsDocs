@@ -5,11 +5,11 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLog.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.CollapseInfoLog.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLog.html",
-          "hash": "YmJAxcnBz7DdD2SY1I1f0TmKo2NWTgshxLXl8u2gZ7g="
+          "relative_path": "api/CarbideFunction.Wildtile.CollapseInfoLog.html",
+          "hash": "ZOqxo7e4Q7q4VifYrCvj+VE/rLUc1cn0Aubn35MKw3c="
         }
       },
       "is_incremental": false,
@@ -17,11 +17,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLogSettingsGetter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.CollapseInfoLogSettingsGetter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.CollapseInfoLogSettingsGetter.html",
-          "hash": "80COce1vDn5rCq/jAQj5MT4wC+nLTEmU8vBm3z0JLag="
+          "relative_path": "api/CarbideFunction.Wildtile.CollapseInfoLogSettingsGetter.html",
+          "hash": "EAM/MSIINBq48MV4N9D+dmmZKOE1NlHWbokQH9ZQieQ="
         }
       },
       "is_incremental": false,
@@ -29,11 +29,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.DetailedVectorString.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.DetailedVectorString.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.DetailedVectorString.html",
-          "hash": "7HA/LHzPgplkRw+13uuOarl01yLXqznSkJzZR/xu9AI="
+          "relative_path": "api/CarbideFunction.Wildtile.DetailedVectorString.html",
+          "hash": "Z0m09G3clmj4ipz9AMd04u3qBituLI53MN7Ld5aUNIY="
         }
       },
       "is_incremental": false,
@@ -41,11 +41,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.DualGridVoxelMeshBackupTiles.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.DualGridVoxelMeshBackupTiles.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.DualGridVoxelMeshBackupTiles.html",
-          "hash": "tkeZTXT6OhXresXtHjoytAwoRnRO7SegB/42Evk9eGY="
+          "relative_path": "api/CarbideFunction.Wildtile.DualGridVoxelMeshBackupTiles.html",
+          "hash": "tjnlMsz+H7i71Ff5n+qlGYgDXfzzdiU1B+/+s3idn1U="
         }
       },
       "is_incremental": false,
@@ -53,11 +53,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Edge.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Edge.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Edge.html",
-          "hash": "sQbHN8wc4C5PA8js4WV1Rl8b7Dlx2StmYzPn80fccUU="
+          "relative_path": "api/CarbideFunction.Wildtile.Edge.html",
+          "hash": "vt+HXSj1/1PbSsXtR+6e4wHNy8E8Ft5991VyXfmsS24="
         }
       },
       "is_incremental": false,
@@ -65,11 +65,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.CustomDrawing.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.CustomDrawing.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.CustomDrawing.html",
-          "hash": "YQpOzAw3i/tCdTWe6lAr7FLY2YzqtiIxQIQ6IdkbpCo="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.CustomDrawing.html",
+          "hash": "qVtqh/3pzq5rUuvwbTkkKtbxtZu2hqaCrWCfvGLyom4="
         }
       },
       "is_incremental": false,
@@ -77,11 +77,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.DualGridVoxelMeshBackupTilesEditor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.DualGridVoxelMeshBackupTilesEditor.html",
-          "hash": "FRY1K6Ff0ES6GYaZ1YjqBWzfB7QjfL/hKe1+GI6CWKk="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html",
+          "hash": "HBiZPyjU00JC0zwtYNAWEuWwf5QzZODUnJLnnA9Z8EY="
         }
       },
       "is_incremental": false,
@@ -89,11 +89,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.EditorHash.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.EditorHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.EditorHash.html",
-          "hash": "PU6VSx/bJ1hT/301mq0NdEJfKeymyvMfbLMMFUvDPVc="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.EditorHash.html",
+          "hash": "RhqTTDn9ujdULYH+BcewXWA+xMtLeb4F4FvCdXJOfHE="
         }
       },
       "is_incremental": false,
@@ -101,11 +101,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.Folder.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.Folder.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.Folder.html",
-          "hash": "z+vQ7/1jZ6Yu4E6e0o8ip7JKJmyVNqBHx97CAYVyiz0="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.Folder.html",
+          "hash": "W+M7ioCWL22l52IyipShRpY/1nnbjE83DgXl/xwDRHM="
         }
       },
       "is_incremental": false,
@@ -113,11 +113,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.GridPlacerEditor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.GridPlacerEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.GridPlacerEditor.html",
-          "hash": "yeyoAs+6B1ART64Pg2tTKr4pruDR0i8cumWfMh2OgS4="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.GridPlacerEditor.html",
+          "hash": "bsG7dQlkgDqkcY0xf4rcZzIDiayttMRh9borh4rlYkA="
         }
       },
       "is_incremental": false,
@@ -125,11 +125,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.HashFaces.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.HashFaces.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.HashFaces.html",
-          "hash": "jR9Ug9yjocYbczx0PkuvxDIVYL76c6aQ1GK3Sxxgdm4="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.HashFaces.html",
+          "hash": "wugL++7KlB1ra38I7A4JwBry6ka4mzTQCBGyf/fN6sE="
         }
       },
       "is_incremental": false,
@@ -137,11 +137,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ITilesetInspectorDiagnosticsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ITilesetInspectorDiagnosticsDrawer.html",
-          "hash": "rwOfLPmgn/coSgRJXwztA7+azil1ckv/jFX28/QX/l4="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.html",
+          "hash": "WOLKqIun83Lo1XfpRVz1+CHoyymS3hHB9HKf7fWheJQ="
         }
       },
       "is_incremental": false,
@@ -149,11 +149,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.ApplyContentsToUi-1.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.ApplyContentsToUi-1.html",
-          "hash": "P5CqLG61xBeWQXv/GIH0HVTFNeWKqPBdn2Sk14BomrU="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi-1.html",
+          "hash": "9MU4QZSz9RvkYKcWVc+jCihQdeKn8crbfMVoD6Bkr9M="
         }
       },
       "is_incremental": false,
@@ -161,11 +161,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ListViewBinder.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ListViewBinder.html",
-          "hash": "LnxG7WrmVXCHsYix9LySDcJYBKyoe1sxX/tdQkJ9OIE="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ListViewBinder.html",
+          "hash": "L/wVRtT1VJ2SybaZQaVDVmpC7kPQNjJ54dXqziHICuk="
         }
       },
       "is_incremental": false,
@@ -173,11 +173,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.html",
-          "hash": "ogb4dTKbUY0CKB34WRqzVn5QWzwAQNUzgYtCxPkAVCI="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.html",
+          "hash": "xJ5y6rwjmPtwmVXPFY18tYCz4t1MAIvghQK/PPGZgjA="
         }
       },
       "is_incremental": false,
@@ -185,11 +185,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.html",
-          "hash": "ps+ptLwk8ytVn6lkas2g3NQUd51ymniRIdSCp3ggtxY="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.OffsetDirection.html",
+          "hash": "QD4UQKTmpBdr0J1N/ZuYf8wMK3a8AxqPSrQieGJcoJ8="
         }
       },
       "is_incremental": false,
@@ -197,11 +197,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html",
-          "hash": "vQJra0ggKE8yREKsbMUjgUmxzJ7mYoTSadLUZPnsv1o="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html",
+          "hash": "zxEaO/lRpfvTvqxFWOAwi/M/ubSdfYxFJ+mFy2nIZLo="
         }
       },
       "is_incremental": false,
@@ -209,11 +209,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html",
-          "hash": "T59arVB4vDGOqr1KnOYt3YdSLXEA1XnHx7EshgIm90g="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html",
+          "hash": "nb/ex6ooepkXhMhS5zkKEBjpTQSssyYLH35dgwIP/lA="
         }
       },
       "is_incremental": false,
@@ -221,11 +221,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.html",
-          "hash": "lOMuMxM8fpkJfHFhDdORuJ5DksWrsSBuGb4ezQ3OwZo="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.html",
+          "hash": "2n5B4AhQgxxrVX1RJTUEmG6VYHadYyAzpUUHZdeaqqI="
         }
       },
       "is_incremental": false,
@@ -233,11 +233,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.ModelTileConnectivityCalculator.html",
-          "hash": "KJretPz7aoixAhov8b4aHH0zni4Ya+oZB3PazFcRaSg="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html",
+          "hash": "jOjugE64WLBdYBVFHfRbhOVpPjqQG0TOyBWFkYMWuyA="
         }
       },
       "is_incremental": false,
@@ -245,11 +245,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TileMapEditorTool.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TileMapEditorTool.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TileMapEditorTool.html",
-          "hash": "dv84w22HQG3eU27cnrEmehhE2swFX855gddBL3N+zmo="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TileMapEditorTool.html",
+          "hash": "tdB08AmTrfAXqtpZauZ8moX5CF3r8eFKdEi0mswkDAY="
         }
       },
       "is_incremental": false,
@@ -257,11 +257,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.Report.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.Report.html",
-          "hash": "Ni/Yj3WXnxabWRPvvf3MS8bpfVNJ4m6oibL4y/4/3oI="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.html",
+          "hash": "NpORnMYozpynWFFxsWn7oSqMCgLAJmNxw6lX/zNM4Vg="
         }
       },
       "is_incremental": false,
@@ -269,11 +269,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.UnconnectableModule.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.UnconnectableModule.html",
-          "hash": "VD1rQasD07P1iBpeCiCOcyYQ367Y7sYDbTW0U/mo2bs="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.html",
+          "hash": "Up30FCgu16J0JccH1sfiiVlTqZTZ1KDSjyBXcEUltZ0="
         }
       },
       "is_incremental": false,
@@ -281,11 +281,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzer.html",
-          "hash": "fykhZjunwaFFtM2do7i0akLhMRJ7V8YUGz3xiQWGSPA="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.html",
+          "hash": "a2XFK+W82dl6204kzINi9E6KaUHzJLCpCzpwUlb4znE="
         }
       },
       "is_incremental": false,
@@ -293,11 +293,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzerWindow.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetAnalyzerWindow.html",
-          "hash": "7UT029k4WNLjLu5Q0HRNbXjah8rbQRfCBI7uBFEtWSc="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html",
+          "hash": "e+J5NqNIqOPFupORNFxzhtSrthYQTafo5xtjqXnSe8o="
         }
       },
       "is_incremental": false,
@@ -305,11 +305,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.DeepHashCollisionReporter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.DeepHashCollisionReporter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.DeepHashCollisionReporter.html",
-          "hash": "oZk8ij+7M8Lxa9yluHNpavbh2T15kVxrzcb6MEmKB0M="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.DeepHashCollisionReporter.html",
+          "hash": "vDlNZsBf+7fs63ebBK1FCbS1khqrWFzPPIRM/wmvXCQ="
         }
       },
       "is_incremental": false,
@@ -317,11 +317,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.html",
-          "hash": "SIoW3LdTQx04nKs+rE6lwOvuxoU7hzQdx4uZNKzPSpo="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.html",
+          "hash": "8/qyQSoCZ2jaqRuyLwJ4XHM0AyD5Mc2ot8RVxQy4DiI="
         }
       },
       "is_incremental": false,
@@ -329,11 +329,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.HashCollisionReporter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.HashCollisionReporter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.HashCollisionReporter.html",
-          "hash": "IT+pPWW4byOj8nnY71cVO4JovR22UC9xCf3mW8F+dss="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.HashCollisionReporter.html",
+          "hash": "j0ohw8Wvgua5AjD1CruxkrtloL/8Ag2W4T+T2FX3iv4="
         }
       },
       "is_incremental": false,
@@ -341,11 +341,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html",
-          "hash": "nTW3GPvytlcvQOI7tZ06Q2yO3GkZA9YMYqItUAfkawE="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html",
+          "hash": "tpb9FPr+XnAR2XVohY2GxO4Rw4jcEshbT0m/tlGWZiA="
         }
       },
       "is_incremental": false,
@@ -353,11 +353,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetImporterEditor.html",
-          "hash": "FYb2/siyBH7NkdWwm6M5DBqgG2qPdFyHIx16OpK9URo="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.html",
+          "hash": "nVRHwFHa5DVWWMnjSbeLVCBZNrF/pYN0c2aMEKSA8D4="
         }
       },
       "is_incremental": false,
@@ -365,11 +365,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspector.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspector.html",
-          "hash": "uLylUR5Q4rYg5mreVaj4hGdqcZELQN7jqkYs4321Ql4="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspector.html",
+          "hash": "+yYa1+Wr265T7YxFA0PM/4pbiJqtVqEaYbuOH1z764U="
         }
       },
       "is_incremental": false,
@@ -377,11 +377,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.ComparisonResult-1.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.ComparisonResult-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.ComparisonResult-1.html",
-          "hash": "m4wxwtJRF3hR1WlCjk80t6j7GbBlTsV+ecE6ypixt6o="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.ComparisonResult-1.html",
+          "hash": "ZlVR1LDJx/ednPFkbRu6Qcs+/kxXXnnrqzLBRPoUdQs="
         }
       },
       "is_incremental": false,
@@ -389,11 +389,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.Hash-2.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.Hash-2.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.Hash-2.html",
-          "hash": "sx3ZqBqzbDdYJlRefOKfewyrCfBs+NOM/8K0qVqICVg="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.Hash-2.html",
+          "hash": "ULEt/z5QAdYCz94w0ijRNeKebDrEgZL9dEM1YQvPz38="
         }
       },
       "is_incremental": false,
@@ -401,11 +401,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.html",
-          "hash": "jye/WAHm4iP2lAjHAQEzE2hU2ozUaMMJ4mGfnYC/8YY="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.PreviouslyMatchedComparisonResult-1.html",
+          "hash": "bm/TmVe25O5+kcI50gj2osRXnpiJVy9ZvQ31fndw5+s="
         }
       },
       "is_incremental": false,
@@ -413,11 +413,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorComparison.html",
-          "hash": "7FweV7FuzmTVnKtuz6RzF30qM5EhhCg4Wz7B+8sUTgU="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.html",
+          "hash": "HXDURG6trvRgD0B+/Udwv+TcT5q2bthD58yubEMjVMo="
         }
       },
       "is_incremental": false,
@@ -425,11 +425,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html",
-          "hash": "WFr1Pp69AW0epBSHbR+dYXIVfuJMDPcow3cvD1MqYc8="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html",
+          "hash": "UfgDD0YI5M8J5smSNomYPiv6Bm/jRlo5dWCNKF0qcBk="
         }
       },
       "is_incremental": false,
@@ -437,11 +437,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.html",
-          "hash": "y7fZNnt8qRbLWfVzFAXwfkqRWhFub12CY6QY9mVUHuc="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.html",
+          "hash": "5DGPZXRvlY/4q6EKrK6cY/shFQVyDfn80+EjSZEINV4="
         }
       },
       "is_incremental": false,
@@ -449,11 +449,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.html",
-          "hash": "dsEdAJh/IHj1PGW2cXkd0f8aZKByirvf5SR6c1hiQaU="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.html",
+          "hash": "MUAwAkhHaFzan7+6Jt6Hlf99QiTHDKmhQC0mDsyHkXE="
         }
       },
       "is_incremental": false,
@@ -461,11 +461,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html",
-          "hash": "ESSmhLYhn6j/+MQiIhB/qZDbZ2ZUX2YWQ6W7Jdk7hsQ="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html",
+          "hash": "EC0nmL2P///665Gji+P2kr7HrXscaa4vvyWdXspxNf4="
         }
       },
       "is_incremental": false,
@@ -473,11 +473,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.html",
-          "hash": "490KPpwsNnQ647esvSfPdREZJRk47BOomY6R14zLS3I="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.html",
+          "hash": "Pzr7IUhYDnv3/YAWSF3/cFfiLKBJDNbyASgLdnhPt1U="
         }
       },
       "is_incremental": false,
@@ -485,11 +485,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.html",
-          "hash": "M15aX8wsa8X/NTfSR4WtNz3WISIDm0Kikh0G0eD4VLg="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.html",
+          "hash": "FT3QON3EvyWXz43lxujg1AN5pYtJq8/ywQTekPU1aFI="
         }
       },
       "is_incremental": false,
@@ -497,11 +497,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html",
-          "hash": "4ihI07lmMvyjM5fVBCdbjDfAkSUtihER+E74uqJl2n8="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html",
+          "hash": "2gHyfR6Ggg3TitzAg2GsV0ZaX7X9TZg16VuQJUQHtyE="
         }
       },
       "is_incremental": false,
@@ -509,11 +509,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.html",
-          "hash": "R28JKZLcuxjuD6VycyMA2WsuxEIslSer7C/AIF2GT0w="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.html",
+          "hash": "RXb6v13YuzddUFs50dIncVd8GAp1ZEvouNHNTSMy1L0="
         }
       },
       "is_incremental": false,
@@ -521,11 +521,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorDiagnosticsDrawer.html",
-          "hash": "k1O0YTPMrelhQrJVjQ0Zch0AX0HCPjtpwJH2evlC+oU="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.html",
+          "hash": "huThK5EJCBAZIv3qzoMO10oP0ASZpOoyW5JSFzCWMq0="
         }
       },
       "is_incremental": false,
@@ -533,11 +533,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorSettings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorSettings.html",
-          "hash": "905Y/bsAqrRVjsEtlIjV0NAj4zdnEkV+KskNk3WW78I="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html",
+          "hash": "w3LNFjfBNtK0bc4m3sMnJo94AfJ+x4ILU90eB5F/fh4="
         }
       },
       "is_incremental": false,
@@ -545,11 +545,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorStage.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorStage.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TilesetInspectorStage.html",
-          "hash": "8RTaf55hh1npAapeSTCplfOXf/nniA6sRF1Aa/2t0zc="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorStage.html",
+          "hash": "+J6n+wJucuXNsDbATrPK/iLDj0r5HdjWvMdUikVbH3I="
         }
       },
       "is_incremental": false,
@@ -557,11 +557,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TransientUserSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.TransientUserSettings.html",
-          "hash": "6xywyiiSGc+Wi9z0WXOGPPRpb98xPCNYH716ph7QbeY="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TransientUserSettings.html",
+          "hash": "Lg4bUuUBKyyqVakrku38ePgnxjDwaPIh0/yM2z9wBn4="
         }
       },
       "is_incremental": false,
@@ -569,11 +569,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.LoggingEnabledChanged.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettings.LoggingEnabledChanged.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.LoggingEnabledChanged.html",
-          "hash": "GA4dJ0JKBRSQDBLnqzXIH2XOFChq/wZL8gnI0KJfO4I="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettings.LoggingEnabledChanged.html",
+          "hash": "/b4JGVG7wefLfjtbIbOD8LCSBD50MRidhz3Ky7laTMM="
         }
       },
       "is_incremental": false,
@@ -581,11 +581,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettings.html",
-          "hash": "eHTSV6y18x2QMIHLbQ+IOqKMTZX9LPPoNX+CgftEgIs="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettings.html",
+          "hash": "QvS0mqS5lWQOIFP/dDPYNVd7UFNu+PSfEsxzBlrfmnQ="
         }
       },
       "is_incremental": false,
@@ -593,11 +593,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettingsSettingsProvider.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.UserSettingsSettingsProvider.html",
-          "hash": "w+9cQ/c8+3e4UcR4bsjH962CsaUTXHWiz5Z6qWornN0="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.UserSettingsSettingsProvider.html",
+          "hash": "I4NMBuwUi6jXZYAxznqSf/Vko7CMQHRtfXqKoJXXc4E="
         }
       },
       "is_incremental": false,
@@ -605,11 +605,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelGridEditor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelGridEditor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelGridEditor.html",
-          "hash": "qGboc2qP4aOatI2w9me8w/2JPT/mkAaHiJGNmfQgp4s="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelGridEditor.html",
+          "hash": "K4XAWyh4YOzgoLbxES58v9+cHpw2NdYDEbFiqDhIvqs="
         }
       },
       "is_incremental": false,
@@ -617,11 +617,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.FaceData.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.FaceData.html",
-          "hash": "3Bf52an02b7fmGp91qaTOUTkul7S0HmcLOd+s/w0nts="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.html",
+          "hash": "QcWs/rCQE/7FhWGvjPqVwd2z16cW/s9lJuf143QJJos="
         }
       },
       "is_incremental": false,
@@ -629,11 +629,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.VoxelMesher.html",
-          "hash": "q0UapJGtk5z9Pns2ECIM7qsSBzwdzLb10tbQ3sAFKp4="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.html",
+          "hash": "ZQ37gAF2imxwQA4MR4TsvP8BqggYAikpGP5bJXnq/yc="
         }
       },
       "is_incremental": false,
@@ -641,11 +641,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Editor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Editor.html",
-          "hash": "vyw1caS+b3CxI2CMq2wH8iHdMngn923hdLIg7WPllmY="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.html",
+          "hash": "hWfop54LpTtaOKQy5u6soTP2JSR5OlCsVqoNpwhw4r8="
         }
       },
       "is_incremental": false,
@@ -653,11 +653,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Face.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Face.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Face.html",
-          "hash": "JyMZXSeXCUQ5ivrRG6qUwqzKZM5k6qlG8+aN/DfdUIY="
+          "relative_path": "api/CarbideFunction.Wildtile.Face.html",
+          "hash": "e33nWFsTKJ8ssIzWPZLTsMB9fS1WtckAfIZKlKM5CqY="
         }
       },
       "is_incremental": false,
@@ -665,11 +665,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceData-1.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.FaceData-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceData-1.html",
-          "hash": "jUviEK92TuqGhGBNClBpYyvTGRfnukJEwHBM6+qDlxY="
+          "relative_path": "api/CarbideFunction.Wildtile.FaceData-1.html",
+          "hash": "IAlogYf1GQCuyuBE5pgQFiiiNDGiZKlmy9rqtCtXups="
         }
       },
       "is_incremental": false,
@@ -677,11 +677,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.SerializationFace.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.FaceDataSerialization.SerializationFace.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.SerializationFace.html",
-          "hash": "LQTv1R0okAOC4bFLiMuHKcWq27iFEptfQA7dTrERMlQ="
+          "relative_path": "api/CarbideFunction.Wildtile.FaceDataSerialization.SerializationFace.html",
+          "hash": "F9xUYJwyti6rSNh+cOFyO9gsACzrTWpQk39uhU7MgRY="
         }
       },
       "is_incremental": false,
@@ -689,11 +689,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.FaceDataSerialization.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceDataSerialization.html",
-          "hash": "XTZiM/xPHwyPFGc4XU7hTWC0Jtsqs0BzNYkMkz1tzyc="
+          "relative_path": "api/CarbideFunction.Wildtile.FaceDataSerialization.html",
+          "hash": "3bFDBjAdNEPlYLmFdP92xVtVQ81HoP0LHCVsfXNlT0s="
         }
       },
       "is_incremental": false,
@@ -701,11 +701,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FaceHash.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.FaceHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.FaceHash.html",
-          "hash": "YrZ29K6MCKVasnpKC/f0ckWU8yizFlwX5U2npW53YSM="
+          "relative_path": "api/CarbideFunction.Wildtile.FaceHash.html",
+          "hash": "xCgBqIfI3x7ed6YCz2AtwDfqJTOYKZhVAHAfxDMg1XM="
         }
       },
       "is_incremental": false,
@@ -713,11 +713,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.FlatArrayIndex.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.FlatArrayIndex.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.FlatArrayIndex.html",
-          "hash": "ggjmukRPVLm+X1NK63KSzrvtfw4cSCF0AMkJLw7mhJk="
+          "relative_path": "api/CarbideFunction.Wildtile.FlatArrayIndex.html",
+          "hash": "rseoCVdistD+SjjYscui8pkuNg++YmMLvj2zgOYHwec="
         }
       },
       "is_incremental": false,
@@ -725,11 +725,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.GenerateMessage.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.GenericInfoLog-1.GenerateMessage.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.GenerateMessage.html",
-          "hash": "8ihwrg/Mp/ecdqeCBQXOxTlIaOS/B/Kosw5n1MKUKVM="
+          "relative_path": "api/CarbideFunction.Wildtile.GenericInfoLog-1.GenerateMessage.html",
+          "hash": "+egtWcSP7wv9E6PTxkRNSur1zyUsqM+I197X8Gdt9+4="
         }
       },
       "is_incremental": false,
@@ -737,11 +737,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.GenericInfoLog-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.GenericInfoLog-1.html",
-          "hash": "bUld49S8aV2IWDKJhyy1qqzg3JclYgH75gEiROG9USo="
+          "relative_path": "api/CarbideFunction.Wildtile.GenericInfoLog-1.html",
+          "hash": "4d+stuxdN89nl4uVbXU+QEn/ODezwqvwdJEgKvWHenk="
         }
       },
       "is_incremental": false,
@@ -749,11 +749,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.GridPlacer.OnGenerationComplete.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.OnGenerationComplete.html",
-          "hash": "h2DWLGogKKeCHTF4qWTdcg38G+ZkgEzuAWeFamh57W0="
+          "relative_path": "api/CarbideFunction.Wildtile.GridPlacer.OnGenerationComplete.html",
+          "hash": "K6u38CC8Y63phb7/ADvHXedpUmfH+tWuTidV69Pe0BQ="
         }
       },
       "is_incremental": false,
@@ -761,11 +761,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.GridPlacer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.GridPlacer.html",
-          "hash": "rcMkVGaIb3HHA773xza/eN78CVOOU6NWcovTVE6WEWA="
+          "relative_path": "api/CarbideFunction.Wildtile.GridPlacer.html",
+          "hash": "fTBr9g+q/y1x11UeNwisyTnD4LajLfdgj+gx00I3QKM="
         }
       },
       "is_incremental": false,
@@ -773,11 +773,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Hash.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Hash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Hash.html",
-          "hash": "pJmysekrwGFowVYc/dK5j8K5nFNeSTCHvhiSkayeDoU="
+          "relative_path": "api/CarbideFunction.Wildtile.Hash.html",
+          "hash": "dDASREu9kQ5T5YPLTHihR2o/0IRx0hsiYyH3+pjLmfI="
         }
       },
       "is_incremental": false,
@@ -785,11 +785,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.IIsLogEnabledGetter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.IIsLogEnabledGetter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.IIsLogEnabledGetter.html",
-          "hash": "czTCWYHjGKqFFbi2sT8QDv2JbE24L+yUjbkYEgaX/Ag="
+          "relative_path": "api/CarbideFunction.Wildtile.IIsLogEnabledGetter.html",
+          "hash": "f/wM185A9cDjROAFk5H++BYoIv5wGPWHM1cUkpoXY9Y="
         }
       },
       "is_incremental": false,
@@ -797,11 +797,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLog.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ImportInfoLog.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLog.html",
-          "hash": "KtIFn2OOfhQ+qJA5fsdg0Y3AY59e5KPuh4a636VKMfE="
+          "relative_path": "api/CarbideFunction.Wildtile.ImportInfoLog.html",
+          "hash": "TWicgrXZ7xeyoctNt8BXCtiHOjMHXEsDHmhWHi8UxmM="
         }
       },
       "is_incremental": false,
@@ -809,11 +809,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLogSettingsGetter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ImportInfoLogSettingsGetter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.ImportInfoLogSettingsGetter.html",
-          "hash": "XGzaC1NgSoh7MhsIgTz2+PdKeI7XwtadbPYaH5nE/yo="
+          "relative_path": "api/CarbideFunction.Wildtile.ImportInfoLogSettingsGetter.html",
+          "hash": "Rm7Y/+a3XTwbFu3P5lgcR2a3ZdERcVvYkDsG1xbUsaQ="
         }
       },
       "is_incremental": false,
@@ -821,11 +821,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.MaterialImportSettings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.MaterialImportSettings.html",
-          "hash": "PFBlVWQWmhOMUJLxRbQ3K07y9Dc0H0t1B4lP6LtrxRA="
+          "relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings.html",
+          "hash": "fOn8xxJFByWTX4OLeYZvwF2RVcyGJn4sFBDMxu+YAYQ="
         }
       },
       "is_incremental": false,
@@ -833,11 +833,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.Settings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.Settings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.Settings.html",
-          "hash": "AUYtj/N6x8ybHpacG5CEFRvfrt6Kdgu8Ne9XlcdftwM="
+          "relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.Settings.html",
+          "hash": "wvHf9f3ZO6TRv16DHWpmLoCcWxCBhaUQzw3CdajHplk="
         }
       },
       "is_incremental": false,
@@ -845,11 +845,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.ImporterSettings.html",
-          "hash": "LPui4ggO09sGO1rLhiLhK8EeKa3/3KS+epH6GUTkuT0="
+          "relative_path": "api/CarbideFunction.Wildtile.ImporterSettings.html",
+          "hash": "i7GZxJhYNapPIGXtRjd/o2oM0jE8rbpfIi2OHmEwD9o="
         }
       },
       "is_incremental": false,
@@ -857,11 +857,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.LineIntersectionResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.InsidenessCalculator.LineIntersectionResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.LineIntersectionResult.html",
-          "hash": "3da1kgAOL2eYv+TWzVjwmkO6N3o8Yfc2jTMZfqTLGM4="
+          "relative_path": "api/CarbideFunction.Wildtile.InsidenessCalculator.LineIntersectionResult.html",
+          "hash": "7MbHSAdOdRJgLi9DmLylM30tyEJIonITJ+E+ax2Zln8="
         }
       },
       "is_incremental": false,
@@ -869,11 +869,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.InsidenessCalculator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.InsidenessCalculator.html",
-          "hash": "VrTHxyAM6B72bNwii+DhycczJqCE93z94mcKwvpPsJ8="
+          "relative_path": "api/CarbideFunction.Wildtile.InsidenessCalculator.html",
+          "hash": "zom7KhPU6GGrU+IJyHd9AcU7BIBoHgwr41Lc+vlEZXI="
         }
       },
       "is_incremental": false,
@@ -881,11 +881,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.MenuConstants.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.MenuConstants.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.MenuConstants.html",
-          "hash": "QU5HrdEQvQuTTT1fkDUK5tHrpp1u21n8WdXPvNeaavI="
+          "relative_path": "api/CarbideFunction.Wildtile.MenuConstants.html",
+          "hash": "lHZ/IxNrVUgZkZYlYVjZnmJeO94TcuR3IHUT8Fqf7jQ="
         }
       },
       "is_incremental": false,
@@ -893,11 +893,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Module.FaceHashes.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Module.FaceHashes.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Module.FaceHashes.html",
-          "hash": "cLpgxa+pdbVifByh5++oSCC2LkuCyjOwqkmz5OBDvjQ="
+          "relative_path": "api/CarbideFunction.Wildtile.Module.FaceHashes.html",
+          "hash": "F7AgzLLOBe5Q+2yUKmxEv650LCtxqHQ5QTU4yNVVIJ4="
         }
       },
       "is_incremental": false,
@@ -905,11 +905,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Module.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Module.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Module.html",
-          "hash": "HH2i7EoDj5uFPcRUoAAQDbBvZJim+ryCR+5IfCgJppw="
+          "relative_path": "api/CarbideFunction.Wildtile.Module.html",
+          "hash": "qN4E/tH2iDE44KzMtbphq1YuCUXjqTMmE8CJ8c4dHM0="
         }
       },
       "is_incremental": false,
@@ -917,11 +917,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.NeighborConstraint.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.NeighborConstraint.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.NeighborConstraint.html",
-          "hash": "SEE7eGCaQkfXpLFbz/PXpbke+WN9L7jeope8qOdhHqs="
+          "relative_path": "api/CarbideFunction.Wildtile.NeighborConstraint.html",
+          "hash": "2f+KsKMMdJOJILQs9EgUTok8tJrJtq825/RJ8/nFCmo="
         }
       },
       "is_incremental": false,
@@ -929,11 +929,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.PlacerPostprocessor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessor.html",
-          "hash": "U6IxKWZlJGYkpGmNByaYw8FFS+GnPl6+UaUSp/+Bfz8="
+          "relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.PlacerPostprocessor.html",
+          "hash": "Zv34Uyfx/Ql8QVYRIq97qDW66ofzxbaCK1VpXQANVd8="
         }
       },
       "is_incremental": false,
@@ -941,11 +941,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessorCreator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.PlacerPostprocessorCreator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.PlacerPostprocessorCreator.html",
-          "hash": "mw6h+m6TJAUSUB6bey8GD05RsKFELOObGJWvww4shPA="
+          "relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.PlacerPostprocessorCreator.html",
+          "hash": "TS1T8GJ2+mfpJEJERTJ2ZMujnDxIbQbW5UOyqKPDWKw="
         }
       },
       "is_incremental": false,
@@ -953,11 +953,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.PlacerPostprocessing.html",
-          "hash": "nlohO1sMerAVg4bUOWL1HhsFlplT11jdIn/qo1qCA8g="
+          "relative_path": "api/CarbideFunction.Wildtile.PlacerPostprocessing.html",
+          "hash": "AjNKKAQuDTDjE3rHFqC42yvEfYBAgbz5Z/dLkwl1QQ8="
         }
       },
       "is_incremental": false,
@@ -965,11 +965,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.PositiveModuloLibrary.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.PositiveModuloLibrary.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.PositiveModuloLibrary.html",
-          "hash": "8nhB/A6mYasLZEWLqEb6gdynVjLypq7wF2hF3pgv8b4="
+          "relative_path": "api/CarbideFunction.Wildtile.PositiveModuloLibrary.html",
+          "hash": "LAT0xQOE/42l5tWAudokG3F1fFwGogINGMdIdQh1H7s="
         }
       },
       "is_incremental": false,
@@ -977,11 +977,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.Slot.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Slot.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.Slot.html",
-          "hash": "TCzGNS+E+acpIH4Gm1Jk5LCnjpzOslz4oD9VJTcNecA="
+          "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Slot.html",
+          "hash": "LOF55BC3fI4UjQfWhoIERvEQNyCWeBmEHJblRFzMnbs="
         }
       },
       "is_incremental": false,
@@ -989,11 +989,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessableMap.html",
-          "hash": "CQV2TKpgNmivy6GxHK5LsxjL1zQiu5jk3ih3yd6Cw8A="
+          "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html",
+          "hash": "NAH/ilu2RTtg6PROLi7zo+5YPdBS7rKiKaujefzNttM="
         }
       },
       "is_incremental": false,
@@ -1001,11 +1001,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.Postprocessor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.Postprocessor.html",
-          "hash": "IikxXqOmdMr9zmKHqSL7iri5TVUBPocxD/O4AfhY9/w="
+          "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.html",
+          "hash": "zRqaMUXi5Bi1n8yMMJEILwomYxFPwTBnCSClKkDS5W8="
         }
       },
       "is_incremental": false,
@@ -1013,11 +1013,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessorCreator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessorCreator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.PostprocessorCreator.html",
-          "hash": "iDzXnrBezVNOzb7sC92bJchX0AUHjenKIYIIZiAGIwQ="
+          "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessorCreator.html",
+          "hash": "auJKLuSzqBbFN1hQeVe0RKg2t6niDZsGsooh9d9fhfE="
         }
       },
       "is_incremental": false,
@@ -1025,11 +1025,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Postprocessing.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Postprocessing.html",
-          "hash": "4o3QI+Z6MhidRz8T+ospeYnAoma7YDaRfCmZKlPQ5yE="
+          "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.html",
+          "hash": "2ErUZSzZNj8vC7OBs+O63dsjZe89O8v3SdyDF6/G3oY="
         }
       },
       "is_incremental": false,
@@ -1037,11 +1037,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.DoWithSlot.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.DoWithSlot.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.DoWithSlot.html",
-          "hash": "LnyTEFGIuU+fzC45ihI7Jnfgm207tAbhIRGX9JdU2xE="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.DoWithSlot.html",
+          "hash": "Vfp6u/cAO6ZR3n1Mn0vd7oWDCb5t9wt/EA4EEKB4cj8="
         }
       },
       "is_incremental": false,
@@ -1049,11 +1049,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.FullPropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.FullPropagationResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.FullPropagationResult.html",
-          "hash": "6rltL2u4l/yRkJwhxklGhOgwN8X7C7z7oomLnOPMcik="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.FullPropagationResult.html",
+          "hash": "wKKqp4ibgwwNOjk94hP46TxLEcaECqqsM7QvGy/mSiU="
         }
       },
       "is_incremental": false,
@@ -1061,11 +1061,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.PropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.PropagationResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.PropagationResult.html",
-          "hash": "7H5gkoJ3R01NM5HIjjzXQXtt6+V0td2HpZCkw0REp2E="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.PropagationResult.html",
+          "hash": "lVXcQvmS6eMo3PzOcKYUBOzChgoxBIiChTxjQbs0Xnc="
         }
       },
       "is_incremental": false,
@@ -1073,11 +1073,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.ReportContradictionSlot.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportContradictionSlot.html",
-          "hash": "QmOrw5UOI5+qLdG2r7vldohILAY44bSotl47rlXdU7w="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.ReportContradictionSlot.html",
+          "hash": "SyXtbyXnX07Q0OTPN957FyI7js1D9mmUzUpYNFBoVKc="
         }
       },
       "is_incremental": false,
@@ -1085,11 +1085,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.ReportPropagationResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.ReportPropagationResult.html",
-          "hash": "TmuccBn4Ja2BOJl2oWHctA3sbT6R+fWgZAMJ45d00dA="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.ReportPropagationResult.html",
+          "hash": "oM+EyYI1ROWl1JiA46mQyiJ8rZ3GM8rlvGsVFtJS3AU="
         }
       },
       "is_incremental": false,
@@ -1097,11 +1097,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Propagation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Propagation.html",
-          "hash": "q8xblnnyw8BLHHv2Iq9BN2SohUnoLOjkXuDnv9AG7qg="
+          "relative_path": "api/CarbideFunction.Wildtile.Propagation.html",
+          "hash": "XUVXA9xuQlqxaj1vSvgzMsZ2PL18skNJi6ms66dDSH0="
         }
       },
       "is_incremental": false,
@@ -1109,11 +1109,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.QuantizedVector.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.QuantizedVector.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.QuantizedVector.html",
-          "hash": "n9lrADYszL08vmiNTufCa/MumCAnl9tMdHoEXE+9fZs="
+          "relative_path": "api/CarbideFunction.Wildtile.QuantizedVector.html",
+          "hash": "o/aBIY82vhHnLnE0XbdJzAIUI9ecMJ0Timy06NZSicM="
         }
       },
       "is_incremental": false,
@@ -1121,11 +1121,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Slot.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Slot.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Slot.html",
-          "hash": "3HVklt6jHttc0u+UdIg512OpQt7fxKkRcUVie5RzCXI="
+          "relative_path": "api/CarbideFunction.Wildtile.Slot.html",
+          "hash": "0j/9FrMQlFB5XGfgY3GpQNq3RCfYBAz1LhMEUxiD4Z0="
         }
       },
       "is_incremental": false,
@@ -1133,11 +1133,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.SlotEdge.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.SlotEdge.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.SlotEdge.html",
-          "hash": "3ZW0ZsY0ArEIMIG0p9A+5g3A7og3Hh35pjEpULP6sls="
+          "relative_path": "api/CarbideFunction.Wildtile.SlotEdge.html",
+          "hash": "lxZ+QL6I5zD48W02nwcetJfkAK5sHwENpvJbqppAVjI="
         }
       },
       "is_incremental": false,
@@ -1145,11 +1145,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.SlotGrid.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.SlotGrid.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.SlotGrid.html",
-          "hash": "kYfJdItNCJvY74k4pUdWbzCGIkhDMms2S8zM3JuAidQ="
+          "relative_path": "api/CarbideFunction.Wildtile.SlotGrid.html",
+          "hash": "7SFfOTs1rKBXUgij0S8w1cDGJ7xvT38bEqSI8PUpsM4="
         }
       },
       "is_incremental": false,
@@ -1157,11 +1157,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.CubeConfiguration.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Tileset.CubeConfiguration.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.CubeConfiguration.html",
-          "hash": "humRb7q3c3vF51jnSVrOsMYdkNP6Y5MtHoclLTQm1Ho="
+          "relative_path": "api/CarbideFunction.Wildtile.Tileset.CubeConfiguration.html",
+          "hash": "qCnUDPlQkQvzl/206H0sH45DPT0rGeRPrkfWRynpr4o="
         }
       },
       "is_incremental": false,
@@ -1169,11 +1169,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.FaceHashToOppositeFaceHash.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Tileset.FaceHashToOppositeFaceHash.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.FaceHashToOppositeFaceHash.html",
-          "hash": "81SkerLsl4GcvBSE/Edi7q+J1f283d91MHGsJvEFVUM="
+          "relative_path": "api/CarbideFunction.Wildtile.Tileset.FaceHashToOppositeFaceHash.html",
+          "hash": "hLh54+4QK3h+pzjgjxGD8vDdo29kd5gtJLDdHTHBP/A="
         }
       },
       "is_incremental": false,
@@ -1181,11 +1181,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Tileset.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Tileset.html",
-          "hash": "89lZcqw4OPj9f2GdvXYwz4wDcEkIW/3imoD6ttFl4/U="
+          "relative_path": "api/CarbideFunction.Wildtile.Tileset.html",
+          "hash": "/PyeKU6NLK7KcKfOiCu4Q8KC1Z6XrXn29YFNHyEIcR8="
         }
       },
       "is_incremental": false,
@@ -1193,11 +1193,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.OnTilesetChanged.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.TilesetImporter.OnTilesetChanged.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.OnTilesetChanged.html",
-          "hash": "cn4uPAuh1zYY9n/lV/W/J8wba/7+dhjS+Ip7MOBB3Zs="
+          "relative_path": "api/CarbideFunction.Wildtile.TilesetImporter.OnTilesetChanged.html",
+          "hash": "Lm5VuCbNMahmN+utTK2T/jhdbaGAdsElyx141IfJW2U="
         }
       },
       "is_incremental": false,
@@ -1205,11 +1205,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.TilesetImporter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetImporter.html",
-          "hash": "62KMPgggBwTOb4RKdXXwTXrBfk973cTvJvBsd67peeA="
+          "relative_path": "api/CarbideFunction.Wildtile.TilesetImporter.html",
+          "hash": "9gkXbYP677cXeWvMi0iAQ4QffUOsryHGLfLc+vg6Y4w="
         }
       },
       "is_incremental": false,
@@ -1217,11 +1217,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TilesetToWaveFunctionCollapser.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.TilesetToWaveFunctionCollapser.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.TilesetToWaveFunctionCollapser.html",
-          "hash": "txU6+pkk0Qdy/4u6JM1LshVGcpIuwQperMDVgT8EBT4="
+          "relative_path": "api/CarbideFunction.Wildtile.TilesetToWaveFunctionCollapser.html",
+          "hash": "J1a+UDgknJk3t0rNf7U1zrRQzDot0sZvGqE1iEBjmCw="
         }
       },
       "is_incremental": false,
@@ -1229,11 +1229,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.TransformedModule.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.TransformedModule.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.TransformedModule.html",
-          "hash": "fF/fGQnc6DGhusi7LohXP5frbvytjqGvgWpVyAOWoxc="
+          "relative_path": "api/CarbideFunction.Wildtile.TransformedModule.html",
+          "hash": "f9StvQALeyE6ZTkoJUzmjfWes15GbdlHrfsMAtmjqfk="
         }
       },
       "is_incremental": false,
@@ -1241,11 +1241,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.Triangle.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Triangle.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.Triangle.html",
-          "hash": "iYp3gRyAIfVcp4PjP/H5k4EsfGe3ZYfSDcZzdVNkI5c="
+          "relative_path": "api/CarbideFunction.Wildtile.Triangle.html",
+          "hash": "IzZlGzk0r2FszF+KJBIp9lArYI6lUNQ2CW+BHsXNIWQ="
         }
       },
       "is_incremental": false,
@@ -1253,11 +1253,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.VoxelGrid.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.VoxelGrid.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.VoxelGrid.html",
-          "hash": "YpqC+1fpqAKRmoWqV15KrB99JrGBwu9/eNBm2gNL+Z8="
+          "relative_path": "api/CarbideFunction.Wildtile.VoxelGrid.html",
+          "hash": "5Vjghm4zaq373FN22+I4OMcwGwqkdrWCIiPD4PXP7OY="
         }
       },
       "is_incremental": false,
@@ -1265,11 +1265,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.CollapseResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.CollapseResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.CollapseResult.html",
-          "hash": "sgPDvAVOaf26BiIq4C6Fsb9usQT8Vj3oxacL/nR7+a4="
+          "relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.CollapseResult.html",
+          "hash": "BaTqFuerz8Gcn3LI2DwE1CrWujL5Lpr4EbBfRDL7r5c="
         }
       },
       "is_incremental": false,
@@ -1277,11 +1277,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.ReportCollapseResult.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.ReportCollapseResult.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.ReportCollapseResult.html",
-          "hash": "ni/cIMkPTs3SZBi0mlggfLuzNOuE1WiUquPMxyvu7wY="
+          "relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.ReportCollapseResult.html",
+          "hash": "K9j9Xlm+vlcpnAmTgZ1BGCV/3HHFkzOXoD5j1y6u5HQ="
         }
       },
       "is_incremental": false,
@@ -1289,11 +1289,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WaveFunctionCollapser.html",
-          "hash": "U4J+ijj5jaT5vxY1/w3N1t5ly/MJ4le+PqP+Td2KGvQ="
+          "relative_path": "api/CarbideFunction.Wildtile.WaveFunctionCollapser.html",
+          "hash": "OXe8eP6kfXSe8tKvS9/Dl84aqKvzJrmZwzT4LBp8ebI="
         }
       },
       "is_incremental": false,
@@ -1301,11 +1301,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessor.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessor.html",
-          "hash": "hK4etl13dxs/IQf2idVulcPHUUhYFnY23u06Pp/N/74="
+          "relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html",
+          "hash": "68xF6FJK5eHlsy/HQZPiWxdqcxMYbckYBo6x+vaUOM4="
         }
       },
       "is_incremental": false,
@@ -1313,11 +1313,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessorCreator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessorCreator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.WelderPostprocessorCreator.html",
-          "hash": "aS552m/hJ+mhj1BKo5fxwgTgFIwlFs5Vr6FjL3pN/74="
+          "relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessorCreator.html",
+          "hash": "ymNydXYUw6WM61tacJOZDeVjPIPiOFKbA+7rxkA5SSQ="
         }
       },
       "is_incremental": false,
@@ -1325,11 +1325,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WelderPostprocessing.html",
-          "hash": "uBuyEPxZLUidrNvrmzLoTxgRHknwW/EOvG6wOz5ip+0="
+          "relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.html",
+          "hash": "KE+nrgJd/PxLOSYzjBzMAg0jU/C8QqmisXWRbZg6vp0="
         }
       },
       "is_incremental": false,
@@ -1337,11 +1337,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.CreateCollapsibleCalculator.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.CreateCollapsibleCalculator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.CreateCollapsibleCalculator.html",
-          "hash": "nCt0P3fEnu/ua2ck+tvSUv27hyVIRXxmzJ2Ni/5r9Rw="
+          "relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.CreateCollapsibleCalculator.html",
+          "hash": "CfUuPgYbG7r6WmP8xea7RC7CXN2alFbGB9trjVs9XpM="
         }
       },
       "is_incremental": false,
@@ -1349,11 +1349,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportCollapsible.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.ReportCollapsible.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportCollapsible.html",
-          "hash": "/8UQ6sjhJvtpCenHhHVZifUqEX4UUox9z31rWRv2ZWc="
+          "relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.ReportCollapsible.html",
+          "hash": "fqdTIffdpaPni9RInHpBdapQGvi350Lyu/hZEStLfzE="
         }
       },
       "is_incremental": false,
@@ -1361,11 +1361,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.html",
-          "hash": "D98Kd0dYEtr6eiBkMlks64TiPiu70KN3zPlONFD+f6Y="
+          "relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.ReportMinimalCollapsibleWildcards.html",
+          "hash": "9xkJYiMUcS1LCzbrkKdXKyqQsJkdgmj0VSCiK0pRIF8="
         }
       },
       "is_incremental": false,
@@ -1373,11 +1373,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.WildcardSlotReducer.html",
-          "hash": "Vo/O5z9LTb6ZSzdNBZ+AQWzcJdHb/XNxIW5t6zaT/gs="
+          "relative_path": "api/CarbideFunction.Wildtile.WildcardSlotReducer.html",
+          "hash": "fmsu2Fc7EmRNkWzkxzFY9tqu+H4tPWf6sakgdSEsbkE="
         }
       },
       "is_incremental": false,
@@ -1385,11 +1385,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.VoxelCollapse.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.VoxelCollapse.html",
-          "hash": "m6X+qv9Jy1KQV1o+eZaRSEUSDApZITmTxpMAMnPNU3M="
+          "relative_path": "api/CarbideFunction.Wildtile.html",
+          "hash": "81TYuddwI0V1BBhsuhEUimC9KcckjiRpu3hLQO2hU9I="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Dp1IiPUFmoJxkKUzaNxCkTsE8yLCYmySrFvOvzYlc0A="
+          "hash": "KZ87LiUj8t9bDc2yYJMdM4gZa2UHZZKaXymjBJK71ks="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/advanced_features.html",
-          "hash": "ccV3ZLe79UfWZlb/DTmR77w+KxrsGJ4ZFhnDGvmYM84="
+          "hash": "BICpRDM8C+iUn/t4uChxA+gcnqLmRxjHHzF5XvW8EQs="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/create_tileset_workflow.html",
-          "hash": "jgF1mkc0pFtl9EmQD+ut7WlXmH8n4e4SinfhX7Mdy2o="
+          "hash": "fixV8CAXsKlZCLbsw/dBRCLzGwidOXoFdt6ROQM+tas="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/debugging_tileset.html",
-          "hash": "2eDJ2DfRw0+riJah4+6IBdKx9dwPBbl8xzItzJY4teA="
+          "hash": "P8IYAE4aQd2ExbcJ79dUm5xdEGkOJtu9b5myGCgCbgw="
         }
       },
       "is_incremental": false,
@@ -1485,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/getting_started.html",
-          "hash": "YWmTiw//Oq1D2SQCL2lZrUP/BYY/tT7AM8RtIJhThF8="
+          "hash": "hfXTBMy6bvrIFOkdOi8XeWs1gyVAT2+tt8RxJIHoiZw="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/import_settings.html",
-          "hash": "o0r/aLnZ8h33pI2wP+zsjSLg4H1odgvIXzb2rbUIkSA="
+          "hash": "j4GOhvoDmcGPCsy3Pw+JZ2PXNbecY7/eNYiGDlvqzz4="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "nFeBh/ZGZASj26MnB11v1s6n7j5IGVDBGbcB3mR7d8s="
+          "hash": "Gf+rxnGjkHe9W6y31mKHWuRtS9xEkvz5l0wJBL2m0QM="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/model_slicing.html",
-          "hash": "x9cSrQiVeAD3vBCqWaujfBOs5iBnzQNHXLQlhmisYws="
+          "hash": "6N8PJw7M8gtj74LpaKskCj6UteeP4/AUS33Iy7ofUtI="
         }
       },
       "is_incremental": false,

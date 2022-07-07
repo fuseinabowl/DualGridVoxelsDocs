@@ -71,7 +71,7 @@
 
 <p>When a tile does not act as you expect it to you can view it in the tileset inspector.
 Some common issues when developing tiles are that the <code>GridPlacer</code> does not place it on your tiles appropriately, or never places the tile next to another tile but you expect it should do.</p>
-<p>Open the Voxel Collapse tileset debugger by clicking through the menu bar → <code>Window</code> → <code>Voxel Collapse</code> → <code>Tileset Inspector</code>.</p>
+<p>Open the Wildtile tileset debugger by clicking through the menu bar → <code>Window</code> → <code>Wildtile</code> → <code>Tileset Inspector</code>.</p>
 <div class="TIP">
 <h5>Tip</h5>
 <p>The tileset inspector acts like any other Unity window - you can move it freely or dock it to a panel in the editor.</p>
@@ -83,12 +83,12 @@ Some common issues when developing tiles are that the <code>GridPlacer</code> do
 This view is the most common while debugging tiles.</p>
 <p>You can change the inspection mode between <code>Vertex Contents</code> and <code>Connections</code>.</p>
 <h3 id="vertex-contents">Vertex Contents</h3>
-<p>This mode shows an arrow pointing at one of the corners of the tile. The colour of the arrow indicates whether Voxel Collapse will import the tile with that corner inside or outside: A yellow line indicates the vertex is outside, and dark blue is inside.</p>
+<p>This mode shows an arrow pointing at one of the corners of the tile. The colour of the arrow indicates whether Wildtile will import the tile with that corner inside or outside: A yellow line indicates the vertex is outside, and dark blue is inside.</p>
 <div class="TIP">
 <h5>Tip</h5>
 <p>The inside-outside colours can be remembered as yellow vertices are outside so they can see the sun; dark blue vertices are inside and are in shade.</p>
 </div>
-<p>Select different Vertices to see how Voxel Collapse interprets the model in different directions. The triangles indicate which faces the ray intersects with, and you might need to check your <a href="import_settings.html">import settings</a> to change how the ray interacts with different materials.</p>
+<p>Select different Vertices to see how Wildtile interprets the model in different directions. The triangles indicate which faces the ray intersects with, and you might need to check your <a href="import_settings.html">import settings</a> to change how the ray interacts with different materials.</p>
 <p><img src="../images/first_tileset/inside_outside_debugging.png" alt="inside outside debugging"></p>
 <h3 id="connections">Connections</h3>
 <p>This mode shows all available neighbours in the lower list box in the editor window, and shows a neighbour tile on the stage alongside the current tile. Clicking on a different option in the neighbours list will hide the previous neighbour and show the newly selected neighbour.</p>
@@ -97,7 +97,7 @@ This view is the most common while debugging tiles.</p>
 <p><code>Valid Only</code> only shows neighbours that match along the selected face.</p>
 <p><code>Matching Vertex Contents</code> shows all neighbours that share vertex inside-ness on the selected face.
 The tiles that match are shown in a neutral grey colour, and tiles that do not are shown in red.</p>
-<p>Selecting a red neighbour tile shows it on the stage, separated from the main tile. It will also indicate why Voxel Collapse will not connect the tiles, whether it's mismatches between vertex positions, edges, normals, or materials.</p>
+<p>Selecting a red neighbour tile shows it on the stage, separated from the main tile. It will also indicate why Wildtile will not connect the tiles, whether it's mismatches between vertex positions, edges, normals, or materials.</p>
 <p><code>All</code> shows all tiles, even ones that are inappropriate along the face e.g. having a ground floor below another ground floor.
 Tiles that do not share vertex contents are marked in green.</p>
 <p>If you spot a tile that should be connected amongst the green tiles, check the <a href="#vertex-contents">vertex contents</a> of the current tile and the neighbour tile - one or other has been interpreted incorrectly and you may need to change the import settings to fix it.</p>
