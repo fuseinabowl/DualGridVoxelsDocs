@@ -5,6 +5,18 @@
   "files": [
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.ArrayLookup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.ArrayLookup.html",
+          "hash": "mXD+AUwlzBWx7BxydAzRhRTXx6M5HEi1riNJewhhqPY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.CollapseInfoLog.yml",
       "output": {
         ".html": {
@@ -53,6 +65,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html",
+          "hash": "hRgvwQbAGd8FE32bmg6DBmJjUeTkRRkGfeYZTcXTqG4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.Edge.yml",
       "output": {
         ".html": {
@@ -77,11 +101,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.html",
+          "hash": "tU7QF01pScrvklufuwlk0nqq07aTO6Pho6ExdRVY+28="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.yml",
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html",
-          "hash": "HBiZPyjU00JC0zwtYNAWEuWwf5QzZODUnJLnnA9Z8EY="
+          "hash": "MHvqsRGA9tZL+blL9DGcPJR+0FAs+OpGdZL6NP6O8eo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.html",
+          "hash": "6NUzFMn+RIhqKDkJL6Q8uAgxHPYkHMtNC9xVgLZQId0="
         }
       },
       "is_incremental": false,
@@ -617,35 +665,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.html",
-          "hash": "QcWs/rCQE/7FhWGvjPqVwd2z16cW/s9lJuf143QJJos="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.VoxelMesher.html",
-          "hash": "ZQ37gAF2imxwQA4MR4TsvP8BqggYAikpGP5bJXnq/yc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.Editor.yml",
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.html",
-          "hash": "hWfop54LpTtaOKQy5u6soTP2JSR5OlCsVqoNpwhw4r8="
+          "hash": "qFZ0J1RGxg89ptIPT//Xoneb3N9b9K3OUR1w6m18qkk="
         }
       },
       "is_incremental": false,
@@ -749,6 +773,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html",
+          "hash": "+XMK/BI66c5UpjBd1ikB/V1wF4KRhuuO1YoK+wWR+Nc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.GridPlacer.OnGenerationComplete.yml",
       "output": {
         ".html": {
@@ -765,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.GridPlacer.html",
-          "hash": "fTBr9g+q/y1x11UeNwisyTnD4LajLfdgj+gx00I3QKM="
+          "hash": "4G33ZCDYeyMp0enV9O+Odwzn1521X4QOn4Fkb7HJBuw="
         }
       },
       "is_incremental": false,
@@ -993,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html",
-          "hash": "NAH/ilu2RTtg6PROLi7zo+5YPdBS7rKiKaujefzNttM="
+          "hash": "rnlfSiPop6DeVdS0KnON4WY/zgCjcUpgXLgiCgqk1sQ="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1293,31 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.VoxelGrid.html",
-          "hash": "5Vjghm4zaq373FN22+I4OMcwGwqkdrWCIiPD4PXP7OY="
+          "hash": "Hnor+yFOUNLe9DrfbUIJO4+cDDpC5VnIT0Qoafv39K8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.FaceData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.FaceData.html",
+          "hash": "5aXoCeZnu08nyv3WYoSFB+YyrkiULDynbV7MUNLs750="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.html",
+          "hash": "ccXkBZ5D9CTs3xx0nh5cB4WRzdp28NgS19mFYIhfaEY="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.html",
-          "hash": "81TYuddwI0V1BBhsuhEUimC9KcckjiRpu3hLQO2hU9I="
+          "hash": "HGWP0xEG04OCunYLrFSmkbyx4TczQzemvTqcg9/4CVY="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "KZ87LiUj8t9bDc2yYJMdM4gZa2UHZZKaXymjBJK71ks="
+          "hash": "D4cFctJ3gH2GUyCIXs//CZgd2+qyvQVn6ZIzkrm0dcY="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1485,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/advanced_features.html",
-          "hash": "BICpRDM8C+iUn/t4uChxA+gcnqLmRxjHHzF5XvW8EQs="
+          "hash": "Y+qqg+AxtyhbtOnAeB/o/FniqASYSI9QfTt95IZS+/Y="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/create_tileset_workflow.html",
-          "hash": "fixV8CAXsKlZCLbsw/dBRCLzGwidOXoFdt6ROQM+tas="
+          "hash": "7/dK0mPLQ5lXmtA3Iq0j2XnIoxqTpfsyBskE8ZbUDEw="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/debugging_tileset.html",
-          "hash": "P8IYAE4aQd2ExbcJ79dUm5xdEGkOJtu9b5myGCgCbgw="
+          "hash": "JPmsABge/avxokGiswnoW07IoYREapCE3RAYN5FRk5U="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/editing_grids.html",
-          "hash": "h0BucrB0+DQb8CUyG693O4dlVX0wSHTyKyfYZ2riLJ0="
+          "hash": "5Z2I2GqgqQ8bX5q/FAHWqFn5Jr89mMtPpAxUORY+Vt4="
         }
       },
       "is_incremental": false,
@@ -1485,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/getting_started.html",
-          "hash": "hfXTBMy6bvrIFOkdOi8XeWs1gyVAT2+tt8RxJIHoiZw="
+          "hash": "P9UFo5jzluYwTYbcNNXbYAysv9ZUhBE6c/KNStyepkE="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/import_settings.html",
-          "hash": "j4GOhvoDmcGPCsy3Pw+JZ2PXNbecY7/eNYiGDlvqzz4="
+          "hash": "GmTVqzhHppI9Ar17K5axsutNkCt0pqAS1d6jFDnOADg="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "Gf+rxnGjkHe9W6y31mKHWuRtS9xEkvz5l0wJBL2m0QM="
+          "hash": "cldXyJNlDFuGSvVH5znzmXIiCtw9JZMMlmi8OeRhJb4="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/model_slicing.html",
-          "hash": "6N8PJw7M8gtj74LpaKskCj6UteeP4/AUS33Iy7ofUtI="
+          "hash": "pW/62BBwL0FpzgqdIRAY/WiQ1KkGRyqGbTiEFLFHMm4="
         }
       },
       "is_incremental": false,
@@ -1798,7 +1858,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "Q9dMwUODj04+ke42q2uov5jvjs7kf/y2fFBycA4Bw3M="
+          "hash": "0uAu6UTsXafhgoM/I0P1Kh1QhBh/T6LLCqh6hYaryVE="
         }
       },
       "is_incremental": false,
@@ -1837,7 +1897,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 116,
+          "total_file_count": 121,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

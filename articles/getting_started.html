@@ -69,73 +69,73 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="getting-started">Getting started</h1>
 
-<p>This tutorial should take 20 minutes. It will cover the basics of using the tool using the example tiles that come with the asset, so you won't need anything more than Unity and a license for the tool.</p>
+<p>This tutorial should take 20 minutes. It will cover the basics of using the tool using the example tiles that come with the asset; you won't need anything more than Unity and a license for Wildtile.</p>
 <p>We will import a tileset and start editing a level using it.</p>
 <p><img src="../images/voxel_editing.gif" alt="voxel editing example"></p>
 <h1 id="installing-wildtile">Installing Wildtile</h1>
 <p>If you haven't already, you will need to buy the Wildtile asset from the <a href="https://prf.hn/click/camref:1101loXVT/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F215355">Unity Asset Store</a>.</p>
 <p>Wildtile uses the standard flow for installing packages from the Asset Store.</p>
-<p>Once bought, it will show up in the <a href="https://docs.unity3d.com/Manual/upm-ui.html">Unity Editor Package Manager</a>.
+<p>Once bought, it will appear in the <a href="https://docs.unity3d.com/Manual/upm-ui.html">Unity Editor Package Manager</a>.
 In Unity, select <code>Window</code>→<code>Package Manager</code>.</p>
-<p>In the package manager, click on the <code>Packages</code> drop down button and select <code>My Assets</code> to view the assets you have purchased.
-If you cannot see Wildtile in the list on the left, you can search for it in the top right.</p>
-<p>Once you have found and clicked on Wildtile, click on <code>Download</code> in the bottom right. After downloading, this button will change to <code>Import</code>. Click it again to import the package into your project. Import the whole project including the examples folders, we will be using models from the examples later in this tutorial.</p>
+<p>In the package manager, click on the <code>Packages</code> drop-down button and select <code>My Assets</code> to view your purchased assets.
+If you cannot see Wildtile in the left list, you can search for it using the text box in the top right.</p>
+<p>Once you have found and clicked on Wildtile, click on <code>Download</code> in the bottom right. After downloading, this button will change to <code>Import</code>. Click it again to import the package into your project. Import the whole project, including the examples folders. We will be using models from the examples later in this tutorial.</p>
 <p><img src="../images/installing_package.gif" alt="installing package example"></p>
 <h1 id="setting-up-the-tileset">Setting up the Tileset</h1>
 <h2 id="creating-the-importer-and-the-tileset-assets">Creating the Importer and the Tileset assets</h2>
 <p>The importer stores information about how Wildtile should import your models so that you can edit the model externally and reimport it reliably. The importer asset typically does not need to be delivered with your built game (Unity will automatically ignore it as long as nothing is referencing it).</p>
 <p>The tileset asset stores the processed information about how the models fit together. Unity will include the tileset asset when building your game if you use the <code>GridPlacer</code> component.</p>
-<p>In the Project window, navigate to <code>Assets</code> and right click anywhere in the right window and select <code>Create</code>→<code>Folder</code>. Name this folder <code>Voxels</code>, then double click on the new folder to open it.</p>
-<p>Right click on the right window again and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset Importer</code> to create the importer. Right click again and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset</code> to create the tileset.</p>
+<p>In the Project window, navigate to <code>Assets</code>, right-click anywhere in the right window, and select <code>Create</code>→<code>Folder</code>. Name this folder <code>Voxels</code>, then double click on the new folder to open it.</p>
+<p>Right-click on the project window and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset Importer</code> to create the importer. Then, right-click again and select <code>Create</code>→<code>Wildtile</code>→<code>Tileset</code> to create the tileset.</p>
 <p><img src="../images/creating_assets.gif" alt="creating assets example"></p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>Tileset assets are included in built games and importer assets are not. You may wish to separate them when you use them in your actual project.</p>
+<p>Tileset assets are included in built games; importer assets are not. You may wish to separate them when you use them in your actual project.</p>
 </div>
 <h2 id="linking-the-assets">Linking the assets</h2>
-<p>Select the importer asset in the project window to view the settings in the inspector window. Drag the tileset asset from the project window to the <code>Destination Tileset</code> field in the inspector. This tells the importer to store the imported tiles in the tileset asset.</p>
-<p>In the inspector window click the target icon at the right of <code>Source Model</code> to open a selection window. In this window, find and click the <code>marching cubes</code> asset. The importer constructs tiles from the submodels in this model asset.</p>
+<p>Select the importer asset in the project window to view the settings in the inspector window. Next, drag the tileset asset from the project window to the <code>Destination Tileset</code> field in the inspector. This field tells the importer to store the imported tiles and markup.</p>
+<p>In the inspector window, click the target icon at the right of <code>Source Model</code> to open a selection window. In this window, find and click the <code>marching cubes</code> asset. The importer constructs tiles from the submodels in this model asset.</p>
 <p><img src="../images/link_objects_in_importer.gif" alt="link assets example"></p>
 <p>Setting these two fields enabled one-click reimporting. Click on the <code>Process models</code> button to start the import process.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>The import process will take a second or two (depending on your computer). As your tilesets grow you may need to wait longer when reimporting.</p>
+<p>The import process will take a second or two (depending on your computer). As your tilesets grow, you may need to wait longer when reimporting.</p>
 </div>
 <h2 id="creating-a-map-asset">Creating a map asset</h2>
-<p>Finally, we will need a voxel grid to use as a map. Create a voxel grid asset by right clicking in the project window and selecting <code>Create</code>→<code>Wildtile</code>→<code>Voxel Grid</code>.</p>
+<p>Finally, we will need a voxel grid to use as a map. Create a voxel grid asset by right-clicking in the project window and selecting <code>Create</code>→<code>Wildtile</code>→<code>Voxel Grid</code>.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>The map is a distinct asset, separate from the scene. This allows you to share maps between different scenes and grants you granular access in source control, allowing more developers to work together on the same project.</p>
+<p>The map is a distinct asset, separate from the scene. This split allows you to share maps between different scenes and grants you granular access in source control, allowing more developers to work together on the same project.</p>
 </div>
 <p>Select the new voxel grid asset and change the dimensions to (10, 3, 10).</p>
-<p>This is the size of the <strong>voxel</strong> grid. When using the <code>GridPlacer</code> component the generated <strong>model</strong> grid will be 1 unit greater in every dimension. In this case the placer will generate models in a 11×4×11 grid.</p>
+<p>These dimensions are the size of the <strong>voxel</strong> grid. When using the <code>GridPlacer</code> component, the generated <strong>model</strong> grid will be 1 unit greater in every dimension. In this case, the placer will generate models in an 11×4×11 grid.</p>
 <div class="CAUTION">
 <h5>Caution</h5>
-<p>Resizing the grid to smaller dimensions will lose any voxels that have been stored in the area outside the new dimensions.</p>
+<p>Resizing the grid to smaller dimensions will lose any voxels stored in the area outside the new dimensions.</p>
 </div>
 <p><img src="../images/create_voxel_grid.gif" alt="create voxel grid"></p>
 <h1 id="setting-up-the-scene">Setting up the Scene</h1>
 <h2 id="creating-the-tilemap-game-object">Creating the Tilemap Game Object</h2>
 <p>Now that the tileset and the map are ready, you can start using them in your scene.</p>
-<p>Create an empty game object in your scene by right clicking in the hierarchy window and selecting <code>Create Empty</code>.
-The new object should be automatically selected when you create it - make sure you can see it in the properties window.</p>
+<p>Create an empty game object in your scene by right-clicking in the hierarchy window and selecting <code>Create Empty</code>.
+The new object should be automatically selected when you create it - ensure you can see it in the properties window.</p>
 <p><img src="../images/create_grid_placer_object.gif" alt="create grid placer object"></p>
 <p>In that properties window, click the <code>Add Component</code> button and select <code>Grid Placer</code> (you can also type &quot;Grid Placer&quot; into the search bar to quickly find it).
 This will add a blank <code>GridPlacer</code> component to your game object.</p>
-<p>In the grid placer properties, find the <code>Tileset</code> and <code>Map</code> properties. From the project window, drag your voxel grid asset to the <code>Map</code> property and your tileset asset to the <code>Tileset</code> property.</p>
+<p>Find the <code>Tileset</code> and <code>Map</code> properties in the grid placer's properties. Drag your voxel grid asset from the project window to the <code>Map</code> property and your tileset asset to the <code>Tileset</code> property.</p>
 <p><img src="../images/create_grid_placer_component.gif" alt="create grid placer component"></p>
 <p>Nothing will happen yet, even if you click <code>Force map rebuild</code>, because the map starts empty.</p>
 <h2 id="editing-the-map">Editing the Map</h2>
-<p>Make sure the object with the <code>GridPlacer</code> component is selected. Press <code>U</code> to start the voxel editing tool. Press <code>W</code> to return to normal view.</p>
+<p>Make sure the object with the <code>GridPlacer</code> component is selected. Press <code>U</code> to start the voxel editing tool. Press <code>W</code> to return to standard view.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>If, at any time, you wish to exit the voxel editor tool, press <code>W</code>. This will select Unity's built in translate tool, shutting down the voxel editor tool.
+<p>If, at any time, you wish to exit the voxel editor tool, press <code>W</code>. This will select Unity's built-in translate tool, shutting down the voxel editor tool.
 Pressing <code>W</code> will never affect your scene or the voxel grid.</p>
 <p>You can also select any other tool or deselect the current object in the hierarchy window to turn off the voxel editing tool. These are 100% safe ways of exiting the tool.</p>
 </div>
-<p>Press <code>U</code> again to enter the voxel editing tool. This will show the inside of a cuboid grid. Click on grid squares to build outward. You can then click on the new voxels to build out from them. Control-clicking on a voxel will destroy the voxel.</p>
+<p>Press <code>U</code> again to enter the voxel editing tool. Unity will show the inside of a cuboid grid. You can click on grid squares to build outward, and then click on the new voxels to continue building out from them.</p>
 <p>Once you have created a voxel map you are happy with, press <code>W</code> to exit the editor tool and immediately generate a mesh that glues the tileset together in the shape of your voxel grid.</p>
-<p>Enter the tool again and hold <code>control</code> and click on the voxel you created. This will erase the voxel.</p>
+<p>Enter the tool again, hold <code>control</code> and click on the voxel you created. This will erase the voxel.</p>
 <p><img src="../images/first_place_and_delete.gif" alt="first place and delete"></p>
 <p>You can continue to iteratively build the map by entering the tool, making some changes, and exiting again to see how it has changed the output model.</p>
 </article>

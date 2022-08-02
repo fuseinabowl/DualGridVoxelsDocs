@@ -77,6 +77,8 @@
   <div class="markdown level0 remarks"></div>
     <h3 id="classes">Classes
   </h3>
+      <h4><a class="xref" href="CarbideFunction.Wildtile.ArrayLookup.html">ArrayLookup</a></h4>
+      <section></section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.CollapseInfoLog.html">CollapseInfoLog</a></h4>
       <section></section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.DetailedVectorString.html">DetailedVectorString</a></h4>
@@ -84,6 +86,10 @@
       <h4><a class="xref" href="CarbideFunction.Wildtile.DualGridVoxelMeshBackupTiles.html">DualGridVoxelMeshBackupTiles</a></h4>
       <section><p>Holds a single tile game object for each marching cube configuration</p>
 <p>This is used by the <seealso name="GridPlacer"></seealso> when the tile has not been collapsed or if the slot is wild.</p>
+</section>
+      <h4><a class="xref" href="CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html">DualGridVoxelMeshPlaceholderTiles</a></h4>
+      <section><p>Holds a single tile game object for each marching cube configuration.</p>
+<p>This is intended to be used by user-code when creating level editors.</p>
 </section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.Edge.html">Edge</a></h4>
       <section></section>
@@ -143,6 +149,10 @@
 </section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.VoxelGrid.html">VoxelGrid</a></h4>
       <section></section>
+      <h4><a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.html">VoxelMesher</a></h4>
+      <section><p>This class manages a naive mesh for a voxel grid.</p>
+<p>It can generate the naive mesh and can map any face index on the generated mesh to a voxel face. This is used by <seealso cref="!:TileMapEditorTool"></seealso> to select which voxel to fill/clear when clicking on the voxel grid.</p>
+</section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.WaveFunctionCollapser.html">WaveFunctionCollapser</a></h4>
       <section></section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.WildcardSlotReducer.html">WildcardSlotReducer</a></h4>
@@ -165,6 +175,9 @@
       <section></section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.Tileset.FaceHashToOppositeFaceHash.html">Tileset.FaceHashToOppositeFaceHash</a></h4>
       <section></section>
+      <h4><a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.FaceData.html">VoxelMesher.FaceData</a></h4>
+      <section><p>This struct describes the voxel coordinates for a voxel face.</p>
+</section>
     <h3 id="interfaces">Interfaces
   </h3>
       <h4><a class="xref" href="CarbideFunction.Wildtile.IIsLogEnabledGetter.html">IIsLogEnabledGetter</a></h4>
@@ -182,6 +195,8 @@
     <h3 id="enums">Enums
   </h3>
       <h4><a class="xref" href="CarbideFunction.Wildtile.Face.html">Face</a></h4>
+      <section></section>
+      <h4><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html">GridPlacer.GenerateOnStartUp</a></h4>
       <section></section>
       <h4><a class="xref" href="CarbideFunction.Wildtile.InsidenessCalculator.LineIntersectionResult.html">InsidenessCalculator.LineIntersectionResult</a></h4>
       <section></section>

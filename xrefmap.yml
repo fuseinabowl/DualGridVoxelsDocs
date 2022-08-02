@@ -7,6 +7,44 @@ references:
   commentId: N:CarbideFunction.Wildtile
   fullName: CarbideFunction.Wildtile
   nameWithType: CarbideFunction.Wildtile
+- uid: CarbideFunction.Wildtile.ArrayLookup
+  name: ArrayLookup
+  href: api/CarbideFunction.Wildtile.ArrayLookup.html
+  commentId: T:CarbideFunction.Wildtile.ArrayLookup
+  fullName: CarbideFunction.Wildtile.ArrayLookup
+  nameWithType: ArrayLookup
+- uid: CarbideFunction.Wildtile.ArrayLookup.Contains*
+  name: Contains
+  href: api/CarbideFunction.Wildtile.ArrayLookup.html#CarbideFunction_Wildtile_ArrayLookup_Contains_
+  commentId: Overload:CarbideFunction.Wildtile.ArrayLookup.Contains
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.ArrayLookup.Contains
+  nameWithType: ArrayLookup.Contains
+- uid: CarbideFunction.Wildtile.ArrayLookup.Contains``1(``0[0:,0:,0:],Vector3Int)
+  name: Contains<ArrayContents>(ArrayContents[,,], Vector3Int)
+  href: api/CarbideFunction.Wildtile.ArrayLookup.html#CarbideFunction_Wildtile_ArrayLookup_Contains__1___0_0__0__0___Vector3Int_
+  commentId: M:CarbideFunction.Wildtile.ArrayLookup.Contains``1(``0[0:,0:,0:],Vector3Int)
+  name.vb: Contains(Of ArrayContents)(ArrayContents(,,), Vector3Int)
+  fullName: CarbideFunction.Wildtile.ArrayLookup.Contains<ArrayContents>(ArrayContents[,,], Vector3Int)
+  fullName.vb: CarbideFunction.Wildtile.ArrayLookup.Contains(Of ArrayContents)(ArrayContents(,,), Vector3Int)
+  nameWithType: ArrayLookup.Contains<ArrayContents>(ArrayContents[,,], Vector3Int)
+  nameWithType.vb: ArrayLookup.Contains(Of ArrayContents)(ArrayContents(,,), Vector3Int)
+- uid: CarbideFunction.Wildtile.ArrayLookup.Lookup*
+  name: Lookup
+  href: api/CarbideFunction.Wildtile.ArrayLookup.html#CarbideFunction_Wildtile_ArrayLookup_Lookup_
+  commentId: Overload:CarbideFunction.Wildtile.ArrayLookup.Lookup
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.ArrayLookup.Lookup
+  nameWithType: ArrayLookup.Lookup
+- uid: CarbideFunction.Wildtile.ArrayLookup.Lookup``1(``0[0:,0:,0:],Vector3Int)
+  name: Lookup<ArrayContents>(ArrayContents[,,], Vector3Int)
+  href: api/CarbideFunction.Wildtile.ArrayLookup.html#CarbideFunction_Wildtile_ArrayLookup_Lookup__1___0_0__0__0___Vector3Int_
+  commentId: M:CarbideFunction.Wildtile.ArrayLookup.Lookup``1(``0[0:,0:,0:],Vector3Int)
+  name.vb: Lookup(Of ArrayContents)(ArrayContents(,,), Vector3Int)
+  fullName: CarbideFunction.Wildtile.ArrayLookup.Lookup<ArrayContents>(ArrayContents[,,], Vector3Int)
+  fullName.vb: CarbideFunction.Wildtile.ArrayLookup.Lookup(Of ArrayContents)(ArrayContents(,,), Vector3Int)
+  nameWithType: ArrayLookup.Lookup<ArrayContents>(ArrayContents[,,], Vector3Int)
+  nameWithType.vb: ArrayLookup.Lookup(Of ArrayContents)(ArrayContents(,,), Vector3Int)
 - uid: CarbideFunction.Wildtile.CollapseInfoLog
   name: CollapseInfoLog
   href: api/CarbideFunction.Wildtile.CollapseInfoLog.html
@@ -69,6 +107,31 @@ references:
   commentId: F:CarbideFunction.Wildtile.DualGridVoxelMeshBackupTiles.tilesName
   fullName: CarbideFunction.Wildtile.DualGridVoxelMeshBackupTiles.tilesName
   nameWithType: DualGridVoxelMeshBackupTiles.tilesName
+- uid: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles
+  name: DualGridVoxelMeshPlaceholderTiles
+  href: api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html
+  commentId: T:CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles
+  fullName: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles
+  nameWithType: DualGridVoxelMeshPlaceholderTiles
+- uid: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig(System.Int32)
+  name: GetMeshObjectForCubeConfig(Int32)
+  href: api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html#CarbideFunction_Wildtile_DualGridVoxelMeshPlaceholderTiles_GetMeshObjectForCubeConfig_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig(System.Int32)
+  fullName: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig(System.Int32)
+  nameWithType: DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig(Int32)
+- uid: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig*
+  name: GetMeshObjectForCubeConfig
+  href: api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html#CarbideFunction_Wildtile_DualGridVoxelMeshPlaceholderTiles_GetMeshObjectForCubeConfig_
+  commentId: Overload:CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig
+  nameWithType: DualGridVoxelMeshPlaceholderTiles.GetMeshObjectForCubeConfig
+- uid: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.tilesName
+  name: tilesName
+  href: api/CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.html#CarbideFunction_Wildtile_DualGridVoxelMeshPlaceholderTiles_tilesName
+  commentId: F:CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.tilesName
+  fullName: CarbideFunction.Wildtile.DualGridVoxelMeshPlaceholderTiles.tilesName
+  nameWithType: DualGridVoxelMeshPlaceholderTiles.tilesName
 - uid: CarbideFunction.Wildtile.Edge
   name: Edge
   href: api/CarbideFunction.Wildtile.Edge.html
@@ -175,6 +238,82 @@ references:
   commentId: T:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor
   fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor
   nameWithType: DualGridVoxelMeshBackupTilesEditor
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath(System.String,System.Int32)
+  name: ConstructMeshAssetPath(String, Int32)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_ConstructMeshAssetPath_System_String_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath(System.String,System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath(System.String, System.Int32)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath(String, Int32)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath*
+  name: ConstructMeshAssetPath
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_ConstructMeshAssetPath_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.ConstructMeshAssetPath
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath(System.String,System.Int32)
+  name: ConstructPrefabAssetPath(String, Int32)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_ConstructPrefabAssetPath_System_String_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath(System.String,System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath(System.String, System.Int32)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath(String, Int32)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath*
+  name: ConstructPrefabAssetPath
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_ConstructPrefabAssetPath_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.ConstructPrefabAssetPath
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist(UnityEngine.Object)
+  name: EnsurePrefabFoldersExist(UnityEngine.Object)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_EnsurePrefabFoldersExist_UnityEngine_Object_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist(UnityEngine.Object)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist(UnityEngine.Object)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist(UnityEngine.Object)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist*
+  name: EnsurePrefabFoldersExist
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_EnsurePrefabFoldersExist_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.EnsurePrefabFoldersExist
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths
+  name: DualGridVoxelMeshBackupTilesEditor.FolderPaths
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.html
+  commentId: T:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.models
+  name: models
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_FolderPaths_models
+  commentId: F:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.models
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.models
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths.models
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.placeholders
+  name: placeholders
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_FolderPaths_placeholders
+  commentId: F:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.placeholders
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.placeholders
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths.placeholders
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
+  name: wildcards
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_FolderPaths_wildcards
+  commentId: F:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  name: GenerateMesh(Int32)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh(Int32)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh*
+  name: GenerateMesh
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh
 - uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.OnInspectorGUI
   name: OnInspectorGUI()
   href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_OnInspectorGUI
@@ -188,6 +327,38 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.OnInspectorGUI
   nameWithType: DualGridVoxelMeshBackupTilesEditor.OnInspectorGUI
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray(SerializedProperty,System.Int32,GameObject)
+  name: StorePrefabInSerializedPropertyArray(SerializedProperty, Int32, GameObject)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_StorePrefabInSerializedPropertyArray_SerializedProperty_System_Int32_GameObject_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray(SerializedProperty,System.Int32,GameObject)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray(SerializedProperty, System.Int32, GameObject)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray(SerializedProperty, Int32, GameObject)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray*
+  name: StorePrefabInSerializedPropertyArray
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_StorePrefabInSerializedPropertyArray_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.StorePrefabInSerializedPropertyArray
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor
+  name: DualGridVoxelMeshPlaceholderTilesEditor
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.html
+  commentId: T:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor
+  nameWithType: DualGridVoxelMeshPlaceholderTilesEditor
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshPlaceholderTilesEditor_OnInspectorGUI
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI()
+  nameWithType: DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI()
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshPlaceholderTilesEditor_OnInspectorGUI_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI
+  nameWithType: DualGridVoxelMeshPlaceholderTilesEditor.OnInspectorGUI
 - uid: CarbideFunction.Wildtile.Editor.EditorHash
   name: EditorHash
   href: api/CarbideFunction.Wildtile.Editor.EditorHash.html
@@ -1816,108 +1987,6 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.VoxelGridEditor.OnInspectorGUI
   nameWithType: VoxelGridEditor.OnInspectorGUI
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher
-  name: VoxelMesher
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html
-  commentId: T:CarbideFunction.Wildtile.Editor.VoxelMesher
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher
-  nameWithType: VoxelMesher
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials(Material,Material)
-  name: ChangeMaterials(Material, Material)
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_ChangeMaterials_Material_Material_
-  commentId: M:CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials(Material,Material)
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials(Material, Material)
-  nameWithType: VoxelMesher.ChangeMaterials(Material, Material)
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials*
-  name: ChangeMaterials
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_ChangeMaterials_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.ChangeMaterials
-  nameWithType: VoxelMesher.ChangeMaterials
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform)
-  name: CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform)
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_
-  commentId: M:CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform)
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid, Vector3, Material, Material, Transform)
-  nameWithType: VoxelMesher.CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform)
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels*
-  name: CreateMeshedVoxels
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_CreateMeshedVoxels_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.CreateMeshedVoxels
-  nameWithType: VoxelMesher.CreateMeshedVoxels
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels
-  name: DestroyMeshedVoxels()
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_DestroyMeshedVoxels
-  commentId: M:CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels()
-  nameWithType: VoxelMesher.DestroyMeshedVoxels()
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels*
-  name: DestroyMeshedVoxels
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_DestroyMeshedVoxels_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.DestroyMeshedVoxels
-  nameWithType: VoxelMesher.DestroyMeshedVoxels
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData
-  name: VoxelMesher.FaceData
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.html
-  commentId: T:CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData
-  nameWithType: VoxelMesher.FaceData
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.facingVoxelCoordinate
-  name: facingVoxelCoordinate
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.html#CarbideFunction_Wildtile_Editor_VoxelMesher_FaceData_facingVoxelCoordinate
-  commentId: F:CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.facingVoxelCoordinate
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.facingVoxelCoordinate
-  nameWithType: VoxelMesher.FaceData.facingVoxelCoordinate
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.voxelCoordinate
-  name: voxelCoordinate
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.html#CarbideFunction_Wildtile_Editor_VoxelMesher_FaceData_voxelCoordinate
-  commentId: F:CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.voxelCoordinate
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.FaceData.voxelCoordinate
-  nameWithType: VoxelMesher.FaceData.voxelCoordinate
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
-  name: GetFaceDataForTriIndex(Int32)
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_GetFaceDataForTriIndex_System_Int32_
-  commentId: M:CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
-  nameWithType: VoxelMesher.GetFaceDataForTriIndex(Int32)
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex*
-  name: GetFaceDataForTriIndex
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_GetFaceDataForTriIndex_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.GetFaceDataForTriIndex
-  nameWithType: VoxelMesher.GetFaceDataForTriIndex
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3)
-  name: RegenerateMeshedVoxels(VoxelGrid, Vector3)
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_
-  commentId: M:CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3)
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid, Vector3)
-  nameWithType: VoxelMesher.RegenerateMeshedVoxels(VoxelGrid, Vector3)
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels*
-  name: RegenerateMeshedVoxels
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_RegenerateMeshedVoxels_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.RegenerateMeshedVoxels
-  nameWithType: VoxelMesher.RegenerateMeshedVoxels
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance
-  name: TempMeshInstance
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_TempMeshInstance
-  commentId: P:CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance
-  nameWithType: VoxelMesher.TempMeshInstance
-- uid: CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance*
-  name: TempMeshInstance
-  href: api/CarbideFunction.Wildtile.Editor.VoxelMesher.html#CarbideFunction_Wildtile_Editor_VoxelMesher_TempMeshInstance_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.VoxelMesher.TempMeshInstance
-  nameWithType: VoxelMesher.TempMeshInstance
 - uid: CarbideFunction.Wildtile.Face
   name: Face
   href: api/CarbideFunction.Wildtile.Face.html
@@ -2385,6 +2454,19 @@ references:
   commentId: F:CarbideFunction.Wildtile.GridPlacer.backupTiles
   fullName: CarbideFunction.Wildtile.GridPlacer.backupTiles
   nameWithType: GridPlacer.backupTiles
+- uid: CarbideFunction.Wildtile.GridPlacer.ClearChildren
+  name: ClearChildren()
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_ClearChildren
+  commentId: M:CarbideFunction.Wildtile.GridPlacer.ClearChildren
+  fullName: CarbideFunction.Wildtile.GridPlacer.ClearChildren()
+  nameWithType: GridPlacer.ClearChildren()
+- uid: CarbideFunction.Wildtile.GridPlacer.ClearChildren*
+  name: ClearChildren
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_ClearChildren_
+  commentId: Overload:CarbideFunction.Wildtile.GridPlacer.ClearChildren
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.GridPlacer.ClearChildren
+  nameWithType: GridPlacer.ClearChildren
 - uid: CarbideFunction.Wildtile.GridPlacer.createBottomTiles
   name: createBottomTiles
   href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_createBottomTiles
@@ -2416,6 +2498,36 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.GridPlacer.GenerateNow
   nameWithType: GridPlacer.GenerateNow
+- uid: CarbideFunction.Wildtile.GridPlacer.generateOnStartUp
+  name: generateOnStartUp
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_generateOnStartUp
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.generateOnStartUp
+  fullName: CarbideFunction.Wildtile.GridPlacer.generateOnStartUp
+  nameWithType: GridPlacer.generateOnStartUp
+- uid: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp
+  name: GridPlacer.GenerateOnStartUp
+  href: api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html
+  commentId: T:CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp
+  fullName: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp
+  nameWithType: GridPlacer.GenerateOnStartUp
+- uid: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Always
+  name: Always
+  href: api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html#CarbideFunction_Wildtile_GridPlacer_GenerateOnStartUp_Always
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Always
+  fullName: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Always
+  nameWithType: GridPlacer.GenerateOnStartUp.Always
+- uid: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.EditorOnly
+  name: EditorOnly
+  href: api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html#CarbideFunction_Wildtile_GridPlacer_GenerateOnStartUp_EditorOnly
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.EditorOnly
+  fullName: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.EditorOnly
+  nameWithType: GridPlacer.GenerateOnStartUp.EditorOnly
+- uid: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Never
+  name: Never
+  href: api/CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html#CarbideFunction_Wildtile_GridPlacer_GenerateOnStartUp_Never
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Never
+  fullName: CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.Never
+  nameWithType: GridPlacer.GenerateOnStartUp.Never
 - uid: CarbideFunction.Wildtile.GridPlacer.GenerateOverTime(CarbideFunction.Wildtile.GridPlacer.OnGenerationComplete)
   name: GenerateOverTime(GridPlacer.OnGenerationComplete)
   href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_GenerateOverTime_CarbideFunction_Wildtile_GridPlacer_OnGenerationComplete_
@@ -2442,12 +2554,6 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.GridPlacer.InterruptMeshGeneration
   nameWithType: GridPlacer.InterruptMeshGeneration
-- uid: CarbideFunction.Wildtile.GridPlacer.map
-  name: map
-  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_map
-  commentId: F:CarbideFunction.Wildtile.GridPlacer.map
-  fullName: CarbideFunction.Wildtile.GridPlacer.map
-  nameWithType: GridPlacer.map
 - uid: CarbideFunction.Wildtile.GridPlacer.maxCollapseSteps
   name: maxCollapseSteps
   href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_maxCollapseSteps
@@ -2491,6 +2597,12 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.GridPlacer.Tileset
   nameWithType: GridPlacer.Tileset
+- uid: CarbideFunction.Wildtile.GridPlacer.voxelGrid
+  name: voxelGrid
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_voxelGrid
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.voxelGrid
+  fullName: CarbideFunction.Wildtile.GridPlacer.voxelGrid
+  nameWithType: GridPlacer.voxelGrid
 - uid: CarbideFunction.Wildtile.Hash
   name: Hash
   href: api/CarbideFunction.Wildtile.Hash.html
@@ -2983,12 +3095,12 @@ references:
   commentId: T:CarbideFunction.Wildtile.Postprocessing.PostprocessableMap
   fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap
   nameWithType: PostprocessableMap
-- uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.#ctor(System.Int32)
-  name: PostprocessableMap(Int32)
-  href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html#CarbideFunction_Wildtile_Postprocessing_PostprocessableMap__ctor_System_Int32_
-  commentId: M:CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.#ctor(System.Int32)
-  fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.PostprocessableMap(System.Int32)
-  nameWithType: PostprocessableMap.PostprocessableMap(Int32)
+- uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.#ctor(Vector3Int)
+  name: PostprocessableMap(Vector3Int)
+  href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html#CarbideFunction_Wildtile_Postprocessing_PostprocessableMap__ctor_Vector3Int_
+  commentId: M:CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.#ctor(Vector3Int)
+  fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.PostprocessableMap(Vector3Int)
+  nameWithType: PostprocessableMap.PostprocessableMap(Vector3Int)
 - uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.#ctor*
   name: PostprocessableMap
   href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html#CarbideFunction_Wildtile_Postprocessing_PostprocessableMap__ctor_
@@ -2996,6 +3108,19 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.PostprocessableMap
   nameWithType: PostprocessableMap.PostprocessableMap
+- uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions
+  name: Dimensions
+  href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html#CarbideFunction_Wildtile_Postprocessing_PostprocessableMap_Dimensions
+  commentId: P:CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions
+  fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions
+  nameWithType: PostprocessableMap.Dimensions
+- uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions*
+  name: Dimensions
+  href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.html#CarbideFunction_Wildtile_Postprocessing_PostprocessableMap_Dimensions_
+  commentId: Overload:CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Dimensions
+  nameWithType: PostprocessableMap.Dimensions
 - uid: CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Slot
   name: PostprocessableMap.Slot
   href: api/CarbideFunction.Wildtile.Postprocessing.PostprocessableMap.Slot.html
@@ -3774,6 +3899,19 @@ references:
   commentId: F:CarbideFunction.Wildtile.VoxelGrid.dimensionZName
   fullName: CarbideFunction.Wildtile.VoxelGrid.dimensionZName
   nameWithType: VoxelGrid.dimensionZName
+- uid: CarbideFunction.Wildtile.VoxelGrid.GetCubeContents(Vector3Int)
+  name: GetCubeContents(Vector3Int)
+  href: api/CarbideFunction.Wildtile.VoxelGrid.html#CarbideFunction_Wildtile_VoxelGrid_GetCubeContents_Vector3Int_
+  commentId: M:CarbideFunction.Wildtile.VoxelGrid.GetCubeContents(Vector3Int)
+  fullName: CarbideFunction.Wildtile.VoxelGrid.GetCubeContents(Vector3Int)
+  nameWithType: VoxelGrid.GetCubeContents(Vector3Int)
+- uid: CarbideFunction.Wildtile.VoxelGrid.GetCubeContents*
+  name: GetCubeContents
+  href: api/CarbideFunction.Wildtile.VoxelGrid.html#CarbideFunction_Wildtile_VoxelGrid_GetCubeContents_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelGrid.GetCubeContents
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelGrid.GetCubeContents
+  nameWithType: VoxelGrid.GetCubeContents
 - uid: CarbideFunction.Wildtile.VoxelGrid.IsWithinBounds(Vector3Int)
   name: IsWithinBounds(Vector3Int)
   href: api/CarbideFunction.Wildtile.VoxelGrid.html#CarbideFunction_Wildtile_VoxelGrid_IsWithinBounds_Vector3Int_
@@ -3818,6 +3956,108 @@ references:
   commentId: F:CarbideFunction.Wildtile.VoxelGrid.voxelDataName
   fullName: CarbideFunction.Wildtile.VoxelGrid.voxelDataName
   nameWithType: VoxelGrid.voxelDataName
+- uid: CarbideFunction.Wildtile.VoxelMesher
+  name: VoxelMesher
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html
+  commentId: T:CarbideFunction.Wildtile.VoxelMesher
+  fullName: CarbideFunction.Wildtile.VoxelMesher
+  nameWithType: VoxelMesher
+- uid: CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials(Material,Material)
+  name: ChangeMaterials(Material, Material)
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_ChangeMaterials_Material_Material_
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials(Material,Material)
+  fullName: CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials(Material, Material)
+  nameWithType: VoxelMesher.ChangeMaterials(Material, Material)
+- uid: CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials*
+  name: ChangeMaterials
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_ChangeMaterials_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials
+  nameWithType: VoxelMesher.ChangeMaterials
+- uid: CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform)
+  name: CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform)
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform)
+  fullName: CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid, Vector3, Material, Material, Transform)
+  nameWithType: VoxelMesher.CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform)
+- uid: CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels*
+  name: CreateMeshedVoxels
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels
+  nameWithType: VoxelMesher.CreateMeshedVoxels
+- uid: CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels
+  name: DestroyMeshedVoxels()
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_DestroyMeshedVoxels
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels
+  fullName: CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels()
+  nameWithType: VoxelMesher.DestroyMeshedVoxels()
+- uid: CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels*
+  name: DestroyMeshedVoxels
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_DestroyMeshedVoxels_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.DestroyMeshedVoxels
+  nameWithType: VoxelMesher.DestroyMeshedVoxels
+- uid: CarbideFunction.Wildtile.VoxelMesher.FaceData
+  name: VoxelMesher.FaceData
+  href: api/CarbideFunction.Wildtile.VoxelMesher.FaceData.html
+  commentId: T:CarbideFunction.Wildtile.VoxelMesher.FaceData
+  fullName: CarbideFunction.Wildtile.VoxelMesher.FaceData
+  nameWithType: VoxelMesher.FaceData
+- uid: CarbideFunction.Wildtile.VoxelMesher.FaceData.facingVoxelCoordinate
+  name: facingVoxelCoordinate
+  href: api/CarbideFunction.Wildtile.VoxelMesher.FaceData.html#CarbideFunction_Wildtile_VoxelMesher_FaceData_facingVoxelCoordinate
+  commentId: F:CarbideFunction.Wildtile.VoxelMesher.FaceData.facingVoxelCoordinate
+  fullName: CarbideFunction.Wildtile.VoxelMesher.FaceData.facingVoxelCoordinate
+  nameWithType: VoxelMesher.FaceData.facingVoxelCoordinate
+- uid: CarbideFunction.Wildtile.VoxelMesher.FaceData.voxelCoordinate
+  name: voxelCoordinate
+  href: api/CarbideFunction.Wildtile.VoxelMesher.FaceData.html#CarbideFunction_Wildtile_VoxelMesher_FaceData_voxelCoordinate
+  commentId: F:CarbideFunction.Wildtile.VoxelMesher.FaceData.voxelCoordinate
+  fullName: CarbideFunction.Wildtile.VoxelMesher.FaceData.voxelCoordinate
+  nameWithType: VoxelMesher.FaceData.voxelCoordinate
+- uid: CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
+  name: GetFaceDataForTriIndex(Int32)
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_GetFaceDataForTriIndex_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
+  fullName: CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
+  nameWithType: VoxelMesher.GetFaceDataForTriIndex(Int32)
+- uid: CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex*
+  name: GetFaceDataForTriIndex
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_GetFaceDataForTriIndex_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex
+  nameWithType: VoxelMesher.GetFaceDataForTriIndex
+- uid: CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3)
+  name: RegenerateMeshedVoxels(VoxelGrid, Vector3)
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3)
+  fullName: CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid, Vector3)
+  nameWithType: VoxelMesher.RegenerateMeshedVoxels(VoxelGrid, Vector3)
+- uid: CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels*
+  name: RegenerateMeshedVoxels
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels
+  nameWithType: VoxelMesher.RegenerateMeshedVoxels
+- uid: CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance
+  name: TempMeshInstance
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_TempMeshInstance
+  commentId: P:CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance
+  fullName: CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance
+  nameWithType: VoxelMesher.TempMeshInstance
+- uid: CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance*
+  name: TempMeshInstance
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_TempMeshInstance_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.TempMeshInstance
+  nameWithType: VoxelMesher.TempMeshInstance
 - uid: CarbideFunction.Wildtile.WaveFunctionCollapser
   name: WaveFunctionCollapser
   href: api/CarbideFunction.Wildtile.WaveFunctionCollapser.html

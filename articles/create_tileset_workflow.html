@@ -68,19 +68,19 @@
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
 
-<p>Wildtile has many tools to help you create <a href="https://youtu.be/Uxeo9c-PX-w?t=418">dual grid</a> tilesets quickly and iteratively. This suggested workflow shows how to incorporate each tool so that it helps you the most. Once you are comfortable with the tools you may find a different workflow works better for you and your team - once you find something you're comfortable with please let me know at <a href="mailto:anthonydiggle@carbidefunction.co.uk?subject=Voxel%20Collapse%20workflow%20feedback">anthonydiggle@carbidefunction.co.uk</a> so that future updates do not unnecessarily disrupt your workflow.</p>
-<p>This tutorial should take around 30 minutes to complete. Experimenting further to gain a deeper understanding is recommended, and feel free to ask any questions in the <a href="https://discord.gg/CQSGay9GWS">Discord server</a>.</p>
+<p>Wildtile has many tools to help you create <a href="https://youtu.be/Uxeo9c-PX-w?t=418">dual grid</a> tilesets quickly and iteratively. The suggested workflow shows how to incorporate each tool to speed up development. You might find a different workflow works better for you and your team - once you find something you're comfortable with, please let us know <a href="mailto:anthonydiggle@carbidefunction.co.uk?subject=Voxel%20Collapse%20workflow%20feedback">by email</a> so that future updates do not unnecessarily disrupt your workflow.</p>
+<p>This tutorial should take around 30 minutes to complete. After that, we recommend experimenting further to gain a deeper understanding. Feel free to ask any questions on the <a href="https://discord.gg/CQSGay9GWS">Discord server</a>.</p>
 <h1 id="set-up">Set Up</h1>
 <p>Follow the <a href="getting_started.html">Getting Started Guide</a> to completion to set up your world with an example tileset. We will build on this to set up your tileset.</p>
 <h2 id="creating-and-importing-the-first-two-tiles">Creating and Importing the First Two Tiles</h2>
-<p>Create your tileset's first two tiles. In this tutorial we will create a skyscraper building tileset, which will require a flat wall and a wall-to-roof lip tile.</p>
+<p>Create your tileset's first two tiles. In this tutorial, we will create a skyscraper building tileset, requiring a flat wall and a wall-to-roof lip tile.</p>
 <p><img src="../images/first_tileset/skyscraper_tile_examples.png" alt="skyscraper tiles with pivots"></p>
 <p>It doesn't matter about quality or style yet, but you must get the dimensions correct.</p>
 <div class="TIP">
 <h5>Tip</h5>
-<p>If you do not have a strong preference for tile sizes, it is easiest to start with 1×1×1 tile dimensions.</p>
+<p>While you can use any tile dimensions you like, it is easiest to start with 1×1×1.</p>
 </div>
-<p>The importer derives tile settings from the tile models directly by making some assumptions about the models, lifting the mark-up work from the artist's shoulders. You will need to follow the assumptions so that the importer can do its job effectively:</p>
+<p>The importer derives tile settings from the tile models by making some assumptions about the models, lifting the mark-up work from the artist's shoulders. You will need to follow those assumptions so that the importer can do its job effectively:</p>
 <ul>
 <li><p>Tiles you make must be <a href="https://sinestesia.co/blog/tutorials/non-manifold-meshes-and-how-to-fix-them/">manifold</a> within the bounds of the tile - the mesh must form a continuous surface up until the borders of the tile.
 <img src="../images/first_tileset/manifold.png" alt="manifold examples"></p>
@@ -91,28 +91,28 @@
 <li><p>All tile vertices must be inside the bounds of the tile.
 <img src="../images/first_tileset/outside.png" alt="outside examples"></p>
 </li>
-<li><p>Tiles must always be aligned to the grid.
+<li><p>Tiles must be aligned to the grid.
 <img src="../images/first_tileset/axis_aligned.png" alt="axis aligned examples"></p>
 </li>
-<li><p>Tile object pivots must be at the center of the model.
-<img src="../images/first_tileset/pivots.png" alt="pivots at center examples"></p>
+<li><p>Tile object pivots must be at the centre of the model.
+<img src="../images/first_tileset/pivots.png" alt="pivots at centre examples"></p>
 </li>
 </ul>
 <div class="CAUTION">
 <h5>Caution</h5>
-<p>For the moment, avoid two-sided and transparent materials. Wildtile supports these materials, but requires <a href="import_settings.html">further set up to do so</a>.</p>
+<p>For the moment, avoid two-sided and transparent materials. Wildtile supports these materials but requires <a href="import_settings.html">further set up to do so</a>.</p>
 </div>
-<p>Still in your modelling software, ensure that the tiles are distinct objects, and that their pivots are at the centre of the tile. For the flat wall, this will be in the middle of the plane. For the roof top, it will be halfway along the lip edge.</p>
+<p>Still in your modelling software, ensure that the tiles are distinct objects and that their pivots are at the centre of the tile. The centre will be in the middle of the plane in the flat wall model. It will be halfway along the lip edge on the rooftop model.</p>
 <p><img src="../images/first_tileset/skyscraper_tile_examples_with_pivots.png" alt="skyscraper tiles with pivots"></p>
 <p>Export this model and import it into Unity. Ensure at this stage that the imported model has two children: the two tiles you've just created.</p>
-<p><img src="../images/first_tileset/skyscraper_model_imported_into_unity.png" alt="model imported into unity"></p>
+<p><img src="../images/first_tileset/skyscraper_model_imported_into_unity.png" alt="model imported into Unity"></p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>2 tiles are required for the first working tileset because Unity's import process will remove the root object if there is only one child. Wildtile assumes that the source model is an empty parent and each child is a tile.</p>
+<p>2 tiles are required for the first working tileset because Unity's import process will remove the root object if there is only one child. Wildtile assumes that the source model is an empty parent and that each child is a tile.</p>
 </div>
-<p>Select the tileset importer asset, then drag the new model asset onto it. Make sure that the dimensions in the importer are the same as the model, and click &quot;Process models&quot;. A window will come up telling you that the Unity model importer settings prevent it from being imported by Wildtile, select <code>Continue</code> to allow Wildtile to alter the importer settings and continue with the import.</p>
+<p>Select the tileset importer asset, then drag the new model asset onto it. Make sure that the dimensions in the importer are the same as the model, and click &quot;Process models&quot;. A dialogue box will tell you that the Unity model importer settings prevent it from being imported by Wildtile, select <code>Continue</code> to allow Wildtile to alter the importer settings and continue with the import.</p>
 <p><img src="../images/first_tileset/import_skyscraper_first_time.gif" alt="import model into Wildtile"></p>
-<p>Finally, let's see the tiles being placed. Select the grid placer game object in your scene. Press <code>U</code> to open the voxel editor and click to create a 2×2 tower. Press <code>W</code> to close the tool and trigger tile placement. They should place tiles along the straight walls and red shapes on the corners and roof.</p>
+<p>Finally, let's make Wildtile place the tiles. Select the grid placer game object in your scene. Press <code>U</code> to open the voxel editor and click to create a 2×2 tower. Press <code>W</code> to close the tool and trigger tile placement. They should place tiles along the straight walls and red shapes on the corners and roof.</p>
 <p><img src="../images/first_tileset/first_placed_models.png" alt="first placed models"></p>
 <p>If your tower doesn't look like this, you can start <a href="debugging_tileset.html">debugging your tileset</a>.</p>
 <h2 id="creating-a-skeleton-tileset">Creating a Skeleton Tileset</h2>
@@ -121,7 +121,7 @@
 <ul>
 <li>a straight wall tile (already made)</li>
 <li>a straight wall lip tile (already made)</li>
-<li>a straight wall bottom to floor tile</li>
+<li>a straight wall-bottom to floor tile</li>
 <li>a flat tile for the floor</li>
 <li>a flat tile for the top of the roof (could be the same as the floor tile)</li>
 <li>a wall corner tile</li>
@@ -129,40 +129,40 @@
 <li>a wall corner bottom to floor tile</li>
 </ul>
 <p>Within your selected modelling software, create your first pass of all of these tiles. Feel free to explore your style here.
-Remember that all tiles must match the dimensions that you have set up previously. Consider how tiles connect to one another along their bounding-box faces while modelling the tiles.</p>
-<p>Wildtile matches tiles by the <strong>edges</strong> that run along their faces. If one tile face has one edge running across it, it will not match with a tile face that has 2 edges, even if they lie on the same line.</p>
+Remember that all tiles must match the dimensions previously set up. Also, consider how tiles connect along their bounding-box faces while modelling them.</p>
+<p>Wildtile matches tiles by the <strong>edges</strong> that run along their faces. For example, if one tile face has one edge running across it, it will not match a tile face with two edges, even if they lie on the same line.</p>
 <p><img src="../images/first_tileset/extra_vertex.png" alt="extra vertex prevents match"></p>
 <div class="TIP">
 <h5>Tip</h5>
-<p>Keep it simple! For your first tileset, try to use 5 or fewer edges for each tile face. This makes it much easier to create the matching pattern on other tiles.</p>
+<p>Keep it simple! For your first tileset, try to use five or fewer edges for each tile face. This guideline makes creating the matching pattern on other tiles much easier.</p>
 </div>
 <p>Once you have created your skeleton tileset, export it to Unity with the same filename as your previous exported model.
 Now, select your tileset importer asset and click &quot;Process models&quot; in the properties window.</p>
 <h1 id="iterating-on-the-tileset">Iterating on the Tileset</h1>
 <p>In the Unity scene that contains the GridPlacer component, click on the placer object and change to the grid placement tool (default keyboard shortcut <code>U</code>).</p>
-<p>Create a level that matches the tileset's use - as we're making a skyscraper tileset, create a few towers, and a bridge connecting two of the towers.</p>
+<p>Create a level that matches the tileset's use - as we're making a skyscraper tileset, create a few towers and a bridge connecting two of the buildings.</p>
 <p>Return to a built-in Unity tool (default keyboard shortcut <code>W</code>).
-The grid will turn darker for a moment while Wildtile calculates tile placement, and will then be replaced by the tiles you created.
-Note that alongside your tiles there will also be some red grid objects.</p>
+Wildtile will turn the grid darker for a moment while calculating tile placement and then replace it with the tiles you created.
+Note that alongside your tiles, there will also be some red grid objects.</p>
 <p><img src="../images/first_tileset/skyscraper_with_wildcards.png" alt="placed tiles with some red wildcard modules"></p>
-<p>The red grid objects are <strong>wildcards</strong>. Wildtile places wildcards where there are no appropriate tiles. These are a necessary part of creating your tileset iteratively: there is nothing wrong with them during development, but you should strive to avoid them in production levels.</p>
-<p>Check to make sure that your flat tiles are placed on the floor and that they connect to one another correctly, and that they are also placed on any plateaus and connect to the clifftop lip tiles.</p>
-<p>In general, wildcards can be eliminated in one of two ways. The first is done by the level designer: they can change the map to avoid the layouts that lead to the missing tiles.</p>
-<p>The second option is done by an artist. The level designer passes the map to the artist, who then models the missing tiles and adds them to the tileset.</p>
-<p>We will act as the artist now, and model the missing tiles.</p>
-<p>Choose one wildcard to focus on. Ideally, the wildcard would have many adjacent modelled tiles and few (or zero) connections to other wildcards.
-Create this tile in your modelling software, in the same file as the other tiles. Ensure that the edges along the faces match up with the adjacent models in the map.</p>
+<p>The red grid objects are <strong>wildcards</strong>. Wildtile places wildcards where there are no tiles that fit. These are a necessary part of creating your tileset iteratively: there is nothing wrong with them during development, but you should strive to avoid them in production levels.</p>
+<p>Check that Wildtile has placed flat tiles on the floor and that the tiles connect to one another correctly. Also, ensure they are placed on any plateaus and connect to the clifftop lip tiles.</p>
+<p>In general, your team can eliminate wildcards in one of two ways. The first requires a level designer to change the map to avoid layouts that lead to the missing tiles.</p>
+<p>In the second option, the level designer passes the map to an artist, who then models the missing tiles and adds them to the tileset.</p>
+<p>We will act as the artist now and model the missing tiles.</p>
+<p>Choose one wildcard tile in the map. Ideally, the wildcard would have many adjacent modelled tiles and few (or zero) connections to other wildcards.
+Create this tile in your modelling software in the same file as the other tiles. Ensure that the faces' edges match the adjacent models in the map.</p>
 <div class="TIP">
 <h5>Tip</h5>
-<p>It can be very helpful to spend a few seconds considering how to connect the tile faces and even sketching a rough concept piece for each new tile before starting modelling.</p>
+<p>It can be worthwhile to spend a few seconds considering how to connect the tile faces and even sketching a rough concept piece for each new tile before starting modelling.</p>
 </div>
-<p>Reexport your tileset to Unity. Find the importer asset and click &quot;Process models&quot;. Your tileset asset will be updated, and you can now click your grid placer scene object and click &quot;Force Map Rebuild&quot; to use your new models.</p>
-<p>Hopefully, you will immediately see your new model has replaced some of the wildcards. If you notice any issues, such as the new tile not being placed or some of the adjacent tiles have become wildcards, start <a href="debugging_tileset.html">debugging your new tile</a>.</p>
-<p>Once Wildtile correctly uses your new tile in tandem with the existing tiles, pick another wildcard to focus on and replace with a modelled tile - repeat this until your model is complete.</p>
+<p>Reexport your tileset to Unity. Find the importer asset and click &quot;Process models&quot;. Your tileset asset will be updated, and you can now select your grid placer scene object and click &quot;Force Map Rebuild&quot; to use your new models.</p>
+<p>Hopefully, you will immediately see that your new model has replaced some of the wildcards. However, if you notice any issues, such as the new tile not being placed or some of the adjacent tiles have become wildcards, start <a href="debugging_tileset.html">debugging your new tile</a>.</p>
+<p>Once Wildtile correctly uses your new tile in tandem with the existing tiles, pick another wildcard to focus on and replace it with a modelled tile - repeat this until your model is complete.</p>
 <h1 id="further-reading">Further Reading</h1>
-<p>If you creating your models perfectly first time you will not have been prompted to debug your tileset. This is an important technique when developing tiles as it allows you to identify mismatches between tiles. If you haven't already used the debugger, create an intentionally mismatching tile now and <a href="debugging_tileset.html">use the tileset debugger</a>.</p>
-<p>You may find it easier to create larger features in a traditional modelling workflow and use automated tools to slice your tiles up when exporting them.
-Look at <a href="model_slicing.html">Model Slicing</a> to see an example of this and see if it's appropriate for your use case.</p>
+<p>If you created all of your models perfectly first time, the article would not have prompted you to debug your tileset. This is an important technique when developing tiles as it allows you to identify mismatches between tiles. If you haven't already used the debugger, create an intentionally mismatching tile now and <a href="debugging_tileset.html">use the tileset debugger</a>.</p>
+<p>You may find it easier to create expansive, multi-tile-wide features in a traditional modelling workflow and use automated tools to slice your tiles up when exporting them.
+Look at <a href="model_slicing.html">Model Slicing</a> to see an example and consider if it's appropriate for your use case.</p>
 </article>
           </div>
           

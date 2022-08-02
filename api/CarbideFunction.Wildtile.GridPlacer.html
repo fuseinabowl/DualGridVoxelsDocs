@@ -188,12 +188,12 @@
   </table>
   
   
-  <h4 id="CarbideFunction_Wildtile_GridPlacer_map" data-uid="CarbideFunction.Wildtile.GridPlacer.map">map</h4>
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_generateOnStartUp" data-uid="CarbideFunction.Wildtile.GridPlacer.generateOnStartUp">generateOnStartUp</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public VoxelGrid map</code></pre>
+    <pre><code class="lang-csharp hljs">public GridPlacer.GenerateOnStartUp generateOnStartUp</code></pre>
   </div>
   <h5 class="fieldValue">Field Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -205,7 +205,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="CarbideFunction.Wildtile.VoxelGrid.html">VoxelGrid</a></td>
+        <td><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.GenerateOnStartUp.html">GridPlacer.GenerateOnStartUp</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -306,6 +306,30 @@
       </tr>
     </tbody>
   </table>
+  
+  
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_voxelGrid" data-uid="CarbideFunction.Wildtile.GridPlacer.voxelGrid">voxelGrid</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public VoxelGrid voxelGrid</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.VoxelGrid.html">VoxelGrid</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="properties">Properties
   </h3>
   
@@ -337,9 +361,19 @@
   </h3>
   
   
+  <a id="CarbideFunction_Wildtile_GridPlacer_ClearChildren_" data-uid="CarbideFunction.Wildtile.GridPlacer.ClearChildren*"></a>
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_ClearChildren" data-uid="CarbideFunction.Wildtile.GridPlacer.ClearChildren">ClearChildren()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void ClearChildren()</code></pre>
+  </div>
+  
+  
   <a id="CarbideFunction_Wildtile_GridPlacer_GenerateNow_" data-uid="CarbideFunction.Wildtile.GridPlacer.GenerateNow*"></a>
   <h4 id="CarbideFunction_Wildtile_GridPlacer_GenerateNow_System_Boolean_" data-uid="CarbideFunction.Wildtile.GridPlacer.GenerateNow(System.Boolean)">GenerateNow(Boolean)</h4>
-  <div class="markdown level1 summary"><p>Generates a new mesh of modules using the associated map and tileset assets, and returns once the mesh is fully generated.</p>
+  <div class="markdown level1 summary"><p>Generates a new mesh of modules using the associated voxelGrid and tileset assets, and returns once the mesh is fully generated.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -368,7 +402,7 @@
   
   <a id="CarbideFunction_Wildtile_GridPlacer_GenerateOverTime_" data-uid="CarbideFunction.Wildtile.GridPlacer.GenerateOverTime*"></a>
   <h4 id="CarbideFunction_Wildtile_GridPlacer_GenerateOverTime_CarbideFunction_Wildtile_GridPlacer_OnGenerationComplete_" data-uid="CarbideFunction.Wildtile.GridPlacer.GenerateOverTime(CarbideFunction.Wildtile.GridPlacer.OnGenerationComplete)">GenerateOverTime(GridPlacer.OnGenerationComplete)</h4>
-  <div class="markdown level1 summary"><p>Starts generateing a new mesh of modules using the associated map and tileset assets over time.</p>
+  <div class="markdown level1 summary"><p>Starts generateing a new mesh of modules using the associated voxelGrid and tileset assets over time.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>

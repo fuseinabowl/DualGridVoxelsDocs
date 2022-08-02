@@ -69,22 +69,22 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="extending-wildtile">Extending Wildtile</h1>
 
-<p>Wildtile provides support for injecting functionality using the <code>Tileset</code> post processing fields, which does not require any modification of Wildtile scripts. This requires some simple scripting, and supports a limited set of features.</p>
-<p>Wildtile also provides the full code in the asset store package - you are free to modify it as you like. This requires scripting experience and you will have to spend some time understanding the code, but grants you the ability to modify Wildtile to fully match your game/app's requirements.</p>
+<p>Wildtile provides support for injecting functionality using the <code>Tileset</code> postprocessing fields, which does not require any modification of Wildtile source code. This requires some simple scripting and supports a limited set of features.</p>
+<p>Wildtile also provides the complete code in the asset store package - you are free to modify it as you like. This requires scripting experience and some time studying the code but grants you the ability to change Wildtile to match your game/app's requirements exactly.</p>
 <p>Join the <a href="https://discord.gg/UyWAhnycjD">Wildtile Discord</a> to get dev advice and support for extending Wildtile.</p>
 <h2 id="map-postprocessors">Map Postprocessors</h2>
 <p>Wildtile creates a grid of tile <strong>references</strong> in memory when creating the world. Postprocessors then turn the tile references into game objects.</p>
 <p>Wildtile includes two postprocessors - the <a class="xref" href="../api/CarbideFunction.Wildtile.PlacerPostprocessing.PlacerPostprocessor.html">placer postprocessor</a> and the <a class="xref" href="../api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html">welder postprocessor</a> (default).
-Select the tileset importer and select a new postprocessor creator to change how the postprocessing will work for that tileset.</p>
+Select the tileset importer and assign a new postprocessor creator. This will change how the postprocessing will work for that tileset.</p>
 <h3 id="create-a-new-postprocessor">Create a new postprocessor</h3>
-<p>You can also write your own postprocessors, which gives you the ability to warp tiles, place props, or otherwise augment the tiles while placing them.</p>
-<p>A postprocessing solution consists of a <code>PostprocessorCreator</code> and a <code>Postprocessor</code>. A <code>PostprocessorCreator</code> is supposed to be created by a designer and can be referenced from many <code>TilesetImporter</code> assets, whereas a <code>Postprocessor</code> is a backend class that the <code>PostprocessorCreator</code> will create during import and saved as a subasset of the <code>Tileset</code>. The designer typically will not create or edit any <code>Postprocessor</code>s directly.</p>
+<p>You can also write your own postprocessors, which allows you to warp tiles, place props, or otherwise augment the tiles while placing them.</p>
+<p>A postprocessing solution consists of a <code>PostprocessorCreator</code> and a <code>Postprocessor</code>. A <code>PostprocessorCreator</code> can be referenced from many <code>TilesetImporter</code> assets, whereas a <code>Postprocessor</code> is a backend class that the <code>PostprocessorCreator</code> will create during import and saved as a subasset of the <code>Tileset</code>. The designer typically will not make or edit any <code>Postprocessor</code>s directly.</p>
 <h2 id="modifying-wildtile">Modifying Wildtile</h2>
-<p>This site also contains <a href="../api/index.html">API documentation for Wildtile</a> which describes the public facing API for Wildtile classes.</p>
-<p>Feel free post your goals to the <a href="https://discord.gg/CQSGay9GWS">Wildtile developer Discord channel</a>. A developer will suggest a direction to take and which files to start researching and changing.</p>
+<p>This site also contains <a href="../api/index.html">API documentation for Wildtile</a>, which describes the public-facing API for Wildtile classes.</p>
+<p>Feel free to post your goals to the <a href="https://discord.gg/CQSGay9GWS">Wildtile developer Discord channel</a>. A developer will suggest a direction to take and which files to start researching and changing.</p>
 <div class="WARNING">
 <h5>Warning</h5>
-<p>While Carbide Function welcomes modification to Wildtile, comprehensive support will <strong>not</strong> be provided.</p>
+<p>While Carbide Function welcomes modification to Wildtile, we do <strong>not</strong> provide comprehensive support.</p>
 </div>
 </article>
           </div>

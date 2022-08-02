@@ -71,28 +71,28 @@
 <p>The default import settings should work for a rough draft of a tileset. However, adjusting the settings grants more control over how Wildtile interprets models.</p>
 <h1 id="dimensions">Dimensions</h1>
 <p>These are the dimensions of the tiles in Unity units.</p>
-<p>When importing, each object is scanned for face edges along the XY and YZ planes at <code>Tile Width</code> distance from the tile origin, and on the XZ planes at <code>Tile Height</code> distance from the tile origin.</p>
-<p>When editing and placing a grid using the GridPlacer component, tiles will be separated by this amount.</p>
+<p>When importing, each object is scanned for face edges along the XY and YZ planes at <code>Tile Width</code> distance from the tile origin and on the XZ planes at <code>Tile Height</code> distance from the tile origin.</p>
+<p>Tiles will be separated by this amount when editing and placing a grid using the GridPlacer component.</p>
 <h1 id="hash-resolution">Hash Resolution</h1>
-<p>Wildtile hashes and stores all models' faces. When placing tiles, it will compares the hashes instead of comparing the faces directly.</p>
-<p>To prevent floating point errors from disrupting the matching of faces, Wildtile first rounds the vertex positions and normals to the nearest fraction before hashing. The rounded-to-fraction is one over the corresponding value in the importer settings.</p>
-<p>A higher value will allow for more precise models, but might lead to more floating point errors and tiles not connecting when they look like they should. Conversely, a lower value prevents distinction between tiles due to the lower precision, but is more tolerant to floating point errors.</p>
-<p>Normally, you will want to leave these at the default values.</p>
+<p>Wildtile hashes and stores all models' faces. When placing tiles, it will compare the hashes instead of comparing the faces directly.</p>
+<p>To prevent floating point errors from disrupting the matching of faces, Wildtile first rounds the vertex positions and normals to the nearest fraction before hashing. The rounded-to-fraction is one over the <code>Position Hash Resolution</code> and <code>Normal Hash Resolution</code> values in the importer settings.</p>
+<p>A higher value will allow for more precise models but might lead to more floating point errors and tiles not connecting when they look like they should. Conversely, a lower value might allow mismatching tiles to connect but is more tolerant to floating point errors.</p>
+<p>Typically, you will want to leave these at the default values.</p>
 <h1 id="material-import-settings">Material Import Settings</h1>
-<p>While empty, all materials are treated the same. All faces contribute to the manifold mesh, all face-edges must match positions between tiles and normals are ignored.</p>
+<p>While empty, Wildtile treats all materials the same. All faces contribute to the manifold mesh, all face edges must match positions between tiles and normals are ignored.</p>
 <p>Press the plus button to add an entry and select your material to override settings for any faces using that material.</p>
 <h2 id="manifold-mesh">Manifold Mesh</h2>
 <p>Most one-sided opaque materials are part of the <a href="https://sinestesia.co/blog/tutorials/non-manifold-meshes-and-how-to-fix-them/">manifold mesh</a>, and most transparent and two-sided materials are not.</p>
 <p>Select &quot;Is part of Manifold Mesh&quot; to include faces with this material when calculating if the corner vertices are inside or outside the mesh.</p>
 <div class="NOTE">
 <h5>Note</h5>
-<p>If no materials are marked as &quot;Is part of Manifold Mesh&quot; all faces are assumed to be part of the manifold mesh, even materials not on the Material Import Settings list.</p>
+<p>If no materials are marked as &quot;Is part of Manifold Mesh&quot;, all faces are assumed to be part of the manifold mesh, even materials not on the Material Import Settings list.</p>
 </div>
 <h2 id="must-match">Must Match</h2>
-<p>If checked, faces with this material must match positions across tile borders to allow tiles to be placed adjacent to one another.</p>
-<p>If both &quot;Must Match&quot; and &quot;Must Match Normals On Border&quot; are checked, the normals are also checked.</p>
-<p>When developing prototype tilesets it is easier to not match normals, as it's more permissive and therefore fewer tiles are needed in a tileset.
-Normal matching prevents diagonal tiles from connecting to their flipped variants, which is important for most production tilesets.</p>
+<p>If checked, faces with this material must match positions across tile borders to allow Wildtile to place tiles adjacent to one another.</p>
+<p>If &quot;Must Match Normals On Border&quot; is checked, Wildtile also considers the normals when placing tiles. This setting is ignored if &quot;Must Match&quot; is false.</p>
+<p>When developing prototype tilesets it is easier not to match normals, as it is more permissive and fewer tiles are needed in a tileset.
+Normal matching prevents diagonal tiles from connecting to their flipped variants, which is essential for most production tilesets.</p>
 </article>
           </div>
           
