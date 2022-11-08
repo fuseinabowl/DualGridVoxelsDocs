@@ -176,12 +176,12 @@
   
   
   <a id="CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels*"></a>
-  <h4 id="CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform)">CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform)</h4>
+  <h4 id="CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_System_Int32_System_Nullable_Vector3Int__System_Nullable_Vector3Int__" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform,System.Int32,System.Nullable{Vector3Int},System.Nullable{Vector3Int})">CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform, Int32, Nullable&lt;Vector3Int&gt;, Nullable&lt;Vector3Int&gt;)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void CreateMeshedVoxels(VoxelGrid map, Vector3 tileDimensions, Material material, Material wallsMaterial, Transform targetTransform)</code></pre>
+    <pre><code class="lang-csharp hljs">public void CreateMeshedVoxels(VoxelGrid map, Vector3 tileDimensions, Material material, Material wallsMaterial, Transform targetTransform, int layerIndex, Vector3Int? editableAreaBias = null, Vector3Int? editableAreaSize = null)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -218,6 +218,21 @@
         <td><span class="parametername">targetTransform</span></td>
         <td></td>
       </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">layerIndex</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">Vector3Int</span>&gt;</td>
+        <td><span class="parametername">editableAreaBias</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">Vector3Int</span>&gt;</td>
+        <td><span class="parametername">editableAreaSize</span></td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
   
@@ -234,7 +249,7 @@
   
   <a id="CarbideFunction_Wildtile_VoxelMesher_GetFaceDataForTriIndex_" data-uid="CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex*"></a>
   <h4 id="CarbideFunction_Wildtile_VoxelMesher_GetFaceDataForTriIndex_System_Int32_" data-uid="CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex(System.Int32)">GetFaceDataForTriIndex(Int32)</h4>
-  <div class="markdown level1 summary"><p>Gets the <a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.FaceData.html">VoxelMesher.FaceData</a> for a triangle in the generated mesh. The mesh must have been generated first by calling <a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_">RegenerateMeshedVoxels(VoxelGrid, Vector3)</a>.</p>
+  <div class="markdown level1 summary"><p>Gets the <a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.FaceData.html">VoxelMesher.FaceData</a> for a triangle in the generated mesh. The mesh must have been generated first by calling <a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_System_Nullable_Vector3Int__System_Nullable_Vector3Int__">RegenerateMeshedVoxels(VoxelGrid, Vector3, Nullable&lt;Vector3Int&gt;, Nullable&lt;Vector3Int&gt;)</a>.</p>
 <p>The triangle index is expected to come from a <a href="https://docs.unity3d.com/ScriptReference/Collider.Raycast.html">physics raycast</a> based on where the user clicks.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -277,12 +292,12 @@
   
   
   <a id="CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_" data-uid="CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels*"></a>
-  <h4 id="CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_" data-uid="CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3)">RegenerateMeshedVoxels(VoxelGrid, Vector3)</h4>
+  <h4 id="CarbideFunction_Wildtile_VoxelMesher_RegenerateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_System_Nullable_Vector3Int__System_Nullable_Vector3Int__" data-uid="CarbideFunction.Wildtile.VoxelMesher.RegenerateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,System.Nullable{Vector3Int},System.Nullable{Vector3Int})">RegenerateMeshedVoxels(VoxelGrid, Vector3, Nullable&lt;Vector3Int&gt;, Nullable&lt;Vector3Int&gt;)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void RegenerateMeshedVoxels(VoxelGrid map, Vector3 tileDimensions)</code></pre>
+    <pre><code class="lang-csharp hljs">public void RegenerateMeshedVoxels(VoxelGrid map, Vector3 tileDimensions, Vector3Int? editableAreaBias = null, Vector3Int? editableAreaSize = null)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -302,6 +317,16 @@
       <tr>
         <td><span class="xref">Vector3</span></td>
         <td><span class="parametername">tileDimensions</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">Vector3Int</span>&gt;</td>
+        <td><span class="parametername">editableAreaBias</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">Vector3Int</span>&gt;</td>
+        <td><span class="parametername">editableAreaSize</span></td>
         <td></td>
       </tr>
     </tbody>

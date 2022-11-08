@@ -284,6 +284,110 @@
   </table>
   
   
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_onFoundCollapsableState" data-uid="CarbideFunction.Wildtile.GridPlacer.onFoundCollapsableState">onFoundCollapsableState</h4>
+  <div class="markdown level1 summary"><p>Called when the collapse algorithm has added wildcards and found a collapsable state.
+It will now attempt to remove redundant wildcards.</p>
+<p>This will only be called if the perfect collapse fails, which would be reported through <seealso name="onPerfectCollapseFailed"></seealso>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GridPlacer.OnCollapseEvent onFoundCollapsableState</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.OnCollapseEvent.html">GridPlacer.OnCollapseEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_onPerfectCollapseFailed" data-uid="CarbideFunction.Wildtile.GridPlacer.onPerfectCollapseFailed">onPerfectCollapseFailed</h4>
+  <div class="markdown level1 summary"><p>Called when the collapse algorithm finds that it cannot collapse the initial state without adding wildcards.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GridPlacer.OnCollapseEvent onPerfectCollapseFailed</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.OnCollapseEvent.html">GridPlacer.OnCollapseEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_onPerfectCollapseSucceeded" data-uid="CarbideFunction.Wildtile.GridPlacer.onPerfectCollapseSucceeded">onPerfectCollapseSucceeded</h4>
+  <div class="markdown level1 summary"><p>Called when the collapse algorithm completes without adding any new wildcards.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GridPlacer.OnCollapseEvent onPerfectCollapseSucceeded</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.OnCollapseEvent.html">GridPlacer.OnCollapseEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_onRemovedRedundantWildcards" data-uid="CarbideFunction.Wildtile.GridPlacer.onRemovedRedundantWildcards">onRemovedRedundantWildcards</h4>
+  <div class="markdown level1 summary"><p>Called when the collapse algorithm has removed wildcards and found a minimal-wildcard collapsable state.</p>
+<p>This will only be called if the perfect collapse fails, which would be reported through <seealso name="onPerfectCollapseFailed"></seealso>.</p>
+<p>This will be called after <seealso name="onFoundCollapsableState"></seealso>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GridPlacer.OnCollapseEvent onRemovedRedundantWildcards</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.GridPlacer.OnCollapseEvent.html">GridPlacer.OnCollapseEvent</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
   <h4 id="CarbideFunction_Wildtile_GridPlacer_seed" data-uid="CarbideFunction.Wildtile.GridPlacer.seed">seed</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
@@ -438,6 +542,33 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void InterruptMeshGeneration()</code></pre>
   </div>
+  
+  
+  <a id="CarbideFunction_Wildtile_GridPlacer_SetTileset_" data-uid="CarbideFunction.Wildtile.GridPlacer.SetTileset*"></a>
+  <h4 id="CarbideFunction_Wildtile_GridPlacer_SetTileset_CarbideFunction_Wildtile_Tileset_" data-uid="CarbideFunction.Wildtile.GridPlacer.SetTileset(CarbideFunction.Wildtile.Tileset)">SetTileset(Tileset)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void SetTileset(Tileset tileset)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.Tileset.html">Tileset</a></td>
+        <td><span class="parametername">tileset</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 </article>
           </div>
           

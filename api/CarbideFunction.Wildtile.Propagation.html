@@ -256,7 +256,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static IEnumerable&lt;int&gt; PropagateCoroutine(List&lt;Slot&gt; dirtySlots, IList&lt;Module&gt; modules, KeyValuePair&lt;FaceHash, FaceHash&gt;[] horizontalFaceToRequiredFace, KeyValuePair&lt;FaceHash, FaceHash&gt;[] verticalFaceToRequiredFace, Propagation.ReportPropagationResult resultReporter, List&lt;KeyValuePair&lt;Slot, List&lt;TransformedModule&gt;&gt;&gt; removedModules, Propagation.ReportContradictionSlot contradictionReporter = null)</code></pre>
+    <pre><code class="lang-csharp hljs">public static IEnumerable&lt;CoroutineStatus&gt; PropagateCoroutine(List&lt;Slot&gt; dirtySlots, IList&lt;Module&gt; modules, KeyValuePair&lt;FaceHash, FaceHash&gt;[] horizontalFaceToRequiredFace, KeyValuePair&lt;FaceHash, FaceHash&gt;[] verticalFaceToRequiredFace, Propagation.ReportPropagationResult resultReporter, List&lt;KeyValuePair&lt;Slot, List&lt;TransformedModule&gt;&gt;&gt; removedModules, Propagation.ReportContradictionSlot contradictionReporter = null)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -315,7 +315,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><span class="xref">System.Collections.Generic.IEnumerable</span>&lt;<a class="xref" href="CarbideFunction.Wildtile.CoroutineStatus.html">CoroutineStatus</a>&gt;</td>
         <td></td>
       </tr>
     </tbody>
