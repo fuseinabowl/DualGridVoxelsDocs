@@ -737,25 +737,364 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.HashFaces.VerticallyInvertVertex
   nameWithType: HashFaces.VerticallyInvertVertex
-- uid: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer
-  name: ITilesetInspectorDiagnosticsDrawer
-  href: api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.html
-  commentId: T:CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer
-  fullName: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer
-  nameWithType: ITilesetInspectorDiagnosticsDrawer
-- uid: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw(SceneView)
-  name: Draw(SceneView)
-  href: api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_ITilesetInspectorDiagnosticsDrawer_Draw_SceneView_
-  commentId: M:CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw(SceneView)
-  fullName: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw(SceneView)
-  nameWithType: ITilesetInspectorDiagnosticsDrawer.Draw(SceneView)
-- uid: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw*
-  name: Draw
-  href: api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_ITilesetInspectorDiagnosticsDrawer_Draw_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails
+  name: ImportDetails
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportDetails
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails
+  nameWithType: ImportDetails
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.exceptionMessage
+  name: exceptionMessage
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html#CarbideFunction_Wildtile_Editor_ImportDetails_exceptionMessage
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.exceptionMessage
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.exceptionMessage
+  nameWithType: ImportDetails.exceptionMessage
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision
+  name: ImportDetails.HashCollision
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision
+  nameWithType: ImportDetails.HashCollision
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.collidingHash
+  name: collidingHash
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html#CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision_collidingHash
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.collidingHash
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.collidingHash
+  nameWithType: ImportDetails.HashCollision.collidingHash
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace0
+  name: moduleFace0
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html#CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision_moduleFace0
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace0
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace0
+  nameWithType: ImportDetails.HashCollision.moduleFace0
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace1
+  name: moduleFace1
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html#CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision_moduleFace1
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace1
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.moduleFace1
+  nameWithType: ImportDetails.HashCollision.moduleFace1
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash0
+  name: oppositeHash0
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html#CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision_oppositeHash0
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash0
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash0
+  nameWithType: ImportDetails.HashCollision.oppositeHash0
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash1
+  name: oppositeHash1
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html#CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision_oppositeHash1
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash1
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.oppositeHash1
+  nameWithType: ImportDetails.HashCollision.oppositeHash1
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.hashCollisions
+  name: hashCollisions
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html#CarbideFunction_Wildtile_Editor_ImportDetails_hashCollisions
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.hashCollisions
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.hashCollisions
+  nameWithType: ImportDetails.hashCollisions
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.modulesWithFacesOnACubeFace
+  name: modulesWithFacesOnACubeFace
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html#CarbideFunction_Wildtile_Editor_ImportDetails_modulesWithFacesOnACubeFace
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.modulesWithFacesOnACubeFace
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.modulesWithFacesOnACubeFace
+  nameWithType: ImportDetails.modulesWithFacesOnACubeFace
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace
+  name: ImportDetails.ModuleWithFacesOnACubeFace
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace
+  nameWithType: ImportDetails.ModuleWithFacesOnACubeFace
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.cachedName
+  name: cachedName
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.html#CarbideFunction_Wildtile_Editor_ImportDetails_ModuleWithFacesOnACubeFace_cachedName
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.cachedName
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.cachedName
+  nameWithType: ImportDetails.ModuleWithFacesOnACubeFace.cachedName
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.moduleIndex
+  name: moduleIndex
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.html#CarbideFunction_Wildtile_Editor_ImportDetails_ModuleWithFacesOnACubeFace_moduleIndex
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.moduleIndex
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.moduleIndex
+  nameWithType: ImportDetails.ModuleWithFacesOnACubeFace.moduleIndex
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.numberOfFacesOnCubeFace
+  name: numberOfFacesOnCubeFace
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.html#CarbideFunction_Wildtile_Editor_ImportDetails_ModuleWithFacesOnACubeFace_numberOfFacesOnCubeFace
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.numberOfFacesOnCubeFace
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.numberOfFacesOnCubeFace
+  nameWithType: ImportDetails.ModuleWithFacesOnACubeFace.numberOfFacesOnCubeFace
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule
+  name: ImportDetails.OutOfBoundsModule
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule
+  nameWithType: ImportDetails.OutOfBoundsModule
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.cachedName
+  name: cachedName
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.html#CarbideFunction_Wildtile_Editor_ImportDetails_OutOfBoundsModule_cachedName
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.cachedName
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.cachedName
+  nameWithType: ImportDetails.OutOfBoundsModule.cachedName
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.outOfBoundsModules
+  name: outOfBoundsModules
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html#CarbideFunction_Wildtile_Editor_ImportDetails_outOfBoundsModules
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.outOfBoundsModules
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.outOfBoundsModules
+  nameWithType: ImportDetails.outOfBoundsModules
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule
+  name: ImportDetails.SuperInsideCornerModule
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule
+  nameWithType: ImportDetails.SuperInsideCornerModule
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.cachedName
+  name: cachedName
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.html#CarbideFunction_Wildtile_Editor_ImportDetails_SuperInsideCornerModule_cachedName
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.cachedName
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.cachedName
+  nameWithType: ImportDetails.SuperInsideCornerModule.cachedName
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.firstSuperInsideOutsideCornerIndex
+  name: firstSuperInsideOutsideCornerIndex
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.html#CarbideFunction_Wildtile_Editor_ImportDetails_SuperInsideCornerModule_firstSuperInsideOutsideCornerIndex
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.firstSuperInsideOutsideCornerIndex
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.firstSuperInsideOutsideCornerIndex
+  nameWithType: ImportDetails.SuperInsideCornerModule.firstSuperInsideOutsideCornerIndex
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.moduleIndex
+  name: moduleIndex
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.html#CarbideFunction_Wildtile_Editor_ImportDetails_SuperInsideCornerModule_moduleIndex
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.moduleIndex
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.moduleIndex
+  nameWithType: ImportDetails.SuperInsideCornerModule.moduleIndex
+- uid: CarbideFunction.Wildtile.Editor.ImportDetails.superInsideCornerModules
+  name: superInsideCornerModules
+  href: api/CarbideFunction.Wildtile.Editor.ImportDetails.html#CarbideFunction_Wildtile_Editor_ImportDetails_superInsideCornerModules
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportDetails.superInsideCornerModules
+  fullName: CarbideFunction.Wildtile.Editor.ImportDetails.superInsideCornerModules
+  nameWithType: ImportDetails.superInsideCornerModules
+- uid: CarbideFunction.Wildtile.Editor.ImportReport
+  name: CarbideFunction.Wildtile.Editor.ImportReport
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.html
+  commentId: N:CarbideFunction.Wildtile.Editor.ImportReport
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport
+  nameWithType: CarbideFunction.Wildtile.Editor.ImportReport
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow
+  name: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.html
+  commentId: N:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow
+  nameWithType: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow
+  name: HashCollisionSubWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow
+  nameWithType: HashCollisionSubWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.#ctor(VisualElement,CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data,System.Func{CarbideFunction.Wildtile.TilesetImporter})
+  name: HashCollisionSubWindow(VisualElement, HashCollisionSubWindow.Data, Func<TilesetImporter>)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow__ctor_VisualElement_CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow_Data_System_Func_CarbideFunction_Wildtile_TilesetImporter__
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.#ctor(VisualElement,CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data,System.Func{CarbideFunction.Wildtile.TilesetImporter})
+  name.vb: HashCollisionSubWindow(VisualElement, HashCollisionSubWindow.Data, Func(Of TilesetImporter))
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.HashCollisionSubWindow(VisualElement, CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data, System.Func<CarbideFunction.Wildtile.TilesetImporter>)
+  fullName.vb: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.HashCollisionSubWindow(VisualElement, CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data, System.Func(Of CarbideFunction.Wildtile.TilesetImporter))
+  nameWithType: HashCollisionSubWindow.HashCollisionSubWindow(VisualElement, HashCollisionSubWindow.Data, Func<TilesetImporter>)
+  nameWithType.vb: HashCollisionSubWindow.HashCollisionSubWindow(VisualElement, HashCollisionSubWindow.Data, Func(Of TilesetImporter))
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.#ctor*
+  name: HashCollisionSubWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow__ctor_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.#ctor
   isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.Draw
-  nameWithType: ITilesetInspectorDiagnosticsDrawer.Draw
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.HashCollisionSubWindow
+  nameWithType: HashCollisionSubWindow.HashCollisionSubWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind(System.Collections.Generic.List{CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision})
+  name: Bind(List<ImportDetails.HashCollision>)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow_Bind_System_Collections_Generic_List_CarbideFunction_Wildtile_Editor_ImportDetails_HashCollision__
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind(System.Collections.Generic.List{CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision})
+  name.vb: Bind(List(Of ImportDetails.HashCollision))
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind(System.Collections.Generic.List<CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision>)
+  fullName.vb: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind(System.Collections.Generic.List(Of CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision))
+  nameWithType: HashCollisionSubWindow.Bind(List<ImportDetails.HashCollision>)
+  nameWithType.vb: HashCollisionSubWindow.Bind(List(Of ImportDetails.HashCollision))
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind*
+  name: Bind
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow_Bind_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Bind
+  nameWithType: HashCollisionSubWindow.Bind
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data
+  name: HashCollisionSubWindow.Data
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data
+  nameWithType: HashCollisionSubWindow.Data
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemHeight
+  name: listItemHeight
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow_Data_listItemHeight
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemHeight
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemHeight
+  nameWithType: HashCollisionSubWindow.Data.listItemHeight
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemTemplate
+  name: listItemTemplate
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_HashCollisionSubWindow_Data_listItemTemplate
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemTemplate
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.listItemTemplate
+  nameWithType: HashCollisionSubWindow.Data.listItemTemplate
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow
+  name: MissingTilesSubWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow
+  nameWithType: MissingTilesSubWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.#ctor
+  name: MissingTilesSubWindow()
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow__ctor
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.#ctor
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.MissingTilesSubWindow()
+  nameWithType: MissingTilesSubWindow.MissingTilesSubWindow()
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.#ctor*
+  name: MissingTilesSubWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow__ctor_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.#ctor
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.MissingTilesSubWindow
+  nameWithType: MissingTilesSubWindow.MissingTilesSubWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind(IMGUIContainer)
+  name: Bind(IMGUIContainer)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Bind_IMGUIContainer_
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind(IMGUIContainer)
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind(IMGUIContainer)
+  nameWithType: MissingTilesSubWindow.Bind(IMGUIContainer)
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind*
+  name: Bind
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Bind_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Bind
+  nameWithType: MissingTilesSubWindow.Bind
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data
+  name: MissingTilesSubWindow.Data
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data
+  nameWithType: MissingTilesSubWindow.Data
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.cubesMaterial
+  name: cubesMaterial
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Data_cubesMaterial
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.cubesMaterial
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.cubesMaterial
+  nameWithType: MissingTilesSubWindow.Data.cubesMaterial
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.wallsMaterial
+  name: wallsMaterial
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Data_wallsMaterial
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.wallsMaterial
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.wallsMaterial
+  nameWithType: MissingTilesSubWindow.Data.wallsMaterial
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy
+  name: Destroy()
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Destroy
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy()
+  nameWithType: MissingTilesSubWindow.Destroy()
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy*
+  name: Destroy
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Destroy_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Destroy
+  nameWithType: MissingTilesSubWindow.Destroy
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render(Rect,CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data,Mesh)
+  name: Render(Rect, MissingTilesSubWindow.Data, Mesh)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Render_Rect_CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Data_Mesh_
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render(Rect,CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data,Mesh)
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render(Rect, CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data, Mesh)
+  nameWithType: MissingTilesSubWindow.Render(Rect, MissingTilesSubWindow.Data, Mesh)
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render*
+  name: Render
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_SubWindow_MissingTilesSubWindow_Render_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Render
+  nameWithType: MissingTilesSubWindow.Render
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow
+  name: TilesetReportWindow
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow
+  nameWithType: TilesetReportWindow
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI
+  name: CreateGUI()
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_CreateGUI
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI()
+  nameWithType: TilesetReportWindow.CreateGUI()
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI*
+  name: CreateGUI
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_CreateGUI_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.CreateGUI
+  nameWithType: TilesetReportWindow.CreateGUI
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport(CarbideFunction.Wildtile.TilesetImporter,CarbideFunction.Wildtile.Editor.ImportDetails)
+  name: ShowReport(TilesetImporter, ImportDetails)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_ShowReport_CarbideFunction_Wildtile_TilesetImporter_CarbideFunction_Wildtile_Editor_ImportDetails_
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport(CarbideFunction.Wildtile.TilesetImporter,CarbideFunction.Wildtile.Editor.ImportDetails)
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport(CarbideFunction.Wildtile.TilesetImporter, CarbideFunction.Wildtile.Editor.ImportDetails)
+  nameWithType: TilesetReportWindow.ShowReport(TilesetImporter, ImportDetails)
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport*
+  name: ShowReport
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_ShowReport_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReport
+  nameWithType: TilesetReportWindow.ShowReport
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis(CarbideFunction.Wildtile.TilesetImporter,CarbideFunction.Wildtile.Editor.ImportDetails,CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report)
+  name: ShowReportAndAnalysis(TilesetImporter, ImportDetails, TilesetAnalyzer.Report)
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_ShowReportAndAnalysis_CarbideFunction_Wildtile_TilesetImporter_CarbideFunction_Wildtile_Editor_ImportDetails_CarbideFunction_Wildtile_Editor_TilesetAnalyzer_Report_
+  commentId: M:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis(CarbideFunction.Wildtile.TilesetImporter,CarbideFunction.Wildtile.Editor.ImportDetails,CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report)
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis(CarbideFunction.Wildtile.TilesetImporter, CarbideFunction.Wildtile.Editor.ImportDetails, CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report)
+  nameWithType: TilesetReportWindow.ShowReportAndAnalysis(TilesetImporter, ImportDetails, TilesetAnalyzer.Report)
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis*
+  name: ShowReportAndAnalysis
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindow_ShowReportAndAnalysis_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.ShowReportAndAnalysis
+  nameWithType: TilesetReportWindow.ShowReportAndAnalysis
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters
+  name: TilesetReportWindowParameters
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters
+  nameWithType: TilesetReportWindowParameters
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.hashCollisionSubWindowData
+  name: hashCollisionSubWindowData
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindowParameters_hashCollisionSubWindowData
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.hashCollisionSubWindowData
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.hashCollisionSubWindowData
+  nameWithType: TilesetReportWindowParameters.hashCollisionSubWindowData
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.missingTileParameters
+  name: missingTileParameters
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindowParameters_missingTileParameters
+  commentId: F:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.missingTileParameters
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.missingTileParameters
+  nameWithType: TilesetReportWindowParameters.missingTileParameters
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess
+  name: TilesetReportWindowParametersAccess
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess
+  nameWithType: TilesetReportWindowParametersAccess
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
+  name: Parameters
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindowParametersAccess_Parameters
+  commentId: P:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
+  nameWithType: TilesetReportWindowParametersAccess.Parameters
+- uid: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters*
+  name: Parameters
+  href: api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.html#CarbideFunction_Wildtile_Editor_ImportReport_TilesetReportWindowParametersAccess_Parameters_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
+  nameWithType: TilesetReportWindowParametersAccess.Parameters
 - uid: CarbideFunction.Wildtile.Editor.LayerAttributeEditor
   name: LayerAttributeEditor
   href: api/CarbideFunction.Wildtile.Editor.LayerAttributeEditor.html
@@ -806,6 +1145,12 @@ references:
   fullName.vb: CarbideFunction.Wildtile.Editor.ListViewBinder.BindListView(Of TContents)(ListView, System.Collections.Generic.IEnumerable(Of TContents))
   nameWithType: ListViewBinder.BindListView<TContents>(ListView, IEnumerable<TContents>)
   nameWithType.vb: ListViewBinder.BindListView(Of TContents)(ListView, IEnumerable(Of TContents))
+- uid: CarbideFunction.Wildtile.Editor.ListViewBinder.defaultItemHeight
+  name: defaultItemHeight
+  href: api/CarbideFunction.Wildtile.Editor.ListViewBinder.html#CarbideFunction_Wildtile_Editor_ListViewBinder_defaultItemHeight
+  commentId: F:CarbideFunction.Wildtile.Editor.ListViewBinder.defaultItemHeight
+  fullName: CarbideFunction.Wildtile.Editor.ListViewBinder.defaultItemHeight
+  nameWithType: ListViewBinder.defaultItemHeight
 - uid: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial*
   name: SetupListViewInitial
   href: api/CarbideFunction.Wildtile.Editor.ListViewBinder.html#CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial_
@@ -813,37 +1158,178 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial
   nameWithType: ListViewBinder.SetupListViewInitial
-- uid: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0})
-  name: SetupListViewInitial<TContents>(ListView, ListViewBinder.ApplyContentsToUi<TContents>)
-  href: api/CarbideFunction.Wildtile.Editor.ListViewBinder.html#CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial__1_ListView_CarbideFunction_Wildtile_Editor_ListViewBinder_ApplyContentsToUi___0__
-  commentId: M:CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0})
-  name.vb: SetupListViewInitial(Of TContents)(ListView, ListViewBinder.ApplyContentsToUi(Of TContents))
-  fullName: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial<TContents>(ListView, CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi<TContents>)
-  fullName.vb: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial(Of TContents)(ListView, CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi(Of TContents))
-  nameWithType: ListViewBinder.SetupListViewInitial<TContents>(ListView, ListViewBinder.ApplyContentsToUi<TContents>)
-  nameWithType.vb: ListViewBinder.SetupListViewInitial(Of TContents)(ListView, ListViewBinder.ApplyContentsToUi(Of TContents))
+- uid: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0},System.Int32,System.Func{VisualElement})
+  name: SetupListViewInitial<TContents>(ListView, ListViewBinder.ApplyContentsToUi<TContents>, Int32, Func<VisualElement>)
+  href: api/CarbideFunction.Wildtile.Editor.ListViewBinder.html#CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial__1_ListView_CarbideFunction_Wildtile_Editor_ListViewBinder_ApplyContentsToUi___0__System_Int32_System_Func_VisualElement__
+  commentId: M:CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0},System.Int32,System.Func{VisualElement})
+  name.vb: SetupListViewInitial(Of TContents)(ListView, ListViewBinder.ApplyContentsToUi(Of TContents), Int32, Func(Of VisualElement))
+  fullName: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial<TContents>(ListView, CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi<TContents>, System.Int32, System.Func<VisualElement>)
+  fullName.vb: CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial(Of TContents)(ListView, CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi(Of TContents), System.Int32, System.Func(Of VisualElement))
+  nameWithType: ListViewBinder.SetupListViewInitial<TContents>(ListView, ListViewBinder.ApplyContentsToUi<TContents>, Int32, Func<VisualElement>)
+  nameWithType.vb: ListViewBinder.SetupListViewInitial(Of TContents)(ListView, ListViewBinder.ApplyContentsToUi(Of TContents), Int32, Func(Of VisualElement))
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParameters
+  name: MissingTilesParameters
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.html
+  commentId: T:CarbideFunction.Wildtile.Editor.MissingTilesParameters
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParameters
+  nameWithType: MissingTilesParameters
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParameters.mouseOrbitSpeed
+  name: mouseOrbitSpeed
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.html#CarbideFunction_Wildtile_Editor_MissingTilesParameters_mouseOrbitSpeed
+  commentId: F:CarbideFunction.Wildtile.Editor.MissingTilesParameters.mouseOrbitSpeed
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParameters.mouseOrbitSpeed
+  nameWithType: MissingTilesParameters.mouseOrbitSpeed
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParameters.renderingData
+  name: renderingData
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.html#CarbideFunction_Wildtile_Editor_MissingTilesParameters_renderingData
+  commentId: F:CarbideFunction.Wildtile.Editor.MissingTilesParameters.renderingData
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParameters.renderingData
+  nameWithType: MissingTilesParameters.renderingData
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParameters.searchConfigurations
+  name: searchConfigurations
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.html#CarbideFunction_Wildtile_Editor_MissingTilesParameters_searchConfigurations
+  commentId: F:CarbideFunction.Wildtile.Editor.MissingTilesParameters.searchConfigurations
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParameters.searchConfigurations
+  nameWithType: MissingTilesParameters.searchConfigurations
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor
+  name: MissingTilesParametersEditor
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.html
+  commentId: T:CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor
+  nameWithType: MissingTilesParametersEditor
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersEditor_OnInspectorGUI
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI()
+  nameWithType: MissingTilesParametersEditor.OnInspectorGUI()
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersEditor_OnInspectorGUI_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.OnInspectorGUI
+  nameWithType: MissingTilesParametersEditor.OnInspectorGUI
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators
+  name: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.html
+  commentId: N:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators
+  nameWithType: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel
+  name: CreateTileModel
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.html
+  commentId: T:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel
+  nameWithType: CreateTileModel
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  name: CreateModel(Tile)
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_CreateTileModel_CreateModel_CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  nameWithType: CreateTileModel.CreateModel(Tile)
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel*
+  name: CreateModel
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_CreateTileModel_CreateModel_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.CreateModel
+  nameWithType: CreateTileModel.CreateModel
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator
+  name: MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.html
+  commentId: T:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator
+  nameWithType: MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  name: GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles()
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator_GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles()
+  nameWithType: MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles()
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles*
+  name: GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator_GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+  nameWithType: MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.GetMinimalTilesThatCanRotateAndFlipToCreateAllTiles
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile
+  name: Tile
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html
+  commentId: T:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile
+  nameWithType: Tile
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  name: Equals(Tile)
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_Equals_CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals(CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile)
+  nameWithType: Tile.Equals(Tile)
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals*
+  name: Equals
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_Equals_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.Equals
+  nameWithType: Tile.Equals
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex(System.Int32)
+  name: FromYzxTileIndex(Int32)
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_FromYzxTileIndex_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex(System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex(System.Int32)
+  nameWithType: Tile.FromYzxTileIndex(Int32)
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex*
+  name: FromYzxTileIndex
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_FromYzxTileIndex_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.FromYzxTileIndex
+  nameWithType: Tile.FromYzxTileIndex
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex
+  name: GetTileZyxIndex()
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_GetTileZyxIndex
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex()
+  nameWithType: Tile.GetTileZyxIndex()
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex*
+  name: GetTileZyxIndex
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_GetTileZyxIndex_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.GetTileZyxIndex
+  nameWithType: Tile.GetTileZyxIndex
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.highContents
+  name: highContents
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_highContents
+  commentId: F:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.highContents
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.highContents
+  nameWithType: Tile.highContents
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.lowContents
+  name: lowContents
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_lowContents
+  commentId: F:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.lowContents
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.lowContents
+  nameWithType: Tile.lowContents
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString
+  name: ToString()
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_ToString
+  commentId: M:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString()
+  nameWithType: Tile.ToString()
+- uid: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString*
+  name: ToString
+  href: api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html#CarbideFunction_Wildtile_Editor_MissingTilesParametersGenerators_Tile_ToString_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.ToString
+  nameWithType: Tile.ToString
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator
   name: ModelTileConnectivityCalculator
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html
   commentId: T:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator
   nameWithType: ModelTileConnectivityCalculator
-- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject,CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData,System.Single,System.Single,System.Collections.Generic.List{CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings})
-  name: CacheConnectingEdgesFromPrefab(GameObject, ModelTileConnectivityCalculator.ModuleConnectivityData, Single, Single, List<MaterialImportSettings>)
-  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_CacheConnectingEdgesFromPrefab_GameObject_CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_System_Single_System_Single_System_Collections_Generic_List_CarbideFunction_Wildtile_ImporterSettings_MaterialImportSettings__
-  commentId: M:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject,CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData,System.Single,System.Single,System.Collections.Generic.List{CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings})
-  name.vb: CacheConnectingEdgesFromPrefab(GameObject, ModelTileConnectivityCalculator.ModuleConnectivityData, Single, Single, List(Of MaterialImportSettings))
-  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject, CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData, System.Single, System.Single, System.Collections.Generic.List<CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings>)
-  fullName.vb: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject, CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData, System.Single, System.Single, System.Collections.Generic.List(Of CarbideFunction.Wildtile.ImporterSettings.MaterialImportSettings))
-  nameWithType: ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject, ModelTileConnectivityCalculator.ModuleConnectivityData, Single, Single, List<MaterialImportSettings>)
-  nameWithType.vb: ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab(GameObject, ModelTileConnectivityCalculator.ModuleConnectivityData, Single, Single, List(Of MaterialImportSettings))
-- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab*
-  name: CacheConnectingEdgesFromPrefab
-  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_CacheConnectingEdgesFromPrefab_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab
-  nameWithType: ModelTileConnectivityCalculator.CacheConnectingEdgesFromPrefab
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveEdges
   name: ModelTileConnectivityCalculator.ConnectiveEdges
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveEdges.html
@@ -874,6 +1360,12 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.gridOffset
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.gridOffset
   nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.gridOffset
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.name
+  name: name
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ConnectiveFaceDefinition_name
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.name
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.name
+  nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.name
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.offsetDirection
   name: offsetDirection
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ConnectiveFaceDefinition_offsetDirection
@@ -904,6 +1396,19 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.orientation
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.orientation
   nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.orientation
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
+  name: ToString()
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ConnectiveFaceDefinition_ToString
+  commentId: M:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString()
+  nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString()
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString*
+  name: ToString
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ConnectiveFaceDefinition_ToString_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
+  nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.faceDefinitions
   name: faceDefinitions
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_faceDefinitions
@@ -938,12 +1443,54 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.connectiveFaces
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.connectiveFaces
   nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.connectiveFaces
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace
+  name: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.faceNormal
+  name: faceNormal
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_MeshTriangleOnBoundsFace_faceNormal
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.faceNormal
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.faceNormal
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.faceNormal
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex0
+  name: vertex0
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_MeshTriangleOnBoundsFace_vertex0
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex0
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex0
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex0
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex1
+  name: vertex1
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_MeshTriangleOnBoundsFace_vertex1
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex1
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex1
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex1
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex2
+  name: vertex2
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_MeshTriangleOnBoundsFace_vertex2
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex2
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex2
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.vertex2
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.moduleVertexContents
   name: moduleVertexContents
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_moduleVertexContents
   commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.moduleVertexContents
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.moduleVertexContents
   nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.moduleVertexContents
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.trianglesOnModuleBoundsFace
+  name: trianglesOnModuleBoundsFace
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_trianglesOnModuleBoundsFace
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.trianglesOnModuleBoundsFace
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.trianglesOnModuleBoundsFace
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.trianglesOnModuleBoundsFace
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.vertexIndicesOutsideOfBounds
+  name: vertexIndicesOutsideOfBounds
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_vertexIndicesOutsideOfBounds
+  commentId: F:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.vertexIndicesOutsideOfBounds
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.vertexIndicesOutsideOfBounds
+  nameWithType: ModelTileConnectivityCalculator.ModuleConnectivityData.vertexIndicesOutsideOfBounds
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics
   name: ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.html
@@ -1028,6 +1575,150 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.OnTriMissed
   nameWithType: ModelTileConnectivityCalculator.VertexContentsInferenceDiagnostics.OnTriMissed
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier
+  name: ModuleFaceIdentifier
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier
+  nameWithType: ModuleFaceIdentifier
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.face
+  name: face
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_face
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.face
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.face
+  nameWithType: ModuleFaceIdentifier.face
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.flipped
+  name: flipped
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_flipped
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.flipped
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.flipped
+  nameWithType: ModuleFaceIdentifier.flipped
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.module
+  name: module
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_module
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.module
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.module
+  nameWithType: ModuleFaceIdentifier.module
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.opposite
+  name: opposite
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_opposite
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.opposite
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.opposite
+  nameWithType: ModuleFaceIdentifier.opposite
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.prefabIndex
+  name: prefabIndex
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_prefabIndex
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.prefabIndex
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.prefabIndex
+  nameWithType: ModuleFaceIdentifier.prefabIndex
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString
+  name: ToString()
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_ToString
+  commentId: M:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString()
+  nameWithType: ModuleFaceIdentifier.ToString()
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString*
+  name: ToString
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_ToString_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.ToString
+  nameWithType: ModuleFaceIdentifier.ToString
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
+  name: WithFace(Face)
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithFace_CarbideFunction_Wildtile_Face_
+  commentId: M:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
+  nameWithType: ModuleFaceIdentifier.WithFace(Face)
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace*
+  name: WithFace
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithFace_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFace
+  nameWithType: ModuleFaceIdentifier.WithFace
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
+  name: WithFlipped(Boolean)
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithFlipped_System_Boolean_
+  commentId: M:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
+  nameWithType: ModuleFaceIdentifier.WithFlipped(Boolean)
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped*
+  name: WithFlipped
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithFlipped_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithFlipped
+  nameWithType: ModuleFaceIdentifier.WithFlipped
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
+  name: WithOpposite(Boolean)
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithOpposite_System_Boolean_
+  commentId: M:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
+  nameWithType: ModuleFaceIdentifier.WithOpposite(Boolean)
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite*
+  name: WithOpposite
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithOpposite_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithOpposite
+  nameWithType: ModuleFaceIdentifier.WithOpposite
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
+  name: WithYawIndex(Int32)
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithYawIndex_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
+  nameWithType: ModuleFaceIdentifier.WithYawIndex(Int32)
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex*
+  name: WithYawIndex
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_WithYawIndex_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.WithYawIndex
+  nameWithType: ModuleFaceIdentifier.WithYawIndex
+- uid: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yawIndex
+  name: yawIndex
+  href: api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_ModuleFaceIdentifier_yawIndex
+  commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yawIndex
+  fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yawIndex
+  nameWithType: ModuleFaceIdentifier.yawIndex
+- uid: CarbideFunction.Wildtile.Editor.RedrawSceneViews
+  name: RedrawSceneViews
+  href: api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html
+  commentId: T:CarbideFunction.Wildtile.Editor.RedrawSceneViews
+  fullName: CarbideFunction.Wildtile.Editor.RedrawSceneViews
+  nameWithType: RedrawSceneViews
+- uid: CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw
+  name: Redraw()
+  href: api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html#CarbideFunction_Wildtile_Editor_RedrawSceneViews_Redraw
+  commentId: M:CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw
+  fullName: CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw()
+  nameWithType: RedrawSceneViews.Redraw()
+- uid: CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw*
+  name: Redraw
+  href: api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html#CarbideFunction_Wildtile_Editor_RedrawSceneViews_Redraw_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw
+  nameWithType: RedrawSceneViews.Redraw
+- uid: CarbideFunction.Wildtile.Editor.SearchConfiguration
+  name: SearchConfiguration
+  href: api/CarbideFunction.Wildtile.Editor.SearchConfiguration.html
+  commentId: T:CarbideFunction.Wildtile.Editor.SearchConfiguration
+  fullName: CarbideFunction.Wildtile.Editor.SearchConfiguration
+  nameWithType: SearchConfiguration
+- uid: CarbideFunction.Wildtile.Editor.SearchConfiguration.marchingCubeConfig
+  name: marchingCubeConfig
+  href: api/CarbideFunction.Wildtile.Editor.SearchConfiguration.html#CarbideFunction_Wildtile_Editor_SearchConfiguration_marchingCubeConfig
+  commentId: F:CarbideFunction.Wildtile.Editor.SearchConfiguration.marchingCubeConfig
+  fullName: CarbideFunction.Wildtile.Editor.SearchConfiguration.marchingCubeConfig
+  nameWithType: SearchConfiguration.marchingCubeConfig
+- uid: CarbideFunction.Wildtile.Editor.SearchConfiguration.representativeModel
+  name: representativeModel
+  href: api/CarbideFunction.Wildtile.Editor.SearchConfiguration.html#CarbideFunction_Wildtile_Editor_SearchConfiguration_representativeModel
+  commentId: F:CarbideFunction.Wildtile.Editor.SearchConfiguration.representativeModel
+  fullName: CarbideFunction.Wildtile.Editor.SearchConfiguration.representativeModel
+  nameWithType: SearchConfiguration.representativeModel
 - uid: CarbideFunction.Wildtile.Editor.TileMapEditorTool
   name: TileMapEditorTool
   href: api/CarbideFunction.Wildtile.Editor.TileMapEditorTool.html
@@ -1105,12 +1796,15 @@ references:
   commentId: T:CarbideFunction.Wildtile.Editor.TilesetAnalyzer
   fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer
   nameWithType: TilesetAnalyzer
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset)
-  name: GenerateReport(Tileset)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_GenerateReport_CarbideFunction_Wildtile_Tileset_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset)
-  nameWithType: TilesetAnalyzer.GenerateReport(Tileset)
+- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset,System.Collections.Generic.IEnumerable{CarbideFunction.Wildtile.Editor.SearchConfiguration})
+  name: GenerateReport(Tileset, IEnumerable<SearchConfiguration>)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_GenerateReport_CarbideFunction_Wildtile_Tileset_System_Collections_Generic_IEnumerable_CarbideFunction_Wildtile_Editor_SearchConfiguration__
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset,System.Collections.Generic.IEnumerable{CarbideFunction.Wildtile.Editor.SearchConfiguration})
+  name.vb: GenerateReport(Tileset, IEnumerable(Of SearchConfiguration))
+  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset, System.Collections.Generic.IEnumerable<CarbideFunction.Wildtile.Editor.SearchConfiguration>)
+  fullName.vb: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport(CarbideFunction.Wildtile.Tileset, System.Collections.Generic.IEnumerable(Of CarbideFunction.Wildtile.Editor.SearchConfiguration))
+  nameWithType: TilesetAnalyzer.GenerateReport(Tileset, IEnumerable<SearchConfiguration>)
+  nameWithType.vb: TilesetAnalyzer.GenerateReport(Tileset, IEnumerable(Of SearchConfiguration))
 - uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.GenerateReport*
   name: GenerateReport
   href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_GenerateReport_
@@ -1130,6 +1824,19 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.emptyMarchingCubeBuckets
   fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.emptyMarchingCubeBuckets
   nameWithType: TilesetAnalyzer.Report.emptyMarchingCubeBuckets
+- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid
+  name: IsValid
+  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_Report_IsValid
+  commentId: P:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid
+  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid
+  nameWithType: TilesetAnalyzer.Report.IsValid
+- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid*
+  name: IsValid
+  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_Report_IsValid_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.IsValid
+  nameWithType: TilesetAnalyzer.Report.IsValid
 - uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.unconnectableModules
   name: unconnectableModules
   href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_Report_unconnectableModules
@@ -1154,44 +1861,19 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.face
   fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.face
   nameWithType: TilesetAnalyzer.UnconnectableModule.face
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.moduleIndex
-  name: moduleIndex
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_UnconnectableModule_moduleIndex
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.moduleIndex
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.moduleIndex
-  nameWithType: TilesetAnalyzer.UnconnectableModule.moduleIndex
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow
-  name: TilesetAnalyzerWindow
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html
-  commentId: T:CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow
-  nameWithType: TilesetAnalyzerWindow
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI
-  name: CreateGUI()
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzerWindow_CreateGUI
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI()
-  nameWithType: TilesetAnalyzerWindow.CreateGUI()
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI*
-  name: CreateGUI
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzerWindow_CreateGUI_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI
+- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier
+  name: GetUserFriendlyIdentifier()
+  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_UnconnectableModule_GetUserFriendlyIdentifier
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier
+  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier()
+  nameWithType: TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier()
+- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier*
+  name: GetUserFriendlyIdentifier
+  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzer_UnconnectableModule_GetUserFriendlyIdentifier_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier
   isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.CreateGUI
-  nameWithType: TilesetAnalyzerWindow.CreateGUI
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow
-  name: OpenWindow()
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzerWindow_OpenWindow
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow()
-  nameWithType: TilesetAnalyzerWindow.OpenWindow()
-- uid: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow*
-  name: OpenWindow
-  href: api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html#CarbideFunction_Wildtile_Editor_TilesetAnalyzerWindow_OpenWindow_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.OpenWindow
-  nameWithType: TilesetAnalyzerWindow.OpenWindow
+  fullName: CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier
+  nameWithType: TilesetAnalyzer.UnconnectableModule.GetUserFriendlyIdentifier
 - uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor
   name: TilesetImporterEditor
   href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.html
@@ -1241,107 +1923,6 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.Import
   nameWithType: TilesetImporterEditor.Import
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier
-  name: TilesetImporterEditor.ModuleFaceIdentifier
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html
-  commentId: T:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.face
-  name: face
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_face
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.face
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.face
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.face
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.flipped
-  name: flipped
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_flipped
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.flipped
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.flipped
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.flipped
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.module
-  name: module
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_module
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.module
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.module
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.module
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.opposite
-  name: opposite
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_opposite
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.opposite
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.opposite
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.opposite
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString
-  name: ToString()
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_ToString
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString()
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.ToString()
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString*
-  name: ToString
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_ToString_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.ToString
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.ToString
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
-  name: WithFace(Face)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithFace_CarbideFunction_Wildtile_Face_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace(CarbideFunction.Wildtile.Face)
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithFace(Face)
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace*
-  name: WithFace
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithFace_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFace
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithFace
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
-  name: WithFlipped(Boolean)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithFlipped_System_Boolean_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped(System.Boolean)
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped(Boolean)
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped*
-  name: WithFlipped
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithFlipped_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithFlipped
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
-  name: WithOpposite(Boolean)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithOpposite_System_Boolean_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite(System.Boolean)
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite(Boolean)
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite*
-  name: WithOpposite
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithOpposite_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithOpposite
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
-  name: WithYawIndex(Int32)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithYawIndex_System_Int32_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex(System.Int32)
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex(Int32)
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex*
-  name: WithYawIndex
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_WithYawIndex_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.WithYawIndex
-- uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yawIndex
-  name: yawIndex
-  href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_ModuleFaceIdentifier_yawIndex
-  commentId: F:CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yawIndex
-  fullName: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yawIndex
-  nameWithType: TilesetImporterEditor.ModuleFaceIdentifier.yawIndex
 - uid: CarbideFunction.Wildtile.Editor.TilesetImporterEditor.OnInspectorGUI
   name: OnInspectorGUI()
   href: api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.html#CarbideFunction_Wildtile_Editor_TilesetImporterEditor_OnInspectorGUI
@@ -1374,19 +1955,6 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindow
   nameWithType: TilesetInspector.ShowWindow
-- uid: CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace(CarbideFunction.Wildtile.TilesetImporter,System.Int32,CarbideFunction.Wildtile.Face)
-  name: ShowWindowAndSelectModuleAndFace(TilesetImporter, Int32, Face)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetInspector.html#CarbideFunction_Wildtile_Editor_TilesetInspector_ShowWindowAndSelectModuleAndFace_CarbideFunction_Wildtile_TilesetImporter_System_Int32_CarbideFunction_Wildtile_Face_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace(CarbideFunction.Wildtile.TilesetImporter,System.Int32,CarbideFunction.Wildtile.Face)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace(CarbideFunction.Wildtile.TilesetImporter, System.Int32, CarbideFunction.Wildtile.Face)
-  nameWithType: TilesetInspector.ShowWindowAndSelectModuleAndFace(TilesetImporter, Int32, Face)
-- uid: CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace*
-  name: ShowWindowAndSelectModuleAndFace
-  href: api/CarbideFunction.Wildtile.Editor.TilesetInspector.html#CarbideFunction_Wildtile_Editor_TilesetInspector_ShowWindowAndSelectModuleAndFace_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetInspector.ShowWindowAndSelectModuleAndFace
-  nameWithType: TilesetInspector.ShowWindowAndSelectModuleAndFace
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorComparison
   name: TilesetInspectorComparison
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorComparison.html
@@ -1550,6 +2118,40 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.ConnectionsDrawer
   nameWithType: ConnectionsDrawer.ConnectionsDrawer
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw(SceneView)
+  name: IDiagnosticsDrawer.Draw(SceneView)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_ConnectionsDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_SceneView_
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw(SceneView)
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  nameWithType: ConnectionsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  nameWithType.vb: ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw*
+  name: IDiagnosticsDrawer.Draw
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_ConnectionsDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw
+  isSpec: "True"
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  nameWithType: ConnectionsDrawer.IDiagnosticsDrawer.Draw
+  nameWithType.vb: ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  name: IDiagnosticsDrawer.Shutdown()
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_ConnectionsDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+  nameWithType: ConnectionsDrawer.IDiagnosticsDrawer.Shutdown()
+  nameWithType.vb: ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown*
+  name: IDiagnosticsDrawer.Shutdown
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_ConnectionsDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  isSpec: "True"
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  nameWithType: ConnectionsDrawer.IDiagnosticsDrawer.Shutdown
+  nameWithType.vb: ConnectionsDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.DrawConnections(SceneView)
   name: DrawConnections(SceneView)
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_ConnectionsDrawer_DrawConnections_SceneView_
@@ -1637,6 +2239,38 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.DrawConnections
   nameWithType: EdgesMismatchDrawer.DrawConnections
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer
+  name: IDiagnosticsDrawer
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer
+  nameWithType: IDiagnosticsDrawer
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  name: Draw(SceneView)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_SceneView_
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  nameWithType: IDiagnosticsDrawer.Draw(SceneView)
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw*
+  name: Draw
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  nameWithType: IDiagnosticsDrawer.Draw
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  name: Shutdown()
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+  nameWithType: IDiagnosticsDrawer.Shutdown()
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown*
+  name: Shutdown
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  nameWithType: IDiagnosticsDrawer.Shutdown
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer
   name: MaterialsMismatchDrawer
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.html
@@ -1707,6 +2341,123 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.DrawConnections
   nameWithType: NormalsMismatchDrawer.DrawConnections
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer
+  name: TrianglesOnModuleFaceDrawer
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer
+  nameWithType: TrianglesOnModuleFaceDrawer
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.#ctor(Mesh,Vector3,VisualElement)
+  name: TrianglesOnModuleFaceDrawer(Mesh, Vector3, VisualElement)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer__ctor_Mesh_Vector3_VisualElement_
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.#ctor(Mesh,Vector3,VisualElement)
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.TrianglesOnModuleFaceDrawer(Mesh, Vector3, VisualElement)
+  nameWithType: TrianglesOnModuleFaceDrawer.TrianglesOnModuleFaceDrawer(Mesh, Vector3, VisualElement)
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.#ctor*
+  name: TrianglesOnModuleFaceDrawer
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer__ctor_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.#ctor
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.TrianglesOnModuleFaceDrawer
+  nameWithType: TrianglesOnModuleFaceDrawer.TrianglesOnModuleFaceDrawer
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw(SceneView)
+  name: IDiagnosticsDrawer.Draw(SceneView)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_SceneView_
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw(SceneView)
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  nameWithType: TrianglesOnModuleFaceDrawer.IDiagnosticsDrawer.Draw(SceneView)
+  nameWithType.vb: TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw(SceneView)
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw*
+  name: IDiagnosticsDrawer.Draw
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Draw_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Draw
+  isSpec: "True"
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+  nameWithType: TrianglesOnModuleFaceDrawer.IDiagnosticsDrawer.Draw
+  nameWithType.vb: TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Draw
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  name: IDiagnosticsDrawer.Shutdown()
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+  nameWithType: TrianglesOnModuleFaceDrawer.IDiagnosticsDrawer.Shutdown()
+  nameWithType.vb: TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown()
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown*
+  name: IDiagnosticsDrawer.Shutdown
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawer_CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_IDiagnosticsDrawer_Shutdown_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction#Wildtile#Editor#TilesetInspectorDiagnosticsDrawer#IDiagnosticsDrawer#Shutdown
+  isSpec: "True"
+  name.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+  nameWithType: TrianglesOnModuleFaceDrawer.IDiagnosticsDrawer.Shutdown
+  nameWithType.vb: TrianglesOnModuleFaceDrawer.CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.Shutdown
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources
+  name: TrianglesOnModuleFaceDrawerResources
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources
+  nameWithType: TrianglesOnModuleFaceDrawerResources
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderHighlightMaterial
+  name: borderHighlightMaterial
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawerResources_borderHighlightMaterial
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderHighlightMaterial
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderHighlightMaterial
+  nameWithType: TrianglesOnModuleFaceDrawerResources.borderHighlightMaterial
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderWidthSliderName
+  name: borderWidthSliderName
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawerResources_borderWidthSliderName
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderWidthSliderName
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.borderWidthSliderName
+  nameWithType: TrianglesOnModuleFaceDrawerResources.borderWidthSliderName
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.normalOffsetSliderName
+  name: normalOffsetSliderName
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawerResources_normalOffsetSliderName
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.normalOffsetSliderName
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.normalOffsetSliderName
+  nameWithType: TrianglesOnModuleFaceDrawerResources.normalOffsetSliderName
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.triangleOnFaceMaterial
+  name: triangleOnFaceMaterial
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawerResources_triangleOnFaceMaterial
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.triangleOnFaceMaterial
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.triangleOnFaceMaterial
+  nameWithType: TrianglesOnModuleFaceDrawerResources.triangleOnFaceMaterial
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess
+  name: TrianglesOnModuleFaceDrawerResourcesAccess
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess
+  nameWithType: TrianglesOnModuleFaceDrawerResourcesAccess
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.resources
+  name: resources
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceDrawerResourcesAccess_resources
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.resources
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.resources
+  nameWithType: TrianglesOnModuleFaceDrawerResourcesAccess.resources
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator
+  name: TrianglesOnModuleFaceMeshCreator
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator
+  nameWithType: TrianglesOnModuleFaceMeshCreator
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh(System.Collections.Generic.IEnumerable{CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace},Mesh)
+  name: CreateMesh(IEnumerable<ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace>, Mesh)
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceMeshCreator_CreateMesh_System_Collections_Generic_IEnumerable_CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_ModuleConnectivityData_MeshTriangleOnBoundsFace__Mesh_
+  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh(System.Collections.Generic.IEnumerable{CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace},Mesh)
+  name.vb: CreateMesh(IEnumerable(Of ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace), Mesh)
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh(System.Collections.Generic.IEnumerable<CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace>, Mesh)
+  fullName.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh(System.Collections.Generic.IEnumerable(Of CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace), Mesh)
+  nameWithType: TrianglesOnModuleFaceMeshCreator.CreateMesh(IEnumerable<ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace>, Mesh)
+  nameWithType.vb: TrianglesOnModuleFaceMeshCreator.CreateMesh(IEnumerable(Of ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace), Mesh)
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh*
+  name: CreateMesh
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_TrianglesOnModuleFaceMeshCreator_CreateMesh_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.CreateMesh
+  nameWithType: TrianglesOnModuleFaceMeshCreator.CreateMesh
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer
   name: UnknownMismatchDrawer
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.html
@@ -1771,28 +2522,6 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.DrawConnections
   nameWithType: ValidConnectionsDrawer.DrawConnections
-- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer
-  name: VertexContentsDrawer
-  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html
-  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer
-  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer
-  nameWithType: VertexContentsDrawer
-- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{CarbideFunction.Wildtile.Triangle},System.Collections.Generic.List{CarbideFunction.Wildtile.Triangle},System.Boolean)
-  name: VertexContentsDrawer(Vector3, Vector3, List<Triangle>, List<Triangle>, Boolean)
-  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_VertexContentsDrawer__ctor_Vector3_Vector3_System_Collections_Generic_List_CarbideFunction_Wildtile_Triangle__System_Collections_Generic_List_CarbideFunction_Wildtile_Triangle__System_Boolean_
-  commentId: M:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.#ctor(Vector3,Vector3,System.Collections.Generic.List{CarbideFunction.Wildtile.Triangle},System.Collections.Generic.List{CarbideFunction.Wildtile.Triangle},System.Boolean)
-  name.vb: VertexContentsDrawer(Vector3, Vector3, List(Of Triangle), List(Of Triangle), Boolean)
-  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.VertexContentsDrawer(Vector3, Vector3, System.Collections.Generic.List<CarbideFunction.Wildtile.Triangle>, System.Collections.Generic.List<CarbideFunction.Wildtile.Triangle>, System.Boolean)
-  fullName.vb: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.VertexContentsDrawer(Vector3, Vector3, System.Collections.Generic.List(Of CarbideFunction.Wildtile.Triangle), System.Collections.Generic.List(Of CarbideFunction.Wildtile.Triangle), System.Boolean)
-  nameWithType: VertexContentsDrawer.VertexContentsDrawer(Vector3, Vector3, List<Triangle>, List<Triangle>, Boolean)
-  nameWithType.vb: VertexContentsDrawer.VertexContentsDrawer(Vector3, Vector3, List(Of Triangle), List(Of Triangle), Boolean)
-- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.#ctor*
-  name: VertexContentsDrawer
-  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html#CarbideFunction_Wildtile_Editor_TilesetInspectorDiagnosticsDrawer_VertexContentsDrawer__ctor_
-  commentId: Overload:CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.#ctor
-  isSpec: "True"
-  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.VertexContentsDrawer
-  nameWithType: VertexContentsDrawer.VertexContentsDrawer
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer
   name: VerticesMismatchDrawer
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.html
@@ -1834,6 +2563,12 @@ references:
   commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorSettings
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings
   nameWithType: TilesetInspectorSettings
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.currentModulesListViewHeight
+  name: currentModulesListViewHeight
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html#CarbideFunction_Wildtile_Editor_TilesetInspectorSettings_currentModulesListViewHeight
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.currentModulesListViewHeight
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.currentModulesListViewHeight
+  nameWithType: TilesetInspectorSettings.currentModulesListViewHeight
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.dashedLineDashLength
   name: dashedLineDashLength
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html#CarbideFunction_Wildtile_Editor_TilesetInspectorSettings_dashedLineDashLength
@@ -1858,6 +2593,12 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.lineThickness
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.lineThickness
   nameWithType: TilesetInspectorSettings.lineThickness
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.onCurrentModulesListViewHeightChanged
+  name: onCurrentModulesListViewHeightChanged
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html#CarbideFunction_Wildtile_Editor_TilesetInspectorSettings_onCurrentModulesListViewHeightChanged
+  commentId: F:CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.onCurrentModulesListViewHeightChanged
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.onCurrentModulesListViewHeightChanged
+  nameWithType: TilesetInspectorSettings.onCurrentModulesListViewHeightChanged
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnGui
   name: OnGui()
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html#CarbideFunction_Wildtile_Editor_TilesetInspectorSettings_OnGui
@@ -1871,6 +2612,12 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnGui
   nameWithType: TilesetInspectorSettings.OnGui
+- uid: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged
+  name: TilesetInspectorSettings.OnPropertyChanged
+  href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged
+  fullName: CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged
+  nameWithType: TilesetInspectorSettings.OnPropertyChanged
 - uid: CarbideFunction.Wildtile.Editor.TilesetInspectorStage
   name: TilesetInspectorStage
   href: api/CarbideFunction.Wildtile.Editor.TilesetInspectorStage.html
@@ -1960,6 +2707,47 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.TransientUserSettings.waveFunctionCollapseLoggingEnabled
   fullName: CarbideFunction.Wildtile.Editor.TransientUserSettings.waveFunctionCollapseLoggingEnabled
   nameWithType: TransientUserSettings.waveFunctionCollapseLoggingEnabled
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector
+  name: TriangleOnModuleFaceDetector
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector
+  nameWithType: TriangleOnModuleFaceDetector
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace(System.Single,System.Single)
+  name: AreFloatsEqualOnFace(Single, Single)
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html#CarbideFunction_Wildtile_Editor_TriangleOnModuleFaceDetector_AreFloatsEqualOnFace_System_Single_System_Single_
+  commentId: M:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace(System.Single,System.Single)
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace(System.Single, System.Single)
+  nameWithType: TriangleOnModuleFaceDetector.AreFloatsEqualOnFace(Single, Single)
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace*
+  name: AreFloatsEqualOnFace
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html#CarbideFunction_Wildtile_Editor_TriangleOnModuleFaceDetector_AreFloatsEqualOnFace_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.AreFloatsEqualOnFace
+  nameWithType: TriangleOnModuleFaceDetector.AreFloatsEqualOnFace
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3[],System.Int32[],SubMeshDescriptor,Vector3,CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  name: FindAndReportFacesOnModuleBoundsFace(Vector3[], Int32[], SubMeshDescriptor, Vector3, TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html#CarbideFunction_Wildtile_Editor_TriangleOnModuleFaceDetector_FindAndReportFacesOnModuleBoundsFace_Vector3___System_Int32___SubMeshDescriptor_Vector3_CarbideFunction_Wildtile_Editor_TriangleOnModuleFaceDetector_OnFoundFaceOnModuleBoundsFace_
+  commentId: M:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3[],System.Int32[],SubMeshDescriptor,Vector3,CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  name.vb: FindAndReportFacesOnModuleBoundsFace(Vector3(), Int32(), SubMeshDescriptor, Vector3, TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3[], System.Int32[], SubMeshDescriptor, Vector3, CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  fullName.vb: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3(), System.Int32(), SubMeshDescriptor, Vector3, CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  nameWithType: TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3[], Int32[], SubMeshDescriptor, Vector3, TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+  nameWithType.vb: TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace(Vector3(), Int32(), SubMeshDescriptor, Vector3, TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace)
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace*
+  name: FindAndReportFacesOnModuleBoundsFace
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html#CarbideFunction_Wildtile_Editor_TriangleOnModuleFaceDetector_FindAndReportFacesOnModuleBoundsFace_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace
+  nameWithType: TriangleOnModuleFaceDetector.FindAndReportFacesOnModuleBoundsFace
+- uid: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace
+  name: TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace
+  href: api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace.html
+  commentId: T:CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace
+  fullName: CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace
+  nameWithType: TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace
 - uid: CarbideFunction.Wildtile.Editor.UserSettings
   name: UserSettings
   href: api/CarbideFunction.Wildtile.Editor.UserSettings.html
@@ -2054,6 +2842,12 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.VoxelGridEditor.OnInspectorGUI
   nameWithType: VoxelGridEditor.OnInspectorGUI
+- uid: CarbideFunction.Wildtile.EmptyAsset
+  name: EmptyAsset
+  href: api/CarbideFunction.Wildtile.EmptyAsset.html
+  commentId: T:CarbideFunction.Wildtile.EmptyAsset
+  fullName: CarbideFunction.Wildtile.EmptyAsset
+  nameWithType: EmptyAsset
 - uid: CarbideFunction.Wildtile.Face
   name: Face
   href: api/CarbideFunction.Wildtile.Face.html
@@ -2621,6 +3415,19 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.GridPlacer.InterruptMeshGeneration
   nameWithType: GridPlacer.InterruptMeshGeneration
+- uid: CarbideFunction.Wildtile.GridPlacer.IsGenerating
+  name: IsGenerating
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_IsGenerating
+  commentId: P:CarbideFunction.Wildtile.GridPlacer.IsGenerating
+  fullName: CarbideFunction.Wildtile.GridPlacer.IsGenerating
+  nameWithType: GridPlacer.IsGenerating
+- uid: CarbideFunction.Wildtile.GridPlacer.IsGenerating*
+  name: IsGenerating
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_IsGenerating_
+  commentId: Overload:CarbideFunction.Wildtile.GridPlacer.IsGenerating
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.GridPlacer.IsGenerating
+  nameWithType: GridPlacer.IsGenerating
 - uid: CarbideFunction.Wildtile.GridPlacer.maxCollapseSteps
   name: maxCollapseSteps
   href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_maxCollapseSteps
@@ -2694,6 +3501,12 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.GridPlacer.SetTileset
   nameWithType: GridPlacer.SetTileset
+- uid: CarbideFunction.Wildtile.GridPlacer.showObjectsInHierarchy
+  name: showObjectsInHierarchy
+  href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_showObjectsInHierarchy
+  commentId: F:CarbideFunction.Wildtile.GridPlacer.showObjectsInHierarchy
+  fullName: CarbideFunction.Wildtile.GridPlacer.showObjectsInHierarchy
+  nameWithType: GridPlacer.showObjectsInHierarchy
 - uid: CarbideFunction.Wildtile.GridPlacer.Tileset
   name: Tileset
   href: api/CarbideFunction.Wildtile.GridPlacer.html#CarbideFunction_Wildtile_GridPlacer_Tileset
@@ -3279,6 +4092,19 @@ references:
   commentId: T:CarbideFunction.Wildtile.Postprocessing.Postprocessor
   fullName: CarbideFunction.Wildtile.Postprocessing.Postprocessor
   nameWithType: Postprocessor
+- uid: CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects(GameObject)
+  name: CloneAndReferenceTransientObjects(GameObject)
+  href: api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.html#CarbideFunction_Wildtile_Postprocessing_Postprocessor_CloneAndReferenceTransientObjects_GameObject_
+  commentId: M:CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects(GameObject)
+  fullName: CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects(GameObject)
+  nameWithType: Postprocessor.CloneAndReferenceTransientObjects(GameObject)
+- uid: CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects*
+  name: CloneAndReferenceTransientObjects
+  href: api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.html#CarbideFunction_Wildtile_Postprocessing_Postprocessor_CloneAndReferenceTransientObjects_
+  commentId: Overload:CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Postprocessing.Postprocessor.CloneAndReferenceTransientObjects
+  nameWithType: Postprocessor.CloneAndReferenceTransientObjects
 - uid: CarbideFunction.Wildtile.Postprocessing.Postprocessor.Postprocess(GameObject,CarbideFunction.Wildtile.Postprocessing.PostprocessableMap)
   name: Postprocess(GameObject, PostprocessableMap)
   href: api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.html#CarbideFunction_Wildtile_Postprocessing_Postprocessor_Postprocess_GameObject_CarbideFunction_Wildtile_Postprocessing_PostprocessableMap_
@@ -4104,6 +4930,19 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.VoxelMesher.ChangeMaterials
   nameWithType: VoxelMesher.ChangeMaterials
+- uid: CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh(CarbideFunction.Wildtile.VoxelGrid,Vector3,Vector3Int,Vector3Int)
+  name: CreateAndGenerateMesh(VoxelGrid, Vector3, Vector3Int, Vector3Int)
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_CreateAndGenerateMesh_CarbideFunction_Wildtile_VoxelGrid_Vector3_Vector3Int_Vector3Int_
+  commentId: M:CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh(CarbideFunction.Wildtile.VoxelGrid,Vector3,Vector3Int,Vector3Int)
+  fullName: CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh(CarbideFunction.Wildtile.VoxelGrid, Vector3, Vector3Int, Vector3Int)
+  nameWithType: VoxelMesher.CreateAndGenerateMesh(VoxelGrid, Vector3, Vector3Int, Vector3Int)
+- uid: CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh*
+  name: CreateAndGenerateMesh
+  href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_CreateAndGenerateMesh_
+  commentId: Overload:CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh
+  nameWithType: VoxelMesher.CreateAndGenerateMesh
 - uid: CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform,System.Int32,System.Nullable{Vector3Int},System.Nullable{Vector3Int})
   name: CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform, Int32, Nullable<Vector3Int>, Nullable<Vector3Int>)
   href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_System_Int32_System_Nullable_Vector3Int__System_Nullable_Vector3Int__
@@ -4151,6 +4990,24 @@ references:
   commentId: F:CarbideFunction.Wildtile.VoxelMesher.FaceData.voxelCoordinate
   fullName: CarbideFunction.Wildtile.VoxelMesher.FaceData.voxelCoordinate
   nameWithType: VoxelMesher.FaceData.voxelCoordinate
+- uid: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh
+  name: VoxelMesher.GeneratedMesh
+  href: api/CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html
+  commentId: T:CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh
+  fullName: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh
+  nameWithType: VoxelMesher.GeneratedMesh
+- uid: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.mesh
+  name: mesh
+  href: api/CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html#CarbideFunction_Wildtile_VoxelMesher_GeneratedMesh_mesh
+  commentId: F:CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.mesh
+  fullName: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.mesh
+  nameWithType: VoxelMesher.GeneratedMesh.mesh
+- uid: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.trianglesToFaceData
+  name: trianglesToFaceData
+  href: api/CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html#CarbideFunction_Wildtile_VoxelMesher_GeneratedMesh_trianglesToFaceData
+  commentId: F:CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.trianglesToFaceData
+  fullName: CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.trianglesToFaceData
+  nameWithType: VoxelMesher.GeneratedMesh.trianglesToFaceData
 - uid: CarbideFunction.Wildtile.VoxelMesher.GetFaceDataForTriIndex(System.Int32)
   name: GetFaceDataForTriIndex(Int32)
   href: api/CarbideFunction.Wildtile.VoxelMesher.html#CarbideFunction_Wildtile_VoxelMesher_GetFaceDataForTriIndex_System_Int32_
@@ -4319,6 +5176,19 @@ references:
   commentId: T:CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor
   fullName: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor
   nameWithType: WelderPostprocessor
+- uid: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects(GameObject)
+  name: CloneAndReferenceTransientObjects(GameObject)
+  href: api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html#CarbideFunction_Wildtile_WelderPostprocessing_WelderPostprocessor_CloneAndReferenceTransientObjects_GameObject_
+  commentId: M:CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects(GameObject)
+  fullName: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects(GameObject)
+  nameWithType: WelderPostprocessor.CloneAndReferenceTransientObjects(GameObject)
+- uid: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects*
+  name: CloneAndReferenceTransientObjects
+  href: api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html#CarbideFunction_Wildtile_WelderPostprocessing_WelderPostprocessor_CloneAndReferenceTransientObjects_
+  commentId: Overload:CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.CloneAndReferenceTransientObjects
+  nameWithType: WelderPostprocessor.CloneAndReferenceTransientObjects
 - uid: CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.Postprocess(GameObject,PostprocessableMap)
   name: Postprocess(GameObject, PostprocessableMap)
   href: api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html#CarbideFunction_Wildtile_WelderPostprocessing_WelderPostprocessor_Postprocess_GameObject_PostprocessableMap_

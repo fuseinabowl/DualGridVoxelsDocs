@@ -197,11 +197,167 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.yml",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.yml",
       "output": {
         ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.ITilesetInspectorDiagnosticsDrawer.html",
-          "hash": "WOLKqIun83Lo1XfpRVz1+CHoyymS3hHB9HKf7fWheJQ="
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.HashCollision.html",
+          "hash": "KEx/vBumLUVg3IJ9kzTVhRUoxdQKCKhU5meVNYM6CDE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.ModuleWithFacesOnACubeFace.html",
+          "hash": "dm4Obs87uiaJzcbdVmNHp4swoyI4ZjgZI7A6EMjHViU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.OutOfBoundsModule.html",
+          "hash": "04ks3b9woU4EeCI01AzE2sENedr0CJUvRGGTr/FFnDs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.SuperInsideCornerModule.html",
+          "hash": "JtPz4mtXBANEeAKuuU5JLd6ZplsDZbQGttKX78w7SWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportDetails.html",
+          "hash": "1pECRB+/ZjlA6azYCoRZdu2kE565wfv2D3UQ7vz8CTM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.Data.html",
+          "hash": "5zYLGLZ7qlMRTrYdqnuvh0ojV7Gd/nJtBYY3lRTEsCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.HashCollisionSubWindow.html",
+          "hash": "qn6Rq8Vx1imj6K0sFCZ7A+vF1ramTWX5bN/TtNJd8/A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.Data.html",
+          "hash": "B2LP7lgRKRijP5wzd/HlnYz9jKP2jlkIsWx50JXdqtc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.MissingTilesSubWindow.html",
+          "hash": "dvrow+IYY/KWFi+B+gICq5XPsHE7b9fw0PuumS3Wh3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.SubWindow.html",
+          "hash": "w5HcFKH608qf219qsCZbHvZeKoG347WDiC7uP0QxMmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindow.html",
+          "hash": "VQeC+DphMZZtF+KlyRb29Zy8FdqvwwI4EQRAa1QlXV0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParameters.html",
+          "hash": "LuNbVaMgkubkj8P2suAiAhlKX1uxPy8ygmTXq90qduU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.html",
+          "hash": "cFkUqbolCBJ4HPc0yKYb/FRlEpQrHs9NRPs+QfT2RLU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ImportReport.html",
+          "hash": "ZMoqzq4EVp0GRhdM+IfQCMOb/sSkW/cHuYVEWQq3+z4="
         }
       },
       "is_incremental": false,
@@ -237,7 +393,79 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.ListViewBinder.html",
-          "hash": "L/wVRtT1VJ2SybaZQaVDVmpC7kPQNjJ54dXqziHICuk="
+          "hash": "vuSmBMvddrRMB0qwfBBpqr2WjtCvL7ioyqSYY5WkCIk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParameters.html",
+          "hash": "68ROWMHHY0picwtBzzBUCdiQWVbYGlt2cA6yEznyxd0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersEditor.html",
+          "hash": "ES3q/F8DbcfCMm6I9RvxABB6cket1WZhrd1Cc6fUIGc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.CreateTileModel.html",
+          "hash": "l6T3TVXIy1OACfB47axrBWWh9uJRLfRSZzWJzFUZNHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.MinimalTilesThatCanRotateAndFlipToCreateAllTilesGenerator.html",
+          "hash": "QlrUJDwBKmPMK1hLhVsJ9TAQ/NewD3OCAA8907yoOAw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.Tile.html",
+          "hash": "vGGRLqNS17gLZycbDILhhV6YIbKQmebqyyO9ikZmioI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.MissingTilesParametersGenerators.html",
+          "hash": "hgi/VuUH6LpbNKs7rgoFJcUAR3oKXYs565JHPxnMcBo="
         }
       },
       "is_incremental": false,
@@ -273,7 +501,19 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.html",
-          "hash": "zxEaO/lRpfvTvqxFWOAwi/M/ubSdfYxFJ+mFy2nIZLo="
+          "hash": "+d+YIAm8SMmeA2Jok7WiMUdmtxMqCls51gPISYkPgWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.MeshTriangleOnBoundsFace.html",
+          "hash": "cal+gIlvFmlx/K8r48CjpNSFbkLf4YjBzRZo3+cWUHc="
         }
       },
       "is_incremental": false,
@@ -285,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ModuleConnectivityData.html",
-          "hash": "nb/ex6ooepkXhMhS5zkKEBjpTQSssyYLH35dgwIP/lA="
+          "hash": "n2NeA7s1BmmmJ0/0/ozc5jCR+krJK1iPs+q5RYLmduI="
         }
       },
       "is_incremental": false,
@@ -309,7 +549,43 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html",
-          "hash": "jOjugE64WLBdYBVFHfRbhOVpPjqQG0TOyBWFkYMWuyA="
+          "hash": "gDIb30G0MhtAuKbBnPzocu5l+IaLCjXfG9M7oHubrRI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.html",
+          "hash": "JHRWih4MKdjT/m0laL3Nk09OHZ0lzziw3IhUQyuuDBs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html",
+          "hash": "W8tVOzn2H2Vowcg1dGOSGRnS3HP9ca+Yw1ObFzkUpoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.SearchConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.SearchConfiguration.html",
+          "hash": "mpN3zeF1bJG4z02RkuHkCKpiVBgfLyECZDdjW5vADiQ="
         }
       },
       "is_incremental": false,
@@ -333,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.Report.html",
-          "hash": "NpORnMYozpynWFFxsWn7oSqMCgLAJmNxw6lX/zNM4Vg="
+          "hash": "U34m0vaWKev4tuCFydVrUCkKp7SD75s9lSWgnevuo8Q="
         }
       },
       "is_incremental": false,
@@ -345,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.UnconnectableModule.html",
-          "hash": "Up30FCgu16J0JccH1sfiiVlTqZTZ1KDSjyBXcEUltZ0="
+          "hash": "7dbCQOANwpsvBZn2yaqOw7+mBz7WR4bpZ8rmbKmwqxY="
         }
       },
       "is_incremental": false,
@@ -357,19 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzer.html",
-          "hash": "a2XFK+W82dl6204kzINi9E6KaUHzJLCpCzpwUlb4znE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetAnalyzerWindow.html",
-          "hash": "e+J5NqNIqOPFupORNFxzhtSrthYQTafo5xtjqXnSe8o="
+          "hash": "QNdOux8CtcjrSW4KvlaX1hL4bhn+ezjjB0t7N5L4ZZg="
         }
       },
       "is_incremental": false,
@@ -381,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.DeepHashCollisionReporter.html",
-          "hash": "vDlNZsBf+7fs63ebBK1FCbS1khqrWFzPPIRM/wmvXCQ="
+          "hash": "IzhwUq7+lYikvqjQW8E6kyM+lRuoj7cf4p3zUqno0tM="
         }
       },
       "is_incremental": false,
@@ -393,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.FaceIdentifierAndOppositeHash.html",
-          "hash": "8/qyQSoCZ2jaqRuyLwJ4XHM0AyD5Mc2ot8RVxQy4DiI="
+          "hash": "ViMJnGPLCOvitnqutqNXkXw58vi5lLxl4I4n58nkQlo="
         }
       },
       "is_incremental": false,
@@ -405,19 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.HashCollisionReporter.html",
-          "hash": "j0ohw8Wvgua5AjD1CruxkrtloL/8Ag2W4T+T2FX3iv4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetImporterEditor.ModuleFaceIdentifier.html",
-          "hash": "tpb9FPr+XnAR2XVohY2GxO4Rw4jcEshbT0m/tlGWZiA="
+          "hash": "EcYsKs/uRxE8f+NquOVFE8nx2yCUM40vP/Du3E8ArB4="
         }
       },
       "is_incremental": false,
@@ -441,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspector.html",
-          "hash": "+yYa1+Wr265T7YxFA0PM/4pbiJqtVqEaYbuOH1z764U="
+          "hash": "IwQ4sdRFg6jzys/pqFyr17HbUgWboGyiaGP4DiyLLsA="
         }
       },
       "is_incremental": false,
@@ -501,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ConnectionsDrawer.html",
-          "hash": "UfgDD0YI5M8J5smSNomYPiv6Bm/jRlo5dWCNKF0qcBk="
+          "hash": "6sCcqp/nP3jJKgMqIo/bovJ8DVm4Np3XFlnufQmNAG4="
         }
       },
       "is_incremental": false,
@@ -513,7 +765,19 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.EdgesMismatchDrawer.html",
-          "hash": "5DGPZXRvlY/4q6EKrK6cY/shFQVyDfn80+EjSZEINV4="
+          "hash": "HSVP+GuoN7+DZvvQEXQmztKpGat68Vi7wVlV6qjgPsA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.IDiagnosticsDrawer.html",
+          "hash": "BdVq8wY1m0OqYjqVcgRF8bIkraQIE4UjwsvWeCizmH8="
         }
       },
       "is_incremental": false,
@@ -525,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.MaterialsMismatchDrawer.html",
-          "hash": "MUAwAkhHaFzan7+6Jt6Hlf99QiTHDKmhQC0mDsyHkXE="
+          "hash": "oOZYBbt2YpkVBQpH98mtgntAnHhQpAcOFXGs9Ol3rQ4="
         }
       },
       "is_incremental": false,
@@ -537,7 +801,55 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.NormalsMismatchDrawer.html",
-          "hash": "EC0nmL2P///665Gji+P2kr7HrXscaa4vvyWdXspxNf4="
+          "hash": "S8vaj0K2o7VcDgw+NAG1F4l05y4KDay6XfhPRhNXNQY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawer.html",
+          "hash": "EI95OlFi7N9Owi4SSR7xAior+AzaiIi2C7bJp099GyQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResources.html",
+          "hash": "I2rFqhKT9GXTIaO3Ff78FDZOxaeF5ePbdUmEnUrOFiY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceDrawerResourcesAccess.html",
+          "hash": "cr+y90qh5eq+UFk0UpfC4LMhk915/kDSIhMdMpEi48c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.TrianglesOnModuleFaceMeshCreator.html",
+          "hash": "XQf2r23uU8W5Q1XEuXzgXBmMIH49fGARiERYm506GIk="
         }
       },
       "is_incremental": false,
@@ -549,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.UnknownMismatchDrawer.html",
-          "hash": "Pzr7IUhYDnv3/YAWSF3/cFfiLKBJDNbyASgLdnhPt1U="
+          "hash": "V5Zaydn1L1a94VWqih6qDwxXfz7/Xmr1nHoSLg+UGFY="
         }
       },
       "is_incremental": false,
@@ -561,19 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.ValidConnectionsDrawer.html",
-          "hash": "FT3QON3EvyWXz43lxujg1AN5pYtJq8/ywQTekPU1aFI="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VertexContentsDrawer.html",
-          "hash": "2gHyfR6Ggg3TitzAg2GsV0ZaX7X9TZg16VuQJUQHtyE="
+          "hash": "eVB4IOFT7kqA0I1jeGiwAtksU61hweUeoe7tk1Gb0/k="
         }
       },
       "is_incremental": false,
@@ -585,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.VerticesMismatchDrawer.html",
-          "hash": "RXb6v13YuzddUFs50dIncVd8GAp1ZEvouNHNTSMy1L0="
+          "hash": "AhrF+XtPZUow70/hGNN1OpCCf2nIp0tnG9WtlWEouHA="
         }
       },
       "is_incremental": false,
@@ -597,7 +897,19 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorDiagnosticsDrawer.html",
-          "hash": "huThK5EJCBAZIv3qzoMO10oP0ASZpOoyW5JSFzCWMq0="
+          "hash": "aH/fLcXBqYmyV/HOHMSxMip5qYeQX5g0P7S3SSOqT1U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.OnPropertyChanged.html",
+          "hash": "mNBOYQwXLDCJENfHuSdHsy6h7TmmMMHpD4hrDiAevVU="
         }
       },
       "is_incremental": false,
@@ -609,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TilesetInspectorSettings.html",
-          "hash": "w3LNFjfBNtK0bc4m3sMnJo94AfJ+x4ILU90eB5F/fh4="
+          "hash": "tt+1cRIdOfegsQeDA049EXcrSWDm7RT6Csjojj5DNiw="
         }
       },
       "is_incremental": false,
@@ -634,6 +946,30 @@
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.TransientUserSettings.html",
           "hash": "Lg4bUuUBKyyqVakrku38ePgnxjDwaPIh0/yM2z9wBn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.OnFoundFaceOnModuleBoundsFace.html",
+          "hash": "Rx5CiTTITWcCvnZgjSdr1mn4bHhOaplZaYoVLGroyoc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.TriangleOnModuleFaceDetector.html",
+          "hash": "aXCyIl4KpE8vVI91lnOLal++KSpQPwvXz5M8rcvZJHw="
         }
       },
       "is_incremental": false,
@@ -693,7 +1029,19 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.html",
-          "hash": "3/gHU49ECE/VTU3OJTO39cx9Mtp+4m+GL/2sF/2TWmo="
+          "hash": "eaA7apo6AZ+G0a/zXSV0Z8wmGJFt1cep8rmdQfP6TGs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.EmptyAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.EmptyAsset.html",
+          "hash": "eQo8M+lMJAr0LjGs5F9oMzbY5D8YTkedpUcOWpmnnB4="
         }
       },
       "is_incremental": false,
@@ -837,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.GridPlacer.html",
-          "hash": "5T9HiKNsYgA8FR4YPK7VnGoT7aO7Od9pp/keBkdIOpg="
+          "hash": "F2e9n5pPr2ghh/GMkPasIHHULChxBAzrqTkjBBbxbJU="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Postprocessing.Postprocessor.html",
-          "hash": "zRqaMUXi5Bi1n8yMMJEILwomYxFPwTBnCSClKkDS5W8="
+          "hash": "m10OevUiTgQQYa6G8VJycuOC74r99L7pC7tBWi4UAdw="
         }
       },
       "is_incremental": false,
@@ -1361,11 +1709,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html",
+          "hash": "lSf2G6A8Yhcp4CRzSyxhaonb1b8U+VFbkSheGeU9gUw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.yml",
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.VoxelMesher.html",
-          "hash": "3xs7ne0hg+WsOruqh9ZmVuhbHCrfiJHNgtfkPcSaaJw="
+          "hash": "Dx766ith6JHhGHzS8ukHBbs/PlqZJmhIEmRUf4wEK8U="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.WelderPostprocessing.WelderPostprocessor.html",
-          "hash": "68xF6FJK5eHlsy/HQZPiWxdqcxMYbckYBo6x+vaUOM4="
+          "hash": "jwuhJMCz4tNwGHry5G2S14NKqWOwnlGhZgQJcWc8GwM="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.html",
-          "hash": "S/SW6p2z3rYX/pzuAdBsxqVNI/9bISheNHh8R67+sCg="
+          "hash": "E8+k1LBf1ZzLFI54Ctp74NFgpSuW4XIpJrKRwV98Slk="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "I2DgOmxXnihUkxylSr2u3SmFXMcpym3AyHOnSKkwUZU="
+          "hash": "oI0GANSFBUKJOIU7fJd2CIxDmQvzwNStlqAJonbZiVU="
         }
       },
       "is_incremental": false,
@@ -1548,7 +1908,7 @@
           "hash": "KgEeOl/mO9mLQj9afSssFF6ayz65zltITeyOM5KzQk4="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1560,7 +1920,7 @@
           "hash": "7/dK0mPLQ5lXmtA3Iq0j2XnIoxqTpfsyBskE8ZbUDEw="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1572,7 +1932,7 @@
           "hash": "JPmsABge/avxokGiswnoW07IoYREapCE3RAYN5FRk5U="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1584,7 +1944,7 @@
           "hash": "5Z2I2GqgqQ8bX5q/FAHWqFn5Jr89mMtPpAxUORY+Vt4="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1596,7 +1956,7 @@
           "hash": "P9UFo5jzluYwTYbcNNXbYAysv9ZUhBE6c/KNStyepkE="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1608,7 +1968,7 @@
           "hash": "GmTVqzhHppI9Ar17K5axsutNkCt0pqAS1d6jFDnOADg="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1620,7 +1980,7 @@
           "hash": "cldXyJNlDFuGSvVH5znzmXIiCtw9JZMMlmi8OeRhJb4="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1632,7 +1992,7 @@
           "hash": "pW/62BBwL0FpzgqdIRAY/WiQ1KkGRyqGbTiEFLFHMm4="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1909,7 +2269,7 @@
           "hash": "0uAu6UTsXafhgoM/I0P1Kh1QhBh/T6LLCqh6hYaryVE="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -1928,25 +2288,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 11,
-          "skipped_file_count": 0
+          "skipped_file_count": 11
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 125,
-          "skipped_file_count": 0
+          "total_file_count": 155,
+          "skipped_file_count": 18
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,

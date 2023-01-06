@@ -175,6 +175,70 @@
   </table>
   
   
+  <a id="CarbideFunction_Wildtile_VoxelMesher_CreateAndGenerateMesh_" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh*"></a>
+  <h4 id="CarbideFunction_Wildtile_VoxelMesher_CreateAndGenerateMesh_CarbideFunction_Wildtile_VoxelGrid_Vector3_Vector3Int_Vector3Int_" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateAndGenerateMesh(CarbideFunction.Wildtile.VoxelGrid,Vector3,Vector3Int,Vector3Int)">CreateAndGenerateMesh(VoxelGrid, Vector3, Vector3Int, Vector3Int)</h4>
+  <div class="markdown level1 summary"><p>Generates a simple mesh for the voxel grid, intended for use with level editors. It also populates <code data-dev-comment-type="paramref" class="paramref">trianglesToFaceDataToUpdate</code> with information about which coordinate is behind the tile and which is in front of the tile, making it easier to add or remove tiles when you click on them.</p>
+<p>The output includes two submeshes: Submesh zero holds the map's surface. Submesh one holds the map's boundary, facing inwards.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static VoxelMesher.GeneratedMesh CreateAndGenerateMesh(VoxelGrid map, Vector3 tileDimensions, Vector3Int editableAreaBias, Vector3Int editableAreaSize)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.VoxelGrid.html">VoxelGrid</a></td>
+        <td><span class="parametername">map</span></td>
+        <td><p>A map of filled/empty cubes. This map's surface will be created and saved in the output <code data-dev-comment-type="paramref" class="paramref">meshToPopulate</code>.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">tileDimensions</span></td>
+        <td><p>The size of a single cube. The mesh's points will be scaled to match, so the caller will not have to do any scaling afterwards.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3Int</span></td>
+        <td><span class="parametername">editableAreaBias</span></td>
+        <td><p>The lower left corner of the area that will be meshed. This should be zero to create a mesh for the whole map. Accepts any value between 0 and the map's size in each vector component.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Vector3Int</span></td>
+        <td><span class="parametername">editableAreaSize</span></td>
+        <td><p>The size of the area that will be meshed, in each coordinate. This should be the map's dimensions for the whole map. Accepts any value between 0 and the map's size - <code data-dev-comment-type="paramref" class="paramref">editableAreaBias</code> along each coordinate.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html">VoxelMesher.GeneratedMesh</a></td>
+        <td><p>Returns the mesh and associated triangle data as a <a class="xref" href="CarbideFunction.Wildtile.VoxelMesher.GeneratedMesh.html">VoxelMesher.GeneratedMesh</a>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
   <a id="CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels*"></a>
   <h4 id="CarbideFunction_Wildtile_VoxelMesher_CreateMeshedVoxels_CarbideFunction_Wildtile_VoxelGrid_Vector3_Material_Material_Transform_System_Int32_System_Nullable_Vector3Int__System_Nullable_Vector3Int__" data-uid="CarbideFunction.Wildtile.VoxelMesher.CreateMeshedVoxels(CarbideFunction.Wildtile.VoxelGrid,Vector3,Material,Material,Transform,System.Int32,System.Nullable{Vector3Int},System.Nullable{Vector3Int})">CreateMeshedVoxels(VoxelGrid, Vector3, Material, Material, Transform, Int32, Nullable&lt;Vector3Int&gt;, Nullable&lt;Vector3Int&gt;)</h4>
   <div class="markdown level1 summary"></div>

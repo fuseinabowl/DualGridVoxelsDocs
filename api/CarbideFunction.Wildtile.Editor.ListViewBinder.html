@@ -111,13 +111,40 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public static class ListViewBinder</code></pre>
   </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="CarbideFunction_Wildtile_Editor_ListViewBinder_defaultItemHeight" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.defaultItemHeight">defaultItemHeight</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public const int defaultItemHeight = 16</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   
   
   <a id="CarbideFunction_Wildtile_Editor_ListViewBinder_BindListView_" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.BindListView*"></a>
   <h4 id="CarbideFunction_Wildtile_Editor_ListViewBinder_BindListView__1_ListView_System_Collections_Generic_IEnumerable___0__" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.BindListView``1(ListView,System.Collections.Generic.IEnumerable{``0})">BindListView&lt;TContents&gt;(ListView, IEnumerable&lt;TContents&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Add data to the list view.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -163,12 +190,12 @@
   
   
   <a id="CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial_" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial*"></a>
-  <h4 id="CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial__1_ListView_CarbideFunction_Wildtile_Editor_ListViewBinder_ApplyContentsToUi___0__" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0})">SetupListViewInitial&lt;TContents&gt;(ListView, ListViewBinder.ApplyContentsToUi&lt;TContents&gt;)</h4>
+  <h4 id="CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial__1_ListView_CarbideFunction_Wildtile_Editor_ListViewBinder_ApplyContentsToUi___0__System_Int32_System_Func_VisualElement__" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0},System.Int32,System.Func{VisualElement})">SetupListViewInitial&lt;TContents&gt;(ListView, ListViewBinder.ApplyContentsToUi&lt;TContents&gt;, Int32, Func&lt;VisualElement&gt;)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void SetupListViewInitial&lt;TContents&gt;(ListView listView, ListViewBinder.ApplyContentsToUi&lt;TContents&gt; applyContentsToUi)</code></pre>
+    <pre><code class="lang-csharp hljs">public static void SetupListViewInitial&lt;TContents&gt;(ListView listView, ListViewBinder.ApplyContentsToUi&lt;TContents&gt; applyContentsToUi, int itemHeight = 16, Func&lt;VisualElement&gt; createEmptyItemElement = null)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -188,6 +215,16 @@
       <tr>
         <td><a class="xref" href="CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi-1.html">ListViewBinder.ApplyContentsToUi</a>&lt;TContents&gt;</td>
         <td><span class="parametername">applyContentsToUi</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">itemHeight</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Func</span>&lt;<span class="xref">VisualElement</span>&gt;</td>
+        <td><span class="parametername">createEmptyItemElement</span></td>
         <td></td>
       </tr>
     </tbody>
