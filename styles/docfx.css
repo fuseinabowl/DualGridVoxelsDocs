@@ -200,6 +200,7 @@ header {
 header .navbar {
   border-width: 0 0 1px;
   border-radius: 0;
+  padding-left: calc(100vw - 100%);
 }
 .navbar-brand {
   font-size: inherit;
@@ -509,7 +510,7 @@ body .toc{
   color: #666666;
   margin-left: 5px;
   display: block;
-  padding: 0;
+  padding: 1px 0px;
 }
 .toc .nav > li > a:hover,
 .toc .nav > li > a:focus {
@@ -551,8 +552,9 @@ body .toc{
 }
 
 .toc ul{
-  font-size: 12px;
-  margin: 0 0 0 3px;
+  font-weight: normal;
+  margin: 5px 0 5px 15px;
+  font-size: 14px;
 }
 
 .toc .level1 > li {
@@ -562,15 +564,7 @@ body .toc{
   font-size: 16px;
 }
 .toc .nav.level2 {
-  font-weight: normal;
-  margin: 5px 0 0 15px;
-  font-size: 14px;
-  list-style: circle;
   padding-left: 2rem
-}
-.toc .nav.level2 > li {
-  margin: 5px 0 0 5px;
-  display: list-item;
 }
 .toc-toggle {
   display: none;

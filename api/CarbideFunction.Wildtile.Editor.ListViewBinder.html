@@ -191,7 +191,8 @@
   
   <a id="CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial_" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial*"></a>
   <h4 id="CarbideFunction_Wildtile_Editor_ListViewBinder_SetupListViewInitial__1_ListView_CarbideFunction_Wildtile_Editor_ListViewBinder_ApplyContentsToUi___0__System_Int32_System_Func_VisualElement__" data-uid="CarbideFunction.Wildtile.Editor.ListViewBinder.SetupListViewInitial``1(ListView,CarbideFunction.Wildtile.Editor.ListViewBinder.ApplyContentsToUi{``0},System.Int32,System.Func{VisualElement})">SetupListViewInitial&lt;TContents&gt;(ListView, ListViewBinder.ApplyContentsToUi&lt;TContents&gt;, Int32, Func&lt;VisualElement&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Set up a list view for the first time. This only needs to be called once for a list view, and must be called before <a class="xref" href="CarbideFunction.Wildtile.Editor.ListViewBinder.html#CarbideFunction_Wildtile_Editor_ListViewBinder_BindListView__1_ListView_System_Collections_Generic_IEnumerable___0__">BindListView&lt;TContents&gt;(ListView, IEnumerable&lt;TContents&gt;)</a> is called.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -225,7 +226,8 @@
       <tr>
         <td><span class="xref">System.Func</span>&lt;<span class="xref">VisualElement</span>&gt;</td>
         <td><span class="parametername">createEmptyItemElement</span></td>
-        <td></td>
+        <td><p>Pass in a custom constructor that will be used to create different UI elements in the list view. If this parameter is missing or <code>null</code> then <a class="xref" href="CarbideFunction.Wildtile.Editor.ListViewBinder.html">ListViewBinder</a> will default to creating a single label for each item.</p>
+</td>
       </tr>
     </tbody>
   </table>

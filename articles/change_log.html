@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Version 2.0.1 </title>
+    <title>Version 3.1.0 </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Version 2.0.1 ">
+    <meta name="title" content="Version 3.1.0 ">
     <meta name="generator" content="docfx 2.59.1.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -67,8 +67,62 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h3 id="version-201">Version 2.0.1</h3>
+<h3 id="version-310">Version 3.1.0</h3>
 
+<ul>
+<li>added support for URP and HDRP (keeping support for Built-in RP)</li>
+<li>added kitchen interior example tileset</li>
+<li>added 3.0.0 changelog to the documentation (it was only on the store page previously)</li>
+<li>added tileset debugger page to documentation table of contents (it was only accessible through in-page hyperlinks previously)</li>
+<li>added comprehensive Tileset Inspector reference to documentation</li>
+<li>refactored tileset inspector, preparing it for future improvements</li>
+<li>fixed orphaned connected module model when moving from a populated tileset to an empty tileset in the tileset inspector</li>
+<li>fixed flipped indicators for connected module subinspector edge mismatch drawer</li>
+</ul>
+<h3 id="version-300---inspector-improvements">Version 3.0.0 - Inspector Improvements</h3>
+<ul>
+<li>added import report, shown after importing a tileset
+<ul>
+<li>added unconnectable modules list to import report</li>
+<li>added triangles-on-module-face list to import report</li>
+<li>added colliding face hashes to import report</li>
+<li>added out-of-bounds modules to import report</li>
+<li>added missing marching cube list to import report
+<ul>
+<li>includes a live orbitable visual representation for ease of use</li>
+</ul>
+</li>
+<li>most issues in the report can be double clicked to view the issue in the tileset inspector</li>
+</ul>
+</li>
+<li>improved tileset inspector
+<ul>
+<li>added face hits and running total &quot;insideness&quot; to the corner contents sub inspector</li>
+<li>added tris-on-module-face inspector mode, highlighting mesh triangles that lie on the module boundary</li>
+<li>added out-of-bounds vertices inspector mode, highlighting vertices that are outside of the module as defined by the TilesetImporter asset's tile width and height</li>
+</ul>
+</li>
+<li>removed fine-grain assemblies
+<ul>
+<li>intended to give simpler user experience</li>
+<li>users don't have to look up exactly which dependencies they need</li>
+<li>future updates won't break dependencies if code moves into or between sub folders as it will remain in the same assembly</li>
+</ul>
+</li>
+<li>added checkbox to GridPlacer to show the placed objects in the hierarchy window
+<ul>
+<li>these objects will be destroyed and recreated when entering play mode or loading another scene, including any modifications to them</li>
+</ul>
+</li>
+<li>added button to GridPlacer to clone a permanent instance of the placed objects
+<ul>
+<li>this object persists into play mode/across scene reloads, including any edits you make to it</li>
+</ul>
+</li>
+<li>fixed using the GridPlacer in a prefab stage during play mode not placing objects</li>
+<li>fixed &quot;Undo object may not be null&quot; when pressing TilesetImporter→Import in some cases</li>
+</ul>
+<h3 id="version-201">Version 2.0.1</h3>
 <ul>
 <li>moved example orbit controller from &quot;Wildtile Web Demo&quot; to &quot;Wildtile&quot; in the create asset context menu</li>
 <li>removed unused zoom controller and demo object references scripts</li>
@@ -84,12 +138,18 @@
 <ul>
 <li>added voxel map editor</li>
 <li>added dual-grid model importer</li>
-<li>added &quot;voxel map to model&quot; placer component</li>
+<li>added &quot;voxel map to model&quot; placer component
+<ul>
 <li>WFC powered model placer</li>
 <li>contradiction and missing tile handling and indication</li>
-<li>added Tileset Inspector tool</li>
+</ul>
+</li>
+<li>added Tileset Inspector tool
+<ul>
 <li>tile corner inspector</li>
 <li>connected tiles inspector</li>
+</ul>
+</li>
 </ul>
 </article>
           </div>

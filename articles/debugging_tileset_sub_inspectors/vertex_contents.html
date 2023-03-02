@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Vertex Contents </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Vertex Contents ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="vertex-contents">Vertex Contents</h1>
+
+<p>This mode shows how Wildtile has calculated where modules can be placed. The scene view includes an arrow pointing at one of the tile's corners. The arrow head's colour indicates whether Wildtile will import the tile with that corner inside or outside: A yellow head indicates the vertex is outside, and a dark blue head indicates it is inside.</p>
+<p><img src="../../images/tileset_inspector/corner_contents/corner_contents_intro.png" alt="corner contents intro"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>The inside-outside colours can be remembered as yellow vertices are outside so they can see the sun; dark blue vertices are inside and are in shade.</p>
+</div>
+<h2 id="which-problems-are-identified">Which Problems Are Identified?</h2>
+<p>If the GridPlacer places modules that do not conform to the map (e.g. with edges jutting out into space) then it is possible the modules have incorrect corner-insideness/vertex contents.</p>
+<p><img src="../../images/tileset_inspector/corner_contents/bad_corner_contents_replacing_tile.gif" alt="valid and invalid corner contents"></p>
+<h2 id="how-to-use-this-inspector-to-solve-the-problem">How To Use This Inspector To Solve The Problem?</h2>
+<p>Select the misbehaving module in the modules list and set the Inspection Mode to Vertex Contents.</p>
+<p>Select different Vertices to see how Wildtile interprets the model for the different corners of the cube.</p>
+<p><img src="../../images/tileset_inspector/corner_contents/corner_contents_subinspector_basic_interaction.gif" alt="corner contents subinspector basic interaction"></p>
+<p>The inspector shows how Wildtile performs its insideness calculations. Wildtile picks an arbitrary triangle to start from, and shoots a ray from the middle of this triangle towards the corner. The ray starts inside or outside depending on the starting-triangle's direction - the ray will start as outside if the starting triangle faces the corner and inside if the triangle faces away from the corner.</p>
+<p>Triangles indicate which faces the ray intersects with, and the circles show where on the surface the ray crosses. The colour of the triangle and circle show whether the ray is hitting the front or back of the face - blue indicates the ray is hitting the front face and going inside the mesh, and yellow indicates the ray is hitting the back face and emerging out of the mesh.</p>
+<p>The ray shows a running total of the insideness. When the ray hits a face it will change its insideness. In well formed modules, the ray will show exactly one line and will always hit the opposite face to its current insideness (if it is inside (blue), the next closest face to the arrowhead will be a backface (yellow).</p>
+<p><img src="../../images/tileset_inspector/corner_contents/complex_corner_contents.png" alt="complex corner contents"></p>
+<p>If the mesh is non-manifold, it is possible for the ray to become super-inside or super-outside. This will happen if it hits two front faces or two back faces in a row. If the mesh is non-manifold then Wildtile cannot reliably calculate the corner-insideness for it.</p>
+<p><img src="../../images/tileset_inspector/corner_contents/corner_contents_super_outside.png" alt="super outside corner contents"></p>
+<p>If the ray hits faces you do not want it to that have the same material, you can exclude the whole material using the Tileset Importer's Material Import Settings. In your Tileset Importer asset, find <code>Importer Settings</code> → <code>Material Import Settings</code> and find or add an item for that material. Then, ensure that <code>Is Part of Manifold Mesh</code> is unchecked.</p>
+<div class="WARNING">
+<h5>Warning</h5>
+<p>The tileset importer needs at least one material marked as <code>Is Part of Manifold Mesh</code>. If there are no manifold mesh materials then all materials will default to being part of the manifold mesh, even if there are no <code>Material Import Settings</code> for them.</p>
+</div>
+<p>Conversely, if the ray does not hit faces that you want it to, you should find or add an item for those materials too. Then, ensure that <code>Is Part of Manifold Mesh</code> is checked.</p>
+<p><img src="../../images/tileset_inspector/corner_contents/corner_contents_adding_material_is_manifold.gif" alt="adding manifold material corner contents"></p>
+<p>If the error cannot be solved by changing how Wildtile interprets materials, you can edit the mesh in the same tool you used to author the mesh originally (normally an external modelling tool like Blender or 3DS Max). Then, reexport the model to Unity and refresh the inspector.</p>
+<p>Explore the <a href="../import_settings.html">import settings</a> for more information on how to use the Tileset Importer's Material Import Settings.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

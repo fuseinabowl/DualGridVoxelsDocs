@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Debugging Connected Modules Using the Tileset Debugger </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Debugging Connected Modules Using the Tileset Debugger ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="debugging-connected-modules-using-the-tileset-debugger">Debugging Connected Modules Using the Tileset Debugger</h1>
+
+<p>Wildtile checks many face edge features in sequence to determine if they match. This diagnostics view will show the earliest phase of face matching that fails. In some cases, repairing one phase will show errors in a subsequent phase, other times repairing one phase will be all that is required and the tiles will match afterwards.</p>
+<h2 id="vertex-positions">Vertex Positions</h2>
+<p>Wildtile first checks that the vertices match between the two faces. If the faces do not match, all vertices are highlighted.</p>
+<p>Matching vertices are marked with green dots and lines connecting the vertices to their partner vertex on the other face.</p>
+<p>Mismatched vertices are marked with blue or red dots (depending on whether they are in the blue or red box). If you want the modules to connect to one another, you must either remove these vertices or move them so they match their partner vertex on the other face.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/mismatched_vertices.gif" alt="mismatching vertices"></p>
+<h2 id="edges-including-vertex-order">Edges (Including Vertex Order)</h2>
+<p>Any edges that match will be highlighted in green with a dotted line connecting the edge to its partner edge on the other face.</p>
+<p>Edges that do not have a partner are highlighted as red or blue.</p>
+<p>If there appears to be a matching edge, check the arrowheads halfway along each edge. If they point in different directions then the polygons face the opposite direction to one another like in the gif below.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/mismatched_edges.gif" alt="mismatching vertices"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>Sometimes two sided polygons can creep into otherwise matching models. This will show as a green dotted line connecting a red or blue edge to a green edge.</p>
+<p>Use your modelling software to check the model with the non-green highlighted edge for two sided polygons.</p>
+</div>
+<h2 id="normals">Normals</h2>
+<p>If the module faces do not match then all edges and normals will be highlighted.</p>
+<p>The inspector highlights matching edges in green with magenta normal-sticks, with green dotted lines between them and their partner.</p>
+<p>The inspector highlights mismatched edges in red with red normal-sticks, and includes the normal vector values used for comparison. Wildtile multiplies the normal vectors by a large number (usually 64, but this can be changed in the <code>Tileset Importer</code>) and then rounds them to the nearest value.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/mismatched_normals.gif" alt="mismatching normals"></p>
+<p>The rounding fixes issues where computers are not accurate enough to calculate the same value (e.g. 0.75 and 0.7501), but sometimes the inaccuracy spans a rounding boundary. In this case, you will need to edit one of the edges' normals to match the other one.</p>
+<p>If <code>Tileset Importer</code> → <code>must match normals</code> is turned off for a material then those edges will have a normal of (0,0,0).</p>
+<h2 id="material-matching">Material Matching</h2>
+<p>Finally, Wildtile checks that the materials match. Any mismatched materials will show up with a red dotted line between them. The red line is linked to material previews of the two edges' materials in the top left.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/mismatched_materials.gif" alt="mismatching materials"></p>
+<p>You can click either of the materials to select them. If your project window is unlocked then it will also navigate to the material.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/mismatched_materials_selection.gif" alt="mismatching materials"></p>
+<h2 id="unknown-mismatch">Unknown Mismatch</h2>
+<p><img src="../../images/tileset_inspector/connected_modules/advanced/unknown_mismatch.png" alt="unknown mismatch"></p>
+<p>Normally this means the models have been updated and now fit together but the tileset has not been reimported. Use the <code>Reimport</code> button in the Tileset Inspector to recalculate the connectivity.</p>
+<p>Errors during import (e.g. message boxes or console messages) may prevent the import, and the modules will remain unconnected until you fix these issues.</p>
+<p>If there are no warnings when importing and the modules remain unconnected then please report this on the <a href="https://discord.com/invite/UyWAhnycjD">Wildtile Discord</a>.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

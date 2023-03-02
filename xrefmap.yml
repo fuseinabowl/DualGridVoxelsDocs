@@ -1409,6 +1409,19 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
   nameWithType: ModelTileConnectivityCalculator.ConnectiveFaceDefinition.ToString
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace(CarbideFunction.Wildtile.Face)
+  name: DirectionToConnectiveFace(Face)
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_DirectionToConnectiveFace_CarbideFunction_Wildtile_Face_
+  commentId: M:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace(CarbideFunction.Wildtile.Face)
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace(CarbideFunction.Wildtile.Face)
+  nameWithType: ModelTileConnectivityCalculator.DirectionToConnectiveFace(Face)
+- uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace*
+  name: DirectionToConnectiveFace
+  href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_DirectionToConnectiveFace_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.DirectionToConnectiveFace
+  nameWithType: ModelTileConnectivityCalculator.DirectionToConnectiveFace
 - uid: CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.faceDefinitions
   name: faceDefinitions
   href: api/CarbideFunction.Wildtile.Editor.ModelTileConnectivityCalculator.html#CarbideFunction_Wildtile_Editor_ModelTileConnectivityCalculator_faceDefinitions

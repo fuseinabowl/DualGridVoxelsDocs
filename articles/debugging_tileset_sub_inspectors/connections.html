@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Connections </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Connections ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="connections">Connections</h1>
+
+<p>This mode shows all available neighbours in the lower list box in the editor window and displays a neighbour tile on the stage alongside the current tile. Clicking on a neighbour from the list will show the newly selected neighbour in the scene view. If the neighbour does not connect with the main module the Inspector will also show the issues that prevent the connection in the scene view.</p>
+<p><img src="../../images/first_tileset/connections_debugger.gif" alt="connections debugging"></p>
+<p>The Elements dropdown box contains three options: <code>Valid Only</code>, <code>Matching Vertex Contents</code>, and <code>All</code>.</p>
+<p><code>Valid Only</code> only shows neighbours that match along the selected face.</p>
+<p><code>Matching Vertex Contents</code> shows all neighbours that share vertex inside-ness on the selected face.
+The inspector shows the matching tiles in grey and mismatching tiles in red.</p>
+<p>Selecting a red neighbour tile shows it on the stage, separated from the main tile. It will also indicate why Wildtile will not connect the tiles, whether it's mismatches between vertex positions, edges, normals, or materials.</p>
+<p><code>All</code> shows all tiles, even ones with conflicting tile-corner insideness, e.g. having a ground floor below another ground floor.
+The inspector shows tiles that do not share vertex insideness in green.</p>
+<p>If you spot a tile that should be connected amongst the green tiles, check the <a href="vertex_contents.html">vertex contents</a> of the current tile and the neighbour tile - Wildtile's importer has incorrectly interpreted one or the other. You must change the model or the import settings to fix it.</p>
+<h2 id="which-problems-are-identified">Which Problems Are Identified?</h2>
+<p>You should use this inspector if you're editing a map and spot a wildcard where you'd expect a module to be. The connected modules inspector will explain why Wildtile has rejected the placement.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/wildcard_placement.png" alt="wildcard placement"></p>
+<p>It can also show why two modules are placed next to one another when they should not match up.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/incorrect_tile_placement.png" alt="incorrect tile placement"></p>
+<h2 id="how-to-use-this-inspector-to-solve-the-problem">How To Use This Inspector To Solve The Problem?</h2>
+<p>When you spot a wildcard where you expect a module to be, double click on the module you expect to be placed there in the top module list. This will open the module inspection stage in the scene view.</p>
+<details>
+<summary>I cannot find the module in the modules list</summary>
+<p>If the module is not in the modules list, it is likely that the tileset did not import successfully. Follow these steps to fix common issues:</p>
+<ol>
+<li><p>Export the tileset model from your modelling software to the Unity assets folder.</p>
+</li>
+<li><p>Refresh the project. This is normally automatic, but you can press <code>ctrl</code>+<code>R</code> to force a Unity refresh</p>
+</li>
+<li><p>Open the Tileset Importer asset by double clicking on it in the Tileset Inspector</p>
+</li>
+<li><p>Navigate to the model you just exported from your modelling software. Drag it onto the Source Model field in the Tileset Importer.</p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>You can keep the Tileset Importer asset open by clicking on the lock icon in the top right of the asset inspector</p>
+<p><img src="../../images/tileset_inspector/connected_modules/lock_inspector.png" alt="Lock inspector"></p>
+</div>
+</li>
+<li><p>Click reimport on the Tileset Inspector</p>
+</li>
+<li><p>Check and read any error dialogs that appear during import</p>
+</li>
+<li><p>Check for errors in the Unity console. Errors should only appear here if there is an issue within Wildtile - please report these as bugs on <a href="https://discord.com/invite/UyWAhnycjD">Discord</a></p>
+</li>
+<li><p>Check the modules again for your intended module</p>
+</li>
+</ol>
+<p>If the module is still missing from the Tileset Importer there could be an issue in Wildtile. Please report this as a bug on <a href="https://discord.com/invite/UyWAhnycjD">Discord</a>, including a zip of your model and your tileset importer asset.</p>
+</details>
+<p>Set the Inspection Mode to Connections, set the Elements to All, and set Side to any face. A red wire box will appear in the scene view next to the existing box. The red box may contain another model.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/sides_red_box.gif" alt="red box sides"></p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>If you are adding similar models or fixing existing models, it may be easier to set Elements to Matching Vertex Contents. This will hide all results highlighted in green.</p>
+<p>Adding tiles with new materials or editing the Tileset Importer asset may introduce tile insideness issues. Using Matching Vertex Contents in this case may hide modules that you are looking for.</p>
+</div>
+<p>The Connected Modules list will be filled with all modules in your tileset, including all rotations and mirrors.</p>
+<p>Find the module in the Connected Modules list that you expect to be connected on the face pointing to the red box. This is likely to be the module that the GridPlacer has placed next to the wildcard. The module's background colour will indicate if Wildtile believes the two modules can connect.</p>
+<p>If the module has a green highlight then the modules do not share corner-insideness, so Wildtile will not place one or both of the modules at your expected part of the map before even considering if they connect to one another.
+You can diagnose how Wildtile has calculated both modules' corner-insidenesses in the <a href="vertex_contents.html">Vertex Contents</a> inspection mode.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/green_highlight_mismatch.png" alt="green highlight mismatch"></p>
+<p>If the module has a red highlight then they have matching corner-insideness but Wildtile has analysed them to have different face edges.
+After clicking on a module in the connected module list it will appear in the scene view inside the red wire box, along with diagnostics explaining why the modules do not connect to one another.</p>
+<p><img src="../../images/tileset_inspector/connected_modules/red_highlight_mismatch.png" alt="red highlight mismatch"></p>
+<p><a href="debugging_tileset_connected_module.html">Click here for information on how to use the connected module debugger in the scene view.</a></p>
+<p>If the modules match (they are unhighlighted/grey in the connected module window) then those modules do not prohibit placement and will not introduce the wildcard. Check the other sides in turn and follow the same steps.</p>
+<p>If all sides connect to your expected module, ensure those modules are the ones surrounding your wildcard.</p>
+<div class="TIP">
+<h5>Tip</h5>
+<p>You can find the name of the modules placed by the GridPlacer.</p>
+<ol>
+<li>In the Tileset Importer asset, set the Postprocessor Creator to <code>WildtileSimplePlacerPostprocessorCreator</code>, which is included in the Wildtile package</li>
+<li>In the GridPlacer component, check <code>Show Objects in Hierarchy</code></li>
+<li>In the GridPlacer component, click the <code>Force Map Rebuild</code> button</li>
+</ol>
+<p>You can now see the objects in the hierarchy window, and can select them in the scene view by clicking on the tile twice (do not double click on the tile)</p>
+</div>
+<p>If the modules surrounding the wildcard are different to the modules you just checked, other modules do not connect to one another somewhere else in the map.</p>
+<p>The best way to find the modules that do not match is to make smaller maps find a placement without wildcards, then iteratively make them larger and larger until wildcards appear. When the wildcards appear, you know that the unconnectable modules lie somewhere in the part of the map that was just added.</p>
+<p>If the modules surrounding the wildcard are the modules that you expect and the wildcard remains, check if multiple modules in your tileset share the same name.
+If there are no modules with the same name, make one final pass of reimporting the tileset and forcing the GridPlacer to regenerate the map - if this still does not fix the issue then request help on <a href="https://discord.com/invite/UyWAhnycjD">Discord</a>.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

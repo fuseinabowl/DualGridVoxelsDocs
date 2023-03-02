@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Outside of Bounds </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Outside of Bounds ">
+    <meta name="generator" content="docfx 2.59.1.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="outside-of-bounds">Outside of Bounds</h1>
+
+<p>Meshes that extend out of the module dimensions described in your Tileset Importer asset cause Wildtile to misinterpret insideness and face connectivity.</p>
+<h2 id="which-problems-are-identified">Which Problems Are Identified?</h2>
+<p>If a module does not connect to other modules as it should or has an unexpected corner insideness, use this inspector to check if the module also has vertices outside of the mesh bounds.</p>
+<h2 id="how-to-use-this-inspector-to-solve-the-problem">How To Use This Inspector To Solve The Problem?</h2>
+<p>Set Inspection Mode to Outside of Bounds. The scene view will highlight any vertices that are out of bounds with red circles in the scene view.</p>
+<p><img src="../../images/tileset_inspector/out_of_bounds/out_of_bounds_example.png" alt="out of bounds example">)</p>
+<details>
+<summary>
+Some vertices are outside the module bounds, but they do not have red circles
+</summary>
+<p>These vertices are still illegal.</p>
+<p>If there are a very large number of vertices out of bounds then some circles may be hidden to improve editor performance. As you remove the visible out of bounds vertices, Wildtile will start showing the other vertices.</p>
+<p>All out of bounds vertices are always shown in the list in the Tileset Inspector panel.</p>
+</details>
+<p>You can see the list of out of bounds vertices in a list in the Tileset Inspector. Clicking on a vertex will highlight the vertex with a white circle in the scene view instead of red. Double clicking a vertex in this list will zoom the scene view camera to that vertex.</p>
+<details>
+<summary>
+Some vertices in the list highlight the same vertex in the scene view
+</summary>
+<p>When modelling software exports meshes they split vertices that aren't exactly identical on different faces. For example, a cube cannot share vertices between the top face and the side face - even though they share positions they have different normals.</p>
+<p>Wildtile lists all vertices, even if they are generated from a single vertex in your modelling software.</p>
+<p><img src="../../images/tileset_inspector/out_of_bounds/vertex_splitting_on_export.png" alt="vertex splitting"></p>
+</details>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>

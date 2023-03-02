@@ -4,8 +4,30 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+details {
+  margin: 1em 0 1em 0;
+  padding: 1em 1em 0.5em 1em;
+  background-color: #f1f1f1;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}
+
+details > summary {
+  margin: -1em 0em 0 -1em;
+  padding: 1em 1em 0.5em 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+html{margin-left:calc(100vw - 100%);margin-right:0;}
+
+.sideaffix {
+  width: 12.5em;
+}
+
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}
 audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
 audio:not([controls]){display:none;height:0}
 [hidden],template{display:none}
