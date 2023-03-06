@@ -349,12 +349,12 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
   fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
   nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
-- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
-  name: GenerateMesh(Int32)
-  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_System_Int32_
-  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
-  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
-  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh(Int32)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32,Mesh)
+  name: GenerateMesh(Int32, Mesh)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_System_Int32_Mesh_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32,Mesh)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32, Mesh)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh(Int32, Mesh)
 - uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh*
   name: GenerateMesh
   href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_
