@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html",
-          "hash": "NLgZRFuDi26lb+ZP49G1mCoFxphJpxFXuDQ5mA3efpo="
+          "hash": "MHvqsRGA9tZL+blL9DGcPJR+0FAs+OpGdZL6NP6O8eo="
         }
       },
       "is_incremental": false,
@@ -365,6 +365,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.Installer.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.Installer.Data.html",
+          "hash": "+8KD1t7hFcZOhNQYxzRavV+8UCFsh1TNmxWhc+2D8oo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.Installer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.Installer.html",
+          "hash": "tAHS/c3Sa3kCGgMlVI+/3n1M3O1j9WYv49OtuXvB1LA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.Editor.LayerAttributeEditor.yml",
       "output": {
         ".html": {
@@ -569,11 +593,59 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ProjectSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ProjectSettings.html",
+          "hash": "4gj6BTqmHuijIWb4lrFAbYfT2JUQiVcfjsr5ssD4syQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.html",
+          "hash": "NZWM87cBBjEZaA1zH1ovQMmK5q+bPNxuwmwrYLDQ2iU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.yml",
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html",
           "hash": "W8tVOzn2H2Vowcg1dGOSGRnS3HP9ca+Yw1ObFzkUpoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.html",
+          "hash": "aADantPdlopr+MUeuz4eawQzxVFIixHUDuZtB+T2D9s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html",
+          "hash": "d5WbSwSYm2S5BtjPNLcPAl28RIJ3SjuDYy9ads2+xgE="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CarbideFunction.Wildtile.Editor.html",
-          "hash": "eaA7apo6AZ+G0a/zXSV0Z8wmGJFt1cep8rmdQfP6TGs="
+          "hash": "rTcFRvwyegOQ3gXWcQzSUvqZP46NSQpjT7t42RoT34I="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "oI0GANSFBUKJOIU7fJd2CIxDmQvzwNStlqAJonbZiVU="
+          "hash": "aKST69OGPiZ8v7jP1dJuZZ2qNzWELHWbsS75cCslGGk="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/change_log.html",
-          "hash": "DV7UaDYxi2Tk6jTz5+VQkEwQ6yXissvPZRA/0zBEFjo="
+          "hash": "987pN+AaFX4hbiUgXB+ygSu3kIYt0LBUnTeZZzIVd8c="
         }
       },
       "is_incremental": false,
@@ -2013,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/getting_started.html",
-          "hash": "P9UFo5jzluYwTYbcNNXbYAysv9ZUhBE6c/KNStyepkE="
+          "hash": "ZEGmnzQOQbzydDsSJXQRu6FYC20RKgGyTkBOYFJkKX4="
         }
       },
       "is_incremental": false,
@@ -2629,7 +2701,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 155,
+          "total_file_count": 161,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

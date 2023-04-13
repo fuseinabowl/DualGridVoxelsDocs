@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Version 3.1.0 </title>
+    <title>Version 3.2.0 </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Version 3.1.0 ">
+    <meta name="title" content="Version 3.2.0 ">
     <meta name="generator" content="docfx 2.59.1.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -67,15 +67,28 @@
         <div class="article row grid-right">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h3 id="version-310">Version 3.1.0</h3>
+<h3 id="version-320">Version 3.2.0</h3>
 
+<ul>
+<li>fixed support for URP and HDRP (keeping support for Built-in RP)
+<ul>
+<li>removed &quot;multi-target&quot; shader (only worked with BiRP)</li>
+<li>added old BiRP shaders for crossed lines and editor-grid surfaces</li>
+<li>added new URP shaders for crossed lines and editor-grid surfaces to URP support .unitypackage</li>
+<li>added new HDRP shaders for crossed lines and editor-grid surfaces to HDRP support .unitypackage</li>
+<li>added installer that infers the project's render pipeline and offers to install the relevant support package</li>
+<li>added example tilesets' upgraded materials to the URP and HDRP support packages, so users do not have to upgrade the materials themselves</li>
+</ul>
+</li>
+<li>fixed &quot;stackalloc&quot; warning when installing Wildtile</li>
+</ul>
+<h3 id="version-310">Version 3.1.0</h3>
 <ul>
 <li>added support for URP and HDRP (keeping support for Built-in RP)</li>
 <li>added kitchen interior example tileset</li>
 <li>added 3.0.0 changelog to the documentation (it was only on the store page previously)</li>
 <li>added tileset debugger page to documentation table of contents (it was only accessible through in-page hyperlinks previously)</li>
 <li>added comprehensive Tileset Inspector reference to documentation</li>
-<li>replaced crossed line models and shaders with empty and filled block models for wildcards (only have to support 1 multi-RP shader now)</li>
 <li>refactored tileset inspector, preparing it for future improvements</li>
 <li>fixed orphaned connected module model when moving from a populated tileset to an empty tileset in the tileset inspector</li>
 <li>fixed flipped indicators for connected module subinspector edge mismatch drawer</li>

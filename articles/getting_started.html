@@ -81,6 +81,13 @@ In Unity, select <code>Window</code>→<code>Package Manager</code>.</p>
 If you cannot see Wildtile in the left list, you can search for it using the text box in the top right.</p>
 <p>Once you have found and clicked on Wildtile, click on <code>Download</code> in the bottom right. After downloading, this button will change to <code>Import</code>. Click it again to import the package into your project. Import the whole project, including the examples folders. We will be using models from the examples later in this tutorial.</p>
 <p><img src="../images/installing_package.gif" alt="installing package example"></p>
+<h2 id="installing-render-pipeline-support">Installing Render Pipeline Support</h2>
+<p>Wildtile supports all three Unity render pipelines. The out-of-the-box Wildtile install is configured to support the Built-in Render Pipeline, but when you first install Wildtile it will check which render pipeline you use. If your project uses URP or HDRP then Wildtile will offer to start supporting the relevant render pipeline. Normally, clicking <code>Install</code> will install the correct support, or you can cancel installing the extra support if Wildtile has chosen an incorrect render pipeline.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>If you would like to preview the support files before installing them you can double click on the pipeline support packages at <code>Assets/CarbideFunction/Wildtile/Support/</code>. Unity will open a window that lists the support files, with an option to import them.</p>
+<p>Alternatively, you can click on the menu bar <code>Edit</code>→<code>Project Settings</code> to open the Project Settings window, then select <code>Wildtile</code>→<code>installer</code>→<code>Rerun installer</code> to force Wildtile to check the render pipeline again and offer to install the relevant support. This is useful if you've migrated from the Built-in Render Pipeline to either of the other pipelines.</p>
+</div>
 <h1 id="setting-up-the-tileset">Setting up the Tileset</h1>
 <h2 id="creating-the-importer-and-the-tileset-assets">Creating the Importer and the Tileset assets</h2>
 <p>The importer stores information about how Wildtile should import your models so that you can edit the model externally and reimport it reliably. The importer asset typically does not need to be delivered with your built game (Unity will automatically ignore it as long as nothing is referencing it).</p>

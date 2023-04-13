@@ -349,12 +349,12 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
   fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
   nameWithType: DualGridVoxelMeshBackupTilesEditor.FolderPaths.wildcards
-- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32,Mesh)
-  name: GenerateMesh(Int32, Mesh)
-  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_System_Int32_Mesh_
-  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32,Mesh)
-  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32, Mesh)
-  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh(Int32, Mesh)
+- uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  name: GenerateMesh(Int32)
+  href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_System_Int32_
+  commentId: M:CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  fullName: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh(System.Int32)
+  nameWithType: DualGridVoxelMeshBackupTilesEditor.GenerateMesh(Int32)
 - uid: CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.GenerateMesh*
   name: GenerateMesh
   href: api/CarbideFunction.Wildtile.Editor.DualGridVoxelMeshBackupTilesEditor.html#CarbideFunction_Wildtile_Editor_DualGridVoxelMeshBackupTilesEditor_GenerateMesh_
@@ -1095,6 +1095,49 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.ImportReport.TilesetReportWindowParametersAccess.Parameters
   nameWithType: TilesetReportWindowParametersAccess.Parameters
+- uid: CarbideFunction.Wildtile.Editor.Installer
+  name: Installer
+  href: api/CarbideFunction.Wildtile.Editor.Installer.html
+  commentId: T:CarbideFunction.Wildtile.Editor.Installer
+  fullName: CarbideFunction.Wildtile.Editor.Installer
+  nameWithType: Installer
+- uid: CarbideFunction.Wildtile.Editor.Installer.Data
+  name: Installer.Data
+  href: api/CarbideFunction.Wildtile.Editor.Installer.Data.html
+  commentId: T:CarbideFunction.Wildtile.Editor.Installer.Data
+  fullName: CarbideFunction.Wildtile.Editor.Installer.Data
+  nameWithType: Installer.Data
+- uid: CarbideFunction.Wildtile.Editor.Installer.Data.hasInstalled
+  name: hasInstalled
+  href: api/CarbideFunction.Wildtile.Editor.Installer.Data.html#CarbideFunction_Wildtile_Editor_Installer_Data_hasInstalled
+  commentId: F:CarbideFunction.Wildtile.Editor.Installer.Data.hasInstalled
+  fullName: CarbideFunction.Wildtile.Editor.Installer.Data.hasInstalled
+  nameWithType: Installer.Data.hasInstalled
+- uid: CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/CarbideFunction.Wildtile.Editor.Installer.Data.html#CarbideFunction_Wildtile_Editor_Installer_Data_OnInspectorGUI
+  commentId: M:CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI
+  fullName: CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI()
+  nameWithType: Installer.Data.OnInspectorGUI()
+- uid: CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/CarbideFunction.Wildtile.Editor.Installer.Data.html#CarbideFunction_Wildtile_Editor_Installer_Data_OnInspectorGUI_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.Installer.Data.OnInspectorGUI
+  nameWithType: Installer.Data.OnInspectorGUI
+- uid: CarbideFunction.Wildtile.Editor.Installer.highDefinitionUpgradePackage
+  name: highDefinitionUpgradePackage
+  href: api/CarbideFunction.Wildtile.Editor.Installer.html#CarbideFunction_Wildtile_Editor_Installer_highDefinitionUpgradePackage
+  commentId: F:CarbideFunction.Wildtile.Editor.Installer.highDefinitionUpgradePackage
+  fullName: CarbideFunction.Wildtile.Editor.Installer.highDefinitionUpgradePackage
+  nameWithType: Installer.highDefinitionUpgradePackage
+- uid: CarbideFunction.Wildtile.Editor.Installer.universalUpgradePackage
+  name: universalUpgradePackage
+  href: api/CarbideFunction.Wildtile.Editor.Installer.html#CarbideFunction_Wildtile_Editor_Installer_universalUpgradePackage
+  commentId: F:CarbideFunction.Wildtile.Editor.Installer.universalUpgradePackage
+  fullName: CarbideFunction.Wildtile.Editor.Installer.universalUpgradePackage
+  nameWithType: Installer.universalUpgradePackage
 - uid: CarbideFunction.Wildtile.Editor.LayerAttributeEditor
   name: LayerAttributeEditor
   href: api/CarbideFunction.Wildtile.Editor.LayerAttributeEditor.html
@@ -1695,6 +1738,50 @@ references:
   commentId: F:CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yawIndex
   fullName: CarbideFunction.Wildtile.Editor.ModuleFaceIdentifier.yawIndex
   nameWithType: ModuleFaceIdentifier.yawIndex
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettings
+  name: ProjectSettings
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettings.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ProjectSettings
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettings
+  nameWithType: ProjectSettings
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettings.installer
+  name: installer
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettings.html#CarbideFunction_Wildtile_Editor_ProjectSettings_installer
+  commentId: F:CarbideFunction.Wildtile.Editor.ProjectSettings.installer
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettings.installer
+  nameWithType: ProjectSettings.installer
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettings.Save
+  name: Save()
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettings.html#CarbideFunction_Wildtile_Editor_ProjectSettings_Save
+  commentId: M:CarbideFunction.Wildtile.Editor.ProjectSettings.Save
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettings.Save()
+  nameWithType: ProjectSettings.Save()
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettings.Save*
+  name: Save
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettings.html#CarbideFunction_Wildtile_Editor_ProjectSettings_Save_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ProjectSettings.Save
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettings.Save
+  nameWithType: ProjectSettings.Save
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider
+  name: ProjectSettingsProvider
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.html
+  commentId: T:CarbideFunction.Wildtile.Editor.ProjectSettingsProvider
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider
+  nameWithType: ProjectSettingsProvider
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider
+  name: CreateSettingsProvider()
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.html#CarbideFunction_Wildtile_Editor_ProjectSettingsProvider_CreateSettingsProvider
+  commentId: M:CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider()
+  nameWithType: ProjectSettingsProvider.CreateSettingsProvider()
+- uid: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider*
+  name: CreateSettingsProvider
+  href: api/CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.html#CarbideFunction_Wildtile_Editor_ProjectSettingsProvider_CreateSettingsProvider_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.ProjectSettingsProvider.CreateSettingsProvider
+  nameWithType: ProjectSettingsProvider.CreateSettingsProvider
 - uid: CarbideFunction.Wildtile.Editor.RedrawSceneViews
   name: RedrawSceneViews
   href: api/CarbideFunction.Wildtile.Editor.RedrawSceneViews.html
@@ -1714,6 +1801,88 @@ references:
   isSpec: "True"
   fullName: CarbideFunction.Wildtile.Editor.RedrawSceneViews.Redraw
   nameWithType: RedrawSceneViews.Redraw
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector
+  name: RenderPipelineDetector
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html
+  commentId: T:CarbideFunction.Wildtile.Editor.RenderPipelineDetector
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector
+  nameWithType: RenderPipelineDetector
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName
+  name: currentPipelineAssetClassName
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_currentPipelineAssetClassName
+  commentId: P:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName
+  nameWithType: RenderPipelineDetector.currentPipelineAssetClassName
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName*
+  name: currentPipelineAssetClassName
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_currentPipelineAssetClassName_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.currentPipelineAssetClassName
+  nameWithType: RenderPipelineDetector.currentPipelineAssetClassName
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline
+  name: GetProjectRenderPipeline()
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_GetProjectRenderPipeline
+  commentId: M:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline()
+  nameWithType: RenderPipelineDetector.GetProjectRenderPipeline()
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline*
+  name: GetProjectRenderPipeline
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_GetProjectRenderPipeline_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.GetProjectRenderPipeline
+  nameWithType: RenderPipelineDetector.GetProjectRenderPipeline
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline
+  name: IsProjectUsingHighDefinitionRenderPipeline()
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_IsProjectUsingHighDefinitionRenderPipeline
+  commentId: M:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline()
+  nameWithType: RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline()
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline*
+  name: IsProjectUsingHighDefinitionRenderPipeline
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_IsProjectUsingHighDefinitionRenderPipeline_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline
+  nameWithType: RenderPipelineDetector.IsProjectUsingHighDefinitionRenderPipeline
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline
+  name: IsProjectUsingUniversalRenderPipeline()
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_IsProjectUsingUniversalRenderPipeline
+  commentId: M:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline()
+  nameWithType: RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline()
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline*
+  name: IsProjectUsingUniversalRenderPipeline
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_IsProjectUsingUniversalRenderPipeline_
+  commentId: Overload:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline
+  isSpec: "True"
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline
+  nameWithType: RenderPipelineDetector.IsProjectUsingUniversalRenderPipeline
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline
+  name: RenderPipelineDetector.RenderPipeline
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.html
+  commentId: T:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline
+  nameWithType: RenderPipelineDetector.RenderPipeline
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.HighDefinition
+  name: HighDefinition
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_RenderPipeline_HighDefinition
+  commentId: F:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.HighDefinition
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.HighDefinition
+  nameWithType: RenderPipelineDetector.RenderPipeline.HighDefinition
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.NoneOrUnrecognized
+  name: NoneOrUnrecognized
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_RenderPipeline_NoneOrUnrecognized
+  commentId: F:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.NoneOrUnrecognized
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.NoneOrUnrecognized
+  nameWithType: RenderPipelineDetector.RenderPipeline.NoneOrUnrecognized
+- uid: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.Universal
+  name: Universal
+  href: api/CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.html#CarbideFunction_Wildtile_Editor_RenderPipelineDetector_RenderPipeline_Universal
+  commentId: F:CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.Universal
+  fullName: CarbideFunction.Wildtile.Editor.RenderPipelineDetector.RenderPipeline.Universal
+  nameWithType: RenderPipelineDetector.RenderPipeline.Universal
 - uid: CarbideFunction.Wildtile.Editor.SearchConfiguration
   name: SearchConfiguration
   href: api/CarbideFunction.Wildtile.Editor.SearchConfiguration.html
